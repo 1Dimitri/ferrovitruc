@@ -38,3 +38,30 @@ function Get-TR3 {
     Remove-Item $tempfilename -Force
 
 }
+
+# Create markdown .md files tr3.Md and gare.md from previous function
+function New-TR3MdFiles {
+
+    $tr3 = Get-TR3
+    $tr3filename = 'TR3.md'
+    $stationfilename = 'gare.md'
+    "" | Set-Content $tr3filename -Force
+    "| TR3 | Gare |" | Add-Content $tr3filename -Force
+    "| --- | ---- |" | Add-Content $tr3filename -Force
+    $tr3 | Sort-Object -Property TR3 |   ForEach-Object {
+       
+        "| $($_.tr3) | $($_.station) |" | Add-Content $tr3filename -Force
+    }
+    "" | Add-Content $tr3filename -Force
+
+    "" | Set-Content $stationfilename -Force
+    "| Gare | TR3 |" | Add-Content $stationfilename -Force
+    "| --- | ---- |" | Add-Content $stationfilename -Force
+    $tr3 | Sort-Object -Property Station | ForEach-Object {
+       
+        "| $($_.station) | $($_.tr3) |" | Add-Content $stationfilename -Force
+    }
+    "" | Add-Content $stationfilename -Force
+
+
+}
