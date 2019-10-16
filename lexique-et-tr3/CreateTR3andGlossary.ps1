@@ -1,10 +1,13 @@
-# Get-TR3
+# Split-TR3andGlossary
 #
-# returns a collection of PSCustomObject whose fiels are:
-#
+# returns a collection of PSCustomObject whose fields are:
+# a pair of hashtable
+# TR3
 #  TR3:  1,2,3 letter abbreviation of the train station according to former SNCF's TR3 referential
 #  Station: name of the train station in French, some diacritics may be missing due to source mixing upper and lower letters
-
+# 
+# lex
+#  a term, meaning hashtable
 function Split-TR3andGlossary {
     $SncfGlossaryURLasCSV = 'https://data.sncf.com/explore/dataset/lexique-des-acronymes-sncf/download/?format=csv&timezone=Europe/Berlin&use_labels_for_header=true'
     $tempfilename = [System.IO.Path]::GetTempFileName()
@@ -77,6 +80,10 @@ function New-TR3GlossaryMdFiles {
         "| --- | ---- |" | Add-Content $fn -Force
 
         # todo: put contents
+        $sb = $_.linesb
+        $_.list | ForEach-Object {
+            &$sb | Add-Content $fn -Force
+        }
         "" | Add-Content $fn -Force
 
     }
