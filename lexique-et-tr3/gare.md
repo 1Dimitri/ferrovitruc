@@ -1,3284 +1,3283 @@
 
 | Nom de la gare |AbrÃ©viation |
 | --- | ---- |
-| Chambery Challes Les Eaux | CR |
-| Cauderan Merignac | CUD |
-| Clerval | CVL |
-| Chezy Sur Marne | CYZ |
-| Diemeringen | DRI |
-| Drancy | DRN |
-| Damiatte St Paul | DSP |
-| Donzenac | DZC |
-| Epanvilliers | EPI |
-| Forbach | FB |
-| Fribourg | FG |
-| Fouquereuil | FQE |
-| Foix | FX |
-| Gaillac | GAI |
+| Aachen West | KAW |
+| Aarau (Suisse) | AAV |
+| Abancourt | ABT |
+| Abbeville | ABB |
+| Ablon | ABL |
+| Accous | ACC |
+| Acheres | ACH |
 | Acheres Grand Cormier | GCR |
-| Grand Croix | GCX |
-| Gemeaux | GMX |
-| Haubourdin | HAU |
-| Hombourg | HB |
-| Hildesheim | HDM |
-| Heilles Mouchy | HEC |
-| Hunspach | HUS |
-| Imphy | IPY |
-| Jarville La Malgrange | JA |
-| St Julien Sur Garonne | JUG |
-| Lardenne | KPL |
-| Lausanne | LAU |
-| Landry | LAY |
-| Longueville Sur Scie | LEV |
-| L'hermitage-Mordelles | LHL |
-| Limoux | LMX |
-| Lourches | LOU |
-| Laguepie | LP |
-| La Ricamarie | LRM |
-| Les Essarts Le Roi | LSI |
-| Lespouey Laslades | LYB |
-| Lezennes | LZS |
-| Marseille Mme Arenc | MAA |
-| Ulm Hbf | ULM |
-| Vaumoise | VAU |
-| Versailles Chantiers | VC |
-| Vittel | VIT |
-| Valmondois | VMD |
-| Vielmur Sur Agout | VUG |
-| Wannehain | WHP |
-| Wissous | WIS |
-| Wimille Wimereux | WWX |
-| St Etienne Ep Sirops | XEN |
-| Munster Badishhof | MBF |
-| Montfavet | MFT |
-| Margaux | MGU |
-| Montreuil Sur Mer | MOM |
-| Messempre | MPE |
-| Marquise Rinxent | MRX |
-| Mont St Martin | MSM |
-| Martigues | MTG |
-| Montoire Sur Le L. | MUO |
-| Massy Verrieres | MVW |
-| Monnerville | MW |
-| Mertzwiller | MZW |
-| Niederbronn Les Bains | NLB |
-| Oulchy Breny | OCH |
-| Orgeres | OG |
-| Oberhofen | OHN |
-| Orleans | ORL |
-| Oullins | OUL |
-| Pontcharra-Sur-Breda | PCA |
-| Pleine Fougeres | PFS |
-| Le Plessis Belleville | PLB |
-| Plouharnel-Carnac | PLC |
-| Plenee Jugon | PLJ |
-| Ponthierry Pringy | POP |
-| Porte Puymorens | PPM |
-| Pont De Sallaumines | PSJ |
-| Quimperle | QPL |
-| Rosult | ROT |
-| Sorcy | SCY |
-| St Etienne Du Rouvray | SDR |
-| Saint Eloi | SEL |
-| Stade De France St Denis | SFD |
-| Ste Foy La Grande | SFY |
-| Saint Georges De Commiers | SGC |
-| St Michel Notre Dame | SHL |
-| Sin Le Noble | SIN |
-| Saint Just Sur Loire | SJO |
-| Saint Leger Sur Dheune | SLH |
-| Saint Leu D'esserent | SLT |
-| Saint Ouen | SOS |
-| Saint Saturnin D'avignon | SSA |
-| Seyssel Corbonod | SSS |
-| Stuttgart | STG |
-| Stains | STI |
-| Selestat | STT |
-| St Varent | STV |
-| Aubigny Au Bac | AAB |
-| L Abbaye | ABJ |
-| Argagnon | AGO |
-| Anglefort | ANF |
-| Anvin | ANV |
-| Arcay | ARY |
-| Angers Saint Laud | ASL |
-| Asnieres Les Bourges | ASR |
-| Auffay | AUF |
-| Avignon | AV |
-| Barberay St Sulpice | BBC |
-| Barbentane Rognonas | BBT |
-| Beaumont De Lomagne | BDM |
-| Boulogne Ville | BE |
-| Begles | BGL |
-| Brienne Le Chateau | BRC |
-| Bouray | BSO |
-| Betheneville | BTV |
-| Belvezet | BVZ |
-| Bogny Sur Meuse  | BYU |
-| Colombiers | CBS |
-| Courcelles Sur Nied | CCD |
-| Castelnau D'estretefonds | CDF |
-| Chenay Gagny | CGG |
-| Coignieres | CGW |
-| Chabris | CHH |
-| Chevillon | CIN |
-| Courtenay | CYT |
-| Denfert Rochereau | DFR |
-| Donjeux | DNJ |
-| Glos Montfort | GLO |
-| Dunkerque Grande Synthe | GSY |
-| Gouttieres | GTS |
-| Hanovre | HAN |
-| Tgv Haute Picardie | HPI |
-| Jonchery Sur Vesle | JYV |
-| Krimeri Meinau | KRM |
-| Casamozza | KZZ |
-| L'aigle | LAE |
-| Leforest | LEF |
-| L'estaque | LES |
-| La Freissinouse | LFN |
-| La Folie Marchandises | LFO |
-| L'hospitalet Pres L'and. | LHT |
-| Livron | LIV |
-| La Madeleine Nord | LMA |
-| La Roche Sur Yon | LRY |
-| Lorient | LT |
-| Longueau | LUA |
-| Luxembourg(Cfl) | LUX |
-| Louroux De Bouble | LXB |
-| La Chaux-Des-Crotenay | LXR |
-| Les Yvris Noisy Le Grand | LYV |
-| Maule | MAE |
-| Millau | MAU |
-| Mauze | MAZ |
-| Monceau Sur Sambre | MCW |
-| Montdauphin Guillestre | MDG |
-| Metz Devant Les Ponts | MDP |
-| Musee D'orsay | MDS |
-| Manchester Picadilly | MHS |
-| Marly Le Roi | MLR |
-| Marnaval | MNV |
-| Moutiers-Salins-Brides L.Bains | MOS |
-| Merrey Hte Marne | MRY |
-| Maintenon | MTN |
-| Mullheim | MUK |
-| Mulhouse Nord | MUN |
-| Marlieux Chatillon | MXC |
-| Nangis | NAN |
-| Nerondes | NDS |
-| Nanteuil Le Haudouin | NH |
-| Neufmoutiers En Brie | NMB |
-| Namur | NMR |
-| Ormoy Villers | ORM |
-| Montzen | OZN |
-| Pau | PAU |
-| Puigcerda | PGA |
-| Pressins | PIW |
-| Pons | PN |
-| Paris Ourcq | PO |
-| Pompadour | POM |
-| Petit Quevilly | PQY |
-| Pont St Vincent | PSV |
-| Pagny Sur Meuse | PYM |
-| Quenast | QNT |
-| Rambucourt Bouconville | RAC |
-| Redessan Tgv | RDT |
-| Belfort | BFT |
-| Bauge | BGE |
-| Bievres | BIS |
-| Bobigny | BOB |
-| Bourgoin Jallieu | BRG |
-| Batz Sur Mer | BSK |
-| Bourg-Saint-Maurice | BSM |
-| Barentin | BTM |
-| Bourth | BUT |
-| Brax Leguevin | BXL |
-| Bayonne  | BYE |
-| Champs St Bris | CAI |
-| Corbie | CBI |
-| Cherbourg | CBU |
-| Concarneau | CCA |
-| Chatelaudren Plouagat | CDN |
-| Cesson | CES |
-| Cerons | CGD |
-| Clisson | CLI |
-| Capvern | CPN |
-| Cattenieres | CTT |
-| Chateauroux | CX |
-| Ecouche | ECE |
-| Ecully La Demi Lune | ECY |
-| Erstfeld | ERF |
-| Evron | EVN |
-| Feurs | FEU |
-| Folligny | FOL |
-| Fos Sur Mer | FOS |
-| Fretin Nord | FRI |
-| Fort L Ecluse Collonges | FTC |
-| Foug | FUG |
-| Gardonne | GAO |
-| Gex | GEX |
-| Rothau | RTH |
-| Roubaix Wattrelos | RXW |
-| Sains Du Nord | SAW |
-| St Mesmin Le Vieux | SIX |
-| St Jean De Luz Ciboure | SJZ |
-| Simard | SKD |
-| Sannois | SNN |
-| St Piat | SPI |
-| St Pierre D'aurillac | SPX |
-| Sarreinsming | SRG |
-| Strasbourg Cronenbourg | STC |
-| Sancourt | SUQ |
-| Sevres (R.G.) | SVR |
-| Kornwestheim Pdf | TK |
-| Tende | TND |
-| Tricot | TT |
-| Tra3 - Trappes Voyageurs | TVO |
-| Vaux Et Chantegrue | VAE |
-| Vaas | VAH |
-| La Valbonne | VAO |
-| Vervins | VEV |
-| Varilhes | VIH |
-| Venerque Le Vernet | VQV |
-| Villefranche-Vernet-L.B. | VVB |
-| Vierzy | VYA |
 | Acheres Ville | ACW |
-| Annecy | ACY |
 | Acheux Franleu | AFR |
-| Avignon Fontcouverte | AFT |
-| Augny | AGY |
-| Auterive | AIE |
-| Aniche | ANI |
-| Argenteuil Bv | ARW |
-| Ailly Sur Noye | ASN |
-| Aix En Provence Tgv | AXV |
-| Baud | BAU |
-| Baigts De Bearn | BBR |
-| Perigueux | PX |
-| Pyrimont Chanay | PYY |
-| Rabastens Couffouleux | RAB |
-| Remiremont | RNT |
-| Reims Maison Blanche | RSN |
-| St Sebastien | SBF |
-| Sceaux B0esse | SBO |
-| St Denis Pres Martel | SDM |
-| St Amand De Vendome | SDV |
-| Serqueux | SEQ |
-| Segre | SGR |
-| St Michel Sur Orge | SHO |
-| Saint Julien En Genevois | SJG |
-| St Julien Les Villas | SJN |
-| St Nazaire | SN |
-| Steinbourg | SNG |
-| Chalons En Champagne | CM |
-| Caen | CN |
-| Cassel | CRD |
-| Castres(Tarn) | CT |
-| Cruas | CUA |
-| Cuiseaux | CUI |
-| Chavenon | CVO |
-| Chennevieres Sur Marne | CVU |
-| Cazeres Sur Garonne | CZG |
-| Dinge | DNE |
-| L'escarene | ESR |
-| Etigny Veron | EYV |
-| Garges | GAJ |
-| Gadagne | GDA |
-| Guerigny | GEG |
-| Giat | GIA |
-| Genes | GNO |
-| Jalons Les Vignes | JAL |
-| Jeandelize | JDZ |
-| Jouy/Morin Le Marais | JSM |
-| Juvisy | JY |
-| Lafarge | LAF |
-| Le Buisson | LBU |
-| Lille-Europe | LEW |
-| Liffol Le Grand | LFF |
-| Les Laumes Alesia | LLA |
-| Loulay | LLY |
-| Luneville | LNE |
-| Lesparre | LSE |
-| Letrade | LTD |
-| La Tour De Carol Env. | LTL |
-| Lumbres | LUM |
-| Le Vauriat | LVA |
-| Lezignan La Cebe | LZC |
-| Mas De Ponge | MDJ |
-| Maison Rouge En Brie | MEB |
-| Montieres | MIE |
-| Miribel (Lgv) | MIW |
-| Montpezat | MKA |
-| Montrouge Chatillon | MO |
-| Montataire | MOO |
-| Masseret | MST |
-| Mutzig | MTZ |
-| Mauves Sur Loire | MUE |
-| Metz Nord | MZD |
-| Marcellaz Hauteville | MZH |
-| Najac | NAJ |
-| Neuves Maisons | NAS |
-| Neufchateau | NCH |
-| Neuf Brisach Gare | NFB |
-| Noyelles | NOE |
-| Neustadt Weinstr Hbf | NST |
-| Ollioules Sanary Sur Mer | OLL |
-| Poste R D'orly | OPR |
-| Port D'atelier | PA |
-| Pargny Sur Saulx | PAG |
-| Puybrun | PBN |
-| Pointe De Grave | PDG |
-| Piolenc Tgv | PIC |
-| Pont De Beauvoisin | POB |
-| Pre-En-Pail | PRE |
-| Metzeral | MZL |
-| Notre Dame De Briancon | NAB |
-| Neau | NEA |
-| Niversac | NEC |
-| Nice St Augustin | NIA |
-| Nogent Sur Seine | NOG |
-| Ouest Ceinture | OCT |
-| Oiry | OIR |
-| Ogeu Les Bains | OLB |
-| Oloron Ste Marie | OLN |
-| Pont De Dore | PDO |
-| Pontgibaud | PGB |
-| Paris La Villette | PLV |
-| Pont D'ardres | PRD |
-| Port Ste Marie | PSM |
-| Patay | PT |
-| Pont L'eveque | PVQ |
-| Rive De Gier | RGR |
-| Randan | RND |
-| Reims St Leonard | RSL |
-| Rivesaltes | RVT |
-| Saone | SA |
-| St Sauveur Chateauneuf | SAF |
-| Chateau Arnoux-Saint Auban | SAU |
-| St Clement Laronxe | SCX |
-| St Erme | SER |
-| St Florent Sur Cher | SFT |
-| Sarreguemines | SGS |
-| St Hilaire Au Temple | SHT |
-| Sallaumines | SLI |
-| Saint Gilles | SLW |
-| Salon | SON |
-| Les Salelles | SQL |
-| Sarralbe | SRB |
-| Saint Romain Le Puy | SRP |
-| Suippes | SUI |
-| Thann | THA |
-| Valence Ville | VCE |
-| Val De Reuil | VDR |
-| Villedieu Les Poeles | VDS |
-| Vert Galant | VGL |
-| Vienne | VIE |
-| Villenave D'ornon | VIO |
-| Viry | VIY |
-| Valenton | VON |
-| Vertus | VTS |
-| Vauzelles | VZE |
-| Aulnay Sous Bois | AB |
-| Arc Et Senans | ACA |
-| Ancerville Gue | ACE |
-| Aiton | ANB |
-| Arrou | AOU |
-| Arlanc | ARL |
-| Bagnac | BAG |
-| Bordeaux Bastide | BBD |
-| Bourbourg | BBU |
-| Boisset (Cantal) | BCL |
-| Beuxes | BEX |
-| Bourg En Bresse | BGB |
-| Birmingham International | BGM |
-| Bourgneuf En Retz | BGZ |
-| Bohain | BHI |
-| Biot | BJO |
-| Boulouris Sur Mer | BOU |
-| Beaurepaire | BRP |
-| Bressuire | BRS |
-| Bailleul Sur Therain | BST |
-| Bazeilles | BZI |
-| St Pierre La Cour | SPC |
-| Saverdun | SRN |
-| Seltz | SSZ |
-| Saint Peray | STP |
-| St Vaast Bosvillei | SVA |
-| Sauveterre La Lemance | SVE |
-| Severac | SVG |
-| Penhoet | SZP |
-| Tacoignieres Richebourg | TAE |
-| Ancy Le Franc | ACF |
+| Achiet | ACT |
+| Aerop 1 Ch De Gaulle | RSY |
+| Aerop 2 Ch De Gaulle - Rer | RYR |
+| Aerop 2 Ch De Gaulle - Tgv | RYT |
 | Agde | AGD |
-| Avenue Henri Martin | AHM |
+| Agen | AN |
+| Agonac | AGA |
+| Aguessac | AUS |
+| Aiffres | AIF |
+| Aig Ipcs Km.64,2 (St Rambert) | RBK |
+| Aigle | AGL |
+| Aiguebelle | AEB |
+| Aigueblanche | AGB |
+| Aigueperse | AGE |
+| Aigues Mortes | AIM |
+| Aigues Vives | AIV |
+| Aiguille Malebarge Km 19,6 | AML |
+| Aiguillon | AIN |
+| Aigurande | AIG |
+| Aillevillers | AI |
+| Ailly Sur Noye | ASN |
+| Ailly Sur Somme | AYS |
+| Aimargues | AIA |
+| Aime La Plagne | AGN |
+| Aire Sur L'adour | AA |
+| Airvault | AIR |
+| Aiserey | ASI |
+| Aisy | AIY |
+| Aiton | ANB |
+| Aix En Othe Villemaur | AEO |
+| Aix En Provence | AXP |
+| Aix En Provence Marchandises | APM |
+| Aix En Provence Tgv | AXV |
+| Aix La Marsalouse | AAE |
+| Aix Les Bains Le Revard | AIX |
 | Aixe Sur Vienne | ASV |
-| Avenue Foch | AVF |
-| Badan | BAD |
-| Brumath | BAH |
-| Bocognano | BKO |
-| Bellignat | BNI |
-| Brioude | BRD |
-| Brebieres Sud | BSU |
-| Buzy En Bearn | BUZ |
-| Creutzwald(Ep Hbl) | CCX |
-| Cavignac | CGC |
-| Chiasso | CIA |
-| Civaux | CIZ |
-| Templeuve | TEM |
-| Tieffenbach Struth | TFF |
-| Thouars | TH |
-| Thuret | THT |
-| Turckheim | TKM |
-| Tournes | TOR |
-| Valognes | VAL |
-| Vergigny Prs 15 | VEG |
-| Viazac | VIZ |
-| Velars | VLA |
-| Villefranche Sur Cher | VSC |
-| Vidauban | VUB |
-| Vezenobres | VZN |
-| Wardrecques | WAD |
-| Walbourg | WAL |
-| Woippy | WPY |
-| Waregem | WRM |
-| Cambiador Irun | CB |
-| Cases De Pene | CDP |
-| Champ De Courses D'engh | CEG |
-| Cartagena | CGN |
-| Chailly Boissy | CIB |
-| Chemin Peseux | CNX |
-| Chateaumeillant | CTM |
-| Chur | CU |
-| Chaville (R.G.) | CVI |
-| Clairvaux | CVX |
-| Daours | DAO |
-| Darsac | DAR |
-| Dordives | DDI |
-| Digne | DGN |
-| Genelard | GEL |
-| Givors Canal | GIC |
-| Gourdon | GO |
-| Grisolles | GRI |
-| Guillaucourt | GUT |
-| Hourcade Triage | HDE |
-| Hellemmes | HEL |
-| Immendingen | IMN |
-| Janville | JAN |
-| Jussey | JUS |
-| Lamarche Vosges | LAH |
-| L'argentiere Les Ecrins | LEE |
-| Lezoux | LEZ |
-| La Ferte-Hauterive | LFH |
-| La Roche De Glun | LHD |
-| Lussac Les Chateaux | LLX |
-| Lamothe Montravel | LMH |
-| Landrecies | LNR |
-| Longueville Seine Et Marne | LON |
-| Le Quesnoy Nord | LQY |
-| Le Toec | LTC |
-| Lorette | LTX |
-| Lavalduc | LVU |
-| Laissac | LVY |
-| Maille | MAX |
-| Monestier De Clermont | MDC |
-| Magland | MGD |
-| Malansac | MLO |
-| Maizieres Les Metz | MMZ |
-| Morannes | MNS |
-| Marsac (Creuse) | MRR |
-| Meru | MRU |
-| Moulin Rouge | MRW |
-| Montdidier | MTD |
-| Mundolsheim | MUM |
-| Les Martres-De-Veyre | MVY |
-| Metz | MZ |
-| Neuilly Sur Marne | NYM |
-| Orthez | ORT |
-| Prades Molitg Les Bains | PDS |
-| Persan Beaumont | PEB |
-| La Porcherie | PHR |
-| Le Priory | PIY |
-| Plancoet | PLA |
-| Pessac | PSC |
-| Paris St Lazare | PSL |
+| Albens | ABN |
+| Albert | ALB |
+| Albertville | ALV |
+| Albi Ville | AL |
+| Albias | ALS |
+| Alencon | ALN |
+| Ales | ALE |
+| Alessandria | ASD |
+| Allan D Huy | ALU |
+| Allan Tgv | ALL |
+| Allassac | AAA |
+| Allee De La Tour Rendez Vous | AET |
+| Allenc | AEN |
+| Allones Boisville | ALO |
+| Alost | AOS |
+| Altkirch | ALK |
+| Amabazac | ABZ |
+| Amagne Lucquy | AMA |
+| Amberieu | AMB |
+| Amboise | AM |
+| Ambronay Priay | AAI |
+| Amiens | AS |
+| Amplepuis | AMP |
+| Amsterdam | AMS |
+| Anagni | ANG |
+| Ancenis | ANC |
+| Ancerville Gue | ACE |
+| Ancona | ACO |
+| Ancy Le Franc | ACF |
+| Ancy Sur Moselle | AYM |
+| Andelot (Jura) | AND |
+| Andelot Hte Marne | ANL |
+| Andernach | KAN |
+| Andilly | ADY |
+| Andrezieux | ANZ |
+| Angers Maitre Ecole | AME |
+| Angers Saint Laud | ASL |
+| Angerville | AGV |
+| Anglars Nozac | AZC |
+| Anglefort | ANF |
+| Angouleme | A |
+| Aniche | ANI |
+| Anizy Pinon | API |
+| Annappes | ANP |
+| Annecy | ACY |
+| Annemasse | AE |
+| Annot | AOT |
+| Anor | ANO |
+| Anse | ANS |
+| Antheor Cap Roux | AHC |
+| Antibes | ATB |
+| Antoing | ANN |
+| Anvers | ANW |
+| Anvers-Berchem | BHC |
+| Anvin | ANV |
+| Appenweier | APW |
+| Appilly | APP |
+| Aramon | ARA |
+| Arbois | AOI |
+| Arc Et Senans | ACA |
+| Arcachon | ARC |
+| Arcay | ARY |
+| Arches | ARH |
 | Arcis Sur Aube | ASA |
+| Arcy Sur Cure | ACU |
+| Ardentes | ARD |
+| Arengosse | ARO |
+| Argagnon | AGO |
+| Argeles Sur Mer | ASW |
+| Argentan | AR |
+| Argenteuil Bv | ARW |
+| Argenteuil Triage | ARG |
+| Argentiere | AGI |
+| Argenton Sur Creuse | AGC |
+| Arlanc | ARL |
+| Arles | ARS |
+| Arleux | ARX |
+| Arlon | AOL |
+| Armentieres | ARM |
+| Arnage | AAG |
+| Arneke | ARN |
+| Arpajon (Essonne) | ARP |
+| Arpajon Sur Cere | AAJ |
+| Arques Pas De Calais | ARQ |
+| Arras | ARR |
+| Arrou | AOU |
+| Ars Sur Moselle | ASM |
+| Artenay (Loiret) | ATY |
+| Artix | ATI |
+| Artonges | ART |
+| Arudy | ARU |
+| Arvant | ARV |
+| Arzembouy | AZB |
+| Arzviller | ARZ |
+| Asnieres Les Bourges | ASR |
+| Asnieres Sur Seine | AEE |
+| Aspres Sur Buech | ASH |
+| Athis Mons | ATH |
+| Athus (Sncb) | ATS |
 | Attigny Ardennes | ATG |
 | Attin | ATT |
-| Auzances | AUZ |
-| Banassac La Canourgue | BAA |
-| Bouchain | BAK |
-| Bricon | BCN |
-| Bois D Oingt Legny | BDO |
-| Berlaimont | BER |
-| Bougival | BGV |
-| Bouaye | BLQ |
-| Bening | BNG |
-| Brig | BRY |
-| Bucarest | BTI |
-| Bretoncelles | BTO |
-| Bourg Lastic Messeix | BUA |
-| Bordeaux Docks | BXK |
-| Coussac Bonneval | CCB |
-| Cerbere | CE |
-| Chaumont En Vexin | CEV |
-| Chocques | CHO |
-| Cluses | CLU |
-| Couiza Montazels | COI |
-| Champagnole | CPG |
-| Dontrien | DTN |
-| Etalans | EAS |
-| Heuliez | EHZ |
-| Epierre | EIR |
-| Elne | ELN |
-| Ep Km 14 0 | EPX |
-| Etang | ETG |
-| Etival Clairefontaine | ETL |
-| Evaux Les Bains | EVA |
-| Eze | EZZ |
-| Mainz Bischofsheim | FMB |
-| Gargan | GA |
-| Gemozac | GEM |
-| Gent St Pieters | GND |
-| La Guerche Sur L'aubois | GUA |
-| Heyrieux | HEY |
-| Homecourt | HOM |
-| Le Chatelard-Frontiere | HTF |
-| Hyeres | HYE |
-| Aachen West | KAW |
-| Kedange | KDG |
-| Strasbourg Koenigshoffen | KNF |
-| Cologne | KOL |
-| Lamativie | LAA |
-| Labenne | LBN |
-| La Chaux De Fond | LCD |
-| La Chapelle La Reine | LCP |
-| Lagnieu | LGU |
-| Le Pouliguen | LIG |
-| Laplace | LJA |
-| Le Mans | LM |
-| Lemberg Moselle | LMG |
-| Le Rouget | LRG |
-| Lyon St Clair | LSC |
-| Luzenac Garanou | LUG |
-| La Vauvelle | LUL |
-| Luzy Nievre | LUY |
-| Lyon Part Dieu | LYD |
-| Layrac | LYG |
-| Montcornet | MCR |
-| Merville | MEV |
-| Meudon-Val-Fleury | MFY |
-| Meung Sur Loire | MGL |
-| Meurchin | MHN |
-| Mommenheim | MOH |
-| Mannheim Rheinau | MRH |
-| Marais De Lomme | MWL |
-| Mussey | MYX |
-| Crepy Couvron | CYU |
-| Dol | DOL |
-| Dourges | DOU |
-| Doncaster | DST |
-| Les Echets | ECH |
-| Les Eyzies | EYZ |
-| Fecamp | FEC |
-| Flamboin Gouaix | FLA |
-| Fourmies | FMI |
-| Frontignan | FRN |
-| Foucart Alvimare | FTA |
-| Pouilly Sur Charlieu | PYC |
-| Rilly La Montagne | RAG |
-| Rouxmesnil | RMN |
-| Romilly Sur Seine | RMY |
-| Rungis | RUN |
-| Salbris | SAL |
-| Saint Andre De Corcy | SAY |
-| Sain Bel | SBL |
-| Steenbecque | SBQ |
-| Saint Pierre En Faucigny | SEN |
-| Strasbourg | SG |
-| St Gaudens | SGD |
-| Surgeres | SGE |
-| Sausset Les Pins | SPJ |
-| Souppes-Chateau-Landon | SPP |
-| Severac Le Chateau | SVC |
-| Suevres | SVK |
-| Servon | SVO |
-| Uzel | UZE |
-| Villepreux Les Clayes | VEP |
-| Varetz | VEZ |
-| Voujeaucourt | VJT |
-| Virieu Sur Bourbre | VRB |
-| Vivy | VVY |
-| Vergeze Codognan | VZC |
-| Wallers | WS |
-| Saint Martin Du Mont | XMM |
-| Aix La Marsalouse | AAE |
-| Arpajon Sur Cere | AAJ |
-| Aumont Aubrac | AAU |
-| Avord | AD |
-| Amboise | AM |
-| Andelot (Jura) | AND |
-| Anagni | ANG |
-| Appilly | APP |
-| Arzviller | ARZ |
-| Charleroi | CLF |
-| Coueron | CNQ |
-| Cambo Les Bains | CPQ |
-| Les Cabannes | CNB |
-| Connerre Beille | COB |
-| Cap Martin Roquebrune | CQR |
-| Continental Junction | COJ |
-| Castelnaudary | CTY |
-| Chevry | CV |
-| Courpiere | CPR |
-| Chepy Valines | CYA |
-| La Clayette-Baudemont | CYB |
-| Couze | CZD |
-| Coarraze Nay | CZN |
-| Cize Bolozon | CZQ |
-| Contrexeville | CTX |
-| Chevilly | CVY |
-| Culmont Chalindrey | CY |
-| Cramoisy | CYO |
-| Doullens | DOS |
-| Denain | DEN |
-| Dompierre Sur Mer | DSM |
-| Ernecourt Loxeville | ECL |
-| Direction Projet De Ligne | DPL |
-| Ecommoy | ECO |
-| Dunieres | DUN |
-| Duppigheim | DUP |
-| Err | ERR |
-| Erstein | EEN |
-| Einsiedlerhof | ESF |
-| Egly | ELY |
-| Etissac | ESI |
-| Ennezat Clerlande | ENC |
-| Ennevelin | ENN |
-| Exideuil Sur Vienne | EXC |
-| Epouville | EPU |
-| Flavy Le Martel | FAM |
-| Esquelbecq | ESQ |
-| Florence | FIR |
-| Francfort | FK |
-| Fleurville Pont De Vaux | FLV |
-| Fos Graveleau | FOG |
-| Frejus | FRJ |
-| Farschviller | FWR |
-| Fraisse Unieux | FRU |
-| La Frayere | FYS |
-| Grandvilliers | GAR |
-| Garancieres La Queue | GAQ |
-| Gresswiller | GEI |
-| Gien | GIE |
-| Grenade Sur L Adour | GLD |
-| Generac | GEC |
-| Garches Marnes La Coquette | GMC |
-| Goxwiller | GXW |
-| Habsheim | HAB |
-| Hambourg | HAH |
-| Golfe Juan Vallauris | GLF |
-| Hymont Mattaincourt | HAI |
-| Grenay (Lgv) | GNA |
-| Hautmont | HAT |
-| Granville | GRV |
-| Gouvy | GUY |
-| Les Houches | HOU |
-| Beny Aig Ipcs | IBY |
-| Innsbruck | IK |
-| Issoudun | IS |
-| Les Islettes | ISL |
-| Issy | ISY |
-| Juan Les Pins | JAE |
-| Jessains | JAI |
-| Jarrie Vizille | JAV |
-| Joue Les Tours | JLT |
-| Jouy | JOY |
-| Coblence | KB |
-| Kerhuon | KHO |
-| Landevant | LDM |
-| Le Grau Du Roi | LGR |
-| Lamure Sur Azergues | LAZ |
-| La Levade | LLE |
-| Le Croisic | LCC |
-| Loudun | LOD |
-| La Coquille | LCQ |
-| Laroquebrou | LQB |
-| Les Relais(S/Station) | LRS |
-| Landerneau | LDE |
-| Le Grand Lemps | LGL |
-| Langeais | LGS |
-| Ludwigshafen Rhei | LUW |
-| Louvain | LWN |
-| Ludwigshafen Basf | LWU |
-| Lyon-Guillotiere | LN |
-| Longages Noe | LNN |
-| Lucay Le Male | LYI |
-| Le Locle-Col Des Roches | LOC |
-| Loriol | LOL |
-| Vernouillet Verneuil | VET |
-| Le Pontet | LPT |
-| Le Puy En Velay | LPU |
-| Laragne | LRN |
-| Voiron | VOR |
-| La Seyne-Six Fours | LSM |
-| Voutre | VOU |
-| Lyon St Paul | LSP |
-| La Suze | LSZ |
-| Verrey | VRR |
-| Lauterbourg | LTG |
-| Vic-Sur-Aisne | VSA |
-| Laveline Devant Bruyeres | LVB |
-| La Varenne Chennevieres Rer | LVZ |
-| Visite Technique D'echange | VTE |
-| Waterloo International | LWO |
-| Verdun Sur Le Doubs | VUS |
-| Lavaveix Les Mines | LXM |
-| Vernayaz Mc | VYZ |
-| Liesse Gizy | LZY |
-| Montoir De Bretagne | MDB |
-| Mannheim | MAN |
-| Mareuil Sur Ourcq | MAQ |
-| Magalas | MGA |
-| Mehun Sur Yevre | MHY |
-| Milan | MIC |
-| Mimbaste | MMB |
-| Montceau Les Mines | MMI |
-| Monaco Monte Carlo | MNA |
-| Vannes | VAN |
-| Moirans | MOA |
-| Vendeuvre Jort | VEJ |
-| Marseille Prado | MPO |
-| Montsoult Maffliers | MSO |
-| Villefranche Sur Mer | VFH |
-| Moulins Sur Yevre | MSY |
-| Moult Argences | MTA |
-| Volklingen | VKG |
-| Mechelen | MWN |
-| Meymac | MYC |
-| Vallorcine | VLO |
-| Millery Montagny | MYN |
-| Villiers Le Sec | VLS |
-| Mazamet | MZT |
-| Mezy | MZY |
-| Vanves Malakoff | VMK |
-| Neussargues | NEU |
-| Voves | VO |
-| Le Vesinet Le Pecq Rer | VPQ |
-| Nantilly-Saumur | NTY |
-| Vertaizon | VTZ |
-| Vernet D'ariege | VVT |
-| Offenbourg | OFN |
-| Vieux Thann | VXT |
-| Orgerus Behoust | OGB |
-| Orgon | ORG |
-| St Genies De Malgoires | XGE |
-| Pont A Mousson | PAM |
-| Moyeuvre Grande | MG |
-| Pont De Veyle | PEL |
-| Marmagne Sous Creusot | MMS |
-| Monistrol-D'allier | MNR |
-| Mouscron | MOU |
-| Pierroton | PIO |
-| Massy Palaiseau | MP |
-| Plessis Poste 31 Prs | PLX |
-| Mantes La Jolie | MTE |
-| Perpignan | PPN |
-| Montrejeau Gourdan Polignan | MTJ |
-| Montaigu Vendee | MTV |
-| Pont Audemer | PTA |
-| Morieres Les Avignon | MVG |
-| Pouzauges | PZ |
-| Montry Conde | MYD |
-| Quincieux | QUX |
-| Metzervisse | MZV |
-| Nice (Cfp) | NCP |
-| Rombas Clouange | RBS |
-| La Reole | REO |
-| Roquemaure Tgv | RGV |
-| Ottignies | OTG |
-| St Martin De Bouillac | SBI |
-| Saint Etienne Chateaucreux | SE |
-| Plouaret Tregor | PLT |
-| Saint Florentin Vergigny | SIF |
-| Pontgouin | PNN |
-| Plounerin | PNR |
-| St Victurnien | SIV |
-| Porchefontaine | POA |
-| St Jean De Braye | SJK |
-| St Leonard De Noblat | SLE |
-| Sallanches Combloux Megeve | SLS |
-| Poste 17 Prs | PQS |
-| St Ouen Du Breuil | SOB |
-| Pierrefitte-Stains | PRF |
-| Saint Ouen L Aumone Liesse | SOL |
-| Sospel | SOP |
-| Pereire Levallois | PRR |
-| La Selle En Luitre | SQE |
-| Saint Sulpice Auteuil | SUP |
-| Petange(Cfl) | PTG |
-| Saincaize | SZE |
-| Paris Tolbiac | TC |
-| Paris Aust. Rer C | PZB |
-| Quiberon | QB |
-| Le Teich | TEH |
-| Tincques | TIN |
-| Les Trillers | TIS |
-| Trilport | TLP |
-| Reterre | RER |
-| Tessenderlo | TSO |
-| Manduel Redessan | UEL |
-| Rome | RM |
-| Roye Somme | ROE |
-| Rosporden | RSP |
-| Raves Ban De Laveline | RVB |
-| Sainte Marthe En Provence | SAH |
-| Albias | ALS |
-| Saint Amour | SAR |
-| St Cyr | SCR |
-| Sincey Les Rouvray | SCU |
-| Saint Etienne La Terrasse | SET |
-| Sevran Livry | SEV |
-| Autrey Les Gray | ATA |
-| Sees | SKS |
-| Sarlat | SL |
-| Saulon | SLN |
-| Saleux | SLX |
-| Suresnes Mont Valerien | SMV |
-| Ax Les Thermes | AX |
-| St Pal St Romain | SRM |
-| Boussay La Bruffiere | BBF |
-| Bourgtheroulde Thuit Hebert | BGT |
-| Bouilly Roncenay | BIY |
-| St Avold | SVD |
-| Brion Montreal La Cluse | BMC |
-| St Vincent De Tyrosse | SVT |
-| Berne | BNE |
-| Schweighouse Sur Moder | SWG |
-| La Bernerie | BNX |
-| Lyon-St Exupery Tgv. | SXA |
-| Boen | BOE |
-| Bolquere Eyne | BQE |
-| Sermaize Les Bains | SZB |
-| Le Bosquet | BQJ |
-| Sion | SZX |
-| Briancon | BRI |
-| Treves Burel | TBU |
-| Beziers | BS |
-| Bresles Sur Oise | BSE |
-| Bretigny | BY |
-| Commercy | CCY |
-| Capdenac | CDC |
-| Cernay (Haut Rhin) | CER |
-| Tra3 - La Trinite-Victor | TVR |
-| Clermont Les Fermes* | CFE |
-| Aarau (Suisse) | AAV |
-| Chazay Marcilly | CZM |
-| Darnetal | DAL |
-| Aurec | AEC |
-| Argentiere | AGI |
-| Aigle | AGL |
-| Angerville | AGV |
-| Albert | ALB |
-| Allan Tgv | ALL |
-| Albertville | ALV |
-| Aubusson | AO |
-| Deols | DEO |
-| Avion | AON |
-| Digne (Cfp) | DGC |
-| Donges | DGS |
-| Dollands Moor | DM |
-| Bale St Jean | BAJ |
-| Bagnols Chadenet | BCT |
-| Domene | DOM |
-| Le Breuil-Sur-Couze | BCZ |
-| Dormans | DOR |
-| Douzies | DOZ |
-| Les Bossons | BHS |
-| Balsieges Bourg | BKB |
-| Blois | BL |
-| Bellenaves | BLE |
-| Brive La Gaillarde | BLG |
-| Bollene La Croisiere | BLN |
-| Gretz Armainvilliers | GZ |
-| Bannalec | BNC |
-| Ile Napôleon | INA |
-| Chateau L'eveque | CEQ |
-| Juziers | JUZ |
-| Koln Kalk Nord | KKV |
-| Comines France | CIS |
-| La Baule Escoublac | LBE |
-| Changis St Jean | CJN |
-| La Courtine | LCO |
-| Le Poirier Universite | LEP |
-| Lerouville | LER |
-| Dax | DAX |
-| Darcey | DAY |
-| La Loupe | LLP |
-| Le Monastier | LMR |
-| Lumes | LMS |
-| L'ardoise | LRD |
-| Dange | DGE |
-| Laroque | LRQ |
-| Daufage Le Goulet | DGT |
-| Digoin | DIG |
-| Lisle Sur Tarn | LSU |
-| La Wantzenau | LW |
-| Messac-Guipry | MES |
-| Don Sainghin | DON |
-| Montfort Sur Meu | MFS |
-| Mignaloux Nouaille | MGX |
-| Massiac | MIA |
-| Monsempron Libos | MLS |
-| Montbartier | MNG |
-| Geneve La Praille | GPR |
-| Mennetou Sur Cher | MNN |
-| Gray | GR |
-| Montbrison | MOB |
-| Grasse | GRA |
-| Gerard | GRR |
-| Mons | MOJ |
-| Massy Palaiseau Gc | MPU |
-| Hericy | HER |
-| Maisse | MSN |
-| Hagetmau | HGU |
-| Munster | MUT |
-| Hombourg Haut | HOH |
-| Moustier | MWR |
-| Namps Quevauvillers | NAQ |
-| Nanteuil Saacy | NAU |
-| Ninove | NIN |
-| Ingrandes Sur Vienne | IG |
-| Orchies | ORC |
-| Issoire | ISS |
-| Jemeppe-Sur-Sambre | JMS |
-| Pamproux | PAP |
-| Jassonneix | JSX |
-| Neuss Gbf | KNG |
-| Paris La Chapelle | PCH |
-| Pont De L Alma | PDM |
-| La Brillanne-Oraison | LBO |
-| La Couronne | LCN |
-| Pernes Camblain | PEC |
-| Plaisir Grignon | PG |
-| La Hutte Coulombiers | LHU |
-| Plouigneau | PGU |
-| La Milesse La Bazoge | LLB |
-| Paris Bercy Conflans | PGV |
-| Le Merlerault | LLT |
-| Les Fontinettes | LTS |
-| L'eysselle | LYP |
-| Lezinnes | LZI |
-| Montreuil Bellay | MBL |
-| Miecaze | MCZ |
-| M.Redessan Marchandises | MDL |
-| Pont De Briques | PRS |
-| Mailly La Ville | MIY |
-| Poitiers | PS |
-| Mohon | MN |
-| Paris Montparnasse-Vaugirard | PVA |
-| Lambesc Sei 65 | MQ |
-| Marle Sur Serre | MR |
-| Montivilliers | MVL |
-| Metz Chambiere | MZC |
-| Rochy Conde | RCY |
-| Nurieux | NEX |
-| Romaneche Thorins | RHR |
-| Nogent Le Perreux | NLP |
-| Rimaucourt | RIM |
-| Rives | RIV |
-| Noisy Le Sec | NSY |
-| Romans Bourg De Peage | ROM |
-| Noisy Le Grand Mont D Est | NYG |
-| L'oraille | ORW |
-| Osseja | OSA |
-| Ozoir La Ferriere | OZF |
-| Biache St Vaast | BIA |
-| Pasilly Prs 17 | PAI |
-| Bonnemain | BMV |
-| Pont Chateau | PCU |
-| Bords | BOR |
-| Bossey Veyrier | BSV |
-| Brest | BT |
-| Bertholene | BTH |
-| Breteil | BTU |
-| Paris-Lyon | PLY |
-| Les Boullereaux Champigny | BXP |
-| Pornichet | PNI |
-| Carignan | CAG |
-| Poule | POU |
-| Pont Remy | PRM |
-| Pierrelaye | PRY |
-| Chateau Chinon  | CCI |
-| Questembert | QUE |
-| Aig Ipcs Km.64,2 (St Rambert) | RBK |
-| Rennes | RES |
-| Chef Du Pont Ste Mere | CFP |
-| Rouille | RIL |
-| Chagny | CGY |
-| Champigneulles | CHG |
-| Robinson | RNS |
-| Chaville Velizy | CHV |
-| Rodange(Cfl) | ROG |
-| Chamonix Mont Blanc | CHX |
-| Rosieres Aux Salines | ROI |
-| Biffontaine | BFF |
-| Beaugency | BGY |
-| Condom | COM |
-| Boujailles | BJL |
-| Bellac | BLL |
-| Beaumont Le Roger | BLR |
-| Bussac | BMR |
-| Berre | BRR |
-| Couronne (Voies Des Quais) | CRN |
-| Busigny | BSY |
-| Barsanges | BSZ |
-| La Bonneville | BVU |
-| Bazancourt | BZT |
-| Chatres | CTF |
-| Combourg | CUG |
-| Courville Sur Eure | CVB |
-| Claveyson Bren (Lgv) | CAW |
-| Concoules Ponteils | CVP |
-| Dieuze | DZ |
-| Conde Sur Huisne | CDH |
-| Etainhus St Romain | EAH |
-| Estavel | ESL |
-| Eauze | EZE |
-| Chabons | CKN |
-| Cognac | COG |
-| Fontainebleau Avon | FON |
-| Courghain | CQA |
-| Cormelles (Embt) | CQL |
-| Revin | RV |
-| Crouy | CRU |
-| Chateauneuf Sur Loire | CSL |
-| Saint Ambroix | SAX |
-| Brebach | SBA |
-| Saint Flour Chaudes Aigues | SFC |
-| Culoz | CUZ |
-| Ste Gauburge | SGG |
-| Saillagouse | SGW |
-| Chavagnes Les Redoux | CVD |
-| Silly | SIY |
-| Courtalain St Pelerin | CWP |
-| Ciry Le Noble | CYL |
-| St Jory | SJY |
-| Duttlenheim | DTM |
-| Saint Martin Bellevue | SML |
-| Ecouen Ezanville | ECZ |
-| Einvaux | EIN |
-| Saint Priest | SPR |
-| St Mars La Briere | SRL |
-| Entraigues Sur La Sorgue | ENS |
-| Estrees St Denis | ESD |
-| St Astier | STK |
-| Saint Germain En Laye Rer | SXR |
-| Selongey | SYU |
-| Feuquieres Broquiers | FBS |
-| Fresnoy Le Grand | FEG |
-| Thouare | THE |
-| Guichen Bourg Des Comptes | GBC |
-| Gravigny Balizy | GBI |
-| Gran Pre | GDE |
-| Gresy Sur Isere | GEY |
-| Taverny | TVY |
-| Gargenville | GGV |
-| Aerop 2 Ch De Gaulle - Rer | RYR |
-| Razac | RZA |
-| Roumazieres Loubert | RZS |
-| Saint Andre Le Gaz | SAG |
-| Saint Beron La Bridoire | SBR |
-| St Etienne De Montluc | SDQ |
-| Velaines | VEL |
-| Villeparisis | VII |
-| Villers Les Pots | VLP |
-| Saint Germain Des Fosses | SGF |
-| Villers Bretonneux | VLT |
-| Valencay | VNY |
-| Val D Europe | VOP |
-| Villefranche Du Per. | VPD |
-| Sommery | SKY |
-| Versigny | VSI |
-| Santenay Les Bains | SLB |
-| Villeneuve D'ingre | VVD |
-| Sarcelles St Brice | SLL |
-| Vezac Beynac | VZB |
-| Wissembourg | WBG |
-| Woincourt | WT |
-| Saulnes | SNS |
-| Senozan | SOZ |
-| Seon St Henry | ZSH |
-| St Paul De Fenouillet | SPF |
-| Savonnieres | ZVO |
-| Saint Rambert D Albon | SRA |
-| St Eulien | STW |
-| Ste Luce | SUJ |
-| Auersmacher | ACR |
-| Souvigny | SUY |
-| Agonac | AGA |
-| St Valery En Caux | SVY |
-| Servoz | SVZ |
-| Sully Prs 21 | SYL |
-| Tencin Theys | TCY |
-| Ancenis | ANC |
-| Tournai | TNA |
-| Tonnerre Lgv Prs 16 | TNN |
-| Tournay Htes Pyrenees | TRY |
-| Arleux | ARX |
-| Athis Mons | ATH |
-| Artix | ATI |
-| Vierzon | V |
-| Aguessac | AUS |
-| Autet | AUT |
-| Vias | VA |
-| Vauboyen | VBO |
-| Aix En Provence | AXP |
-| Ay | AYN |
-| Villefranche De Lauragais | VDL |
-| Azerailles | AZE |
-| Viroflay (R.G.) | VFG |
-| Vigneux Sur Seine | VGS |
-| Valergues Lansargues | VGU |
-| Baisieux | BAI |
-| Vintimille | VIN |
-| Buzancais | BCS |
-| Baume Les Dames | BDA |
-| Baudrecourt | BDC |
-| Verneuil Sur Vienne | VSV |
-| Bondy | BDY |
-| Vaux Sous Aubigny | VXY |
-| Prevenches Gorges Du Chassez | PVZ |
-| Roche Lez Beaupre | RBE |
-| Wembley | WEM |
-| La Chapelle D'ambes | ABS |
-| Reignier | REI |
-| Reignac | RGA |
-| Aiguebelle | AEB |
-| Rixheim | RHE |
-| Aime La Plagne | AGN |
-| Aisy | AIY |
-| Amplepuis | AMP |
-| Rozoy Sur Serre | RZY |
-| Arlon | AOL |
-| Saales | SAA |
-| Saint Rambert En Bugey | SBB |
-| Sedan | SED |
-| Saint Egreve St Robert | SEG |
-| Sens | SES |
-| Arpajon (Essonne) | ARP |
-| Sollies Pont | SIP |
-| Saint Gervasy Bezouce | SIZ |
-| Avallon | AVA |
-| St Macaire | SNW |
-| Anglars Nozac | AZC |
-| Saint Ouen L'aumone | SOA |
-| Clabecq | CLQ |
-| Condrieu | CND |
-| Carnoules | CNS |
-| Corbeil Essonnes | COE |
-| Badaroux | BDX |
-| Bas Evette | BEV |
-| Quemeneven | QMN |
-| Reding | RDG |
-| Revigny | REV |
-| Couilly St Germain | CYQ |
-| Remy Oise | REY |
-| Ranguin | RGN |
-| Russelsheim Opelwerk | ROP |
-| Delle | DEL |
-| Romilly Sur Andelle | RSA |
-| Diou | DIU |
-| Renescure | RSC |
-| Rosny Sur Seine | RSS |
-| Romont | RT |
-| Riedseltz | RTZ |
-| Rueil Malmaison Rer | RUR |
-| Douai | DO |
-| St Genouph | SCO |
-| St Cyr En Val La Source | SCV |
-| Saint Denis | SDE |
-| Sibelin Triage | SIB |
-| Deville | DVI |
-| Sille Le Guillaume | SLG |
-| Eichhoffen | ECF |
-| Saint Martin Sail Les Bains | SMB |
-| Saint Martin De Crau | SMD |
-| Engenville | EGV |
-| Senas Tgv | ENA |
-| Chanac | CNA |
-| Chauny | CNY |
-| Leuven | EUV |
-| Evry Courcouronnes | EVC |
-| Coutras | COU |
-| Flers | FL |
-| Frasne | FRA |
-| Gembloux | GBX |
-| Cysoing | CYG |
-| Groisy Thorens La Caille | GTC |
-| Hagondange | HGD |
-| Docelles Chenimenil | DOC |
-| Darmstadt | DTT |
-| Le Douhet Ecoyeux | DTX |
-| Janze | JZE |
-| Ecouflant | ECT |
-| Koln Eifeltor | KKE |
-| Couzon Au Mont D Or | KMD |
-| Kontich | KOT |
-| Le Chambon-Feugerolles | LCF |
-| Les Lacs | LCK |
-| Les Gresillons | LEG |
-| La Bathie | LHI |
-| La Mothe St Heraye | LHY |
-| La Plaine Stade De France | LPN |
-| Escalquens | EQ |
-| Le Palais | LPS |
-| Eragny Neuville | ERA |
-| La Taye | LTA |
-| Linay | LWX |
-| Luxeuil Les Bains | LXL |
-| Etain | ET |
-| Maisons Alfort Pompadour | MAP |
-| Etampes | ETP |
-| Macau | MCA |
-| Excideuil Dordogne | EXD |
-| Epinay Sur Orge | EYO |
-| Menars | ME |
-| Fenouillet St Alban | FEX |
-| Mouthiers(Charente) | MHR |
-| Miserey | MIS |
-| Montlucon | ML |
-| Montluel | MLU |
-| La Faloise | FLO |
-| Marseille Mme Mourepiane | MMP |
-| Montaudran | MQN |
-| Meyreuil | MRL |
-| Fours | FRS |
-| Meroux | MUX |
-| Gresy Sur Aix | GAX |
-| Mayet | MYT |
-| Nancois Tronville | NAE |
-| Neuville De Poitou | NDP |
-| Noisy Le Roi | NIO |
-| Nissan | NIS |
-| Novara | NVA |
-| Gujan Mestras | GUJ |
-| Olette-Canaveilles | OLE |
-| Hennebont | HEN |
-| La Hayes Descartes | HYD |
-| Interlaken | IKN |
-| Plombieres (Cote D'or) | PCO |
-| Perrignier | PEG |
-| Plaisir Les Clayes | PIE |
-| Istres | ISR |
-| Jaunay Clan | JAU |
-| Pontcharra St Forgeux | PNF |
-| Paris Nord | PNO |
-| Kruth | KR |
-| Les Aubrais Orleans | LAB |
-| Port Brillet | PTT |
-| Naples | NAP |
-| La Chapelle /Erdre | LED |
-| Neuville Sur Sarthe | NER |
-| Langogne | LGG |
-| Larche | LHZ |
-| Nogent Sur Vernisson | NGI |
-| Noeux | NOX |
-| Nemours St Pierre | NSP |
-| Niort | NT |
-| Lepanges | LPV |
-| Lacq | LQ |
-| La Rochelle Pallice | LRP |
-| Ludres | LUD |
-| Lusignan | LUI |
-| Lunel | LUN |
-| La Voulte-Sur-Rhone | LVO |
-| Madrid | MAD |
-| Marbache | MAH |
-| Meursault | MAT |
-| Montbard | MBA |
-| Osses St Martin D'arrossa | OSS |
-| Marseille Blancarde | MBC |
-| Montbizot | MBZ |
-| Menton | MEN |
-| Meuse Montigny Le Roi | MGO |
-| Muizon | MIZ |
-| Mennecy | MNY |
-| Pierrefitte Nestalas | PFN |
-| Maresquel | MQU |
-| Poligny | PGN |
-| Montrond Les Bains | MRB |
-| Petit Rederching | PHG |
-| Mervans | MRV |
-| Marseille St Charles | MSC |
-| Marssac Sur Tarn | MSS |
-| La Pointe Bouchemaine | PMB |
-| Paris Nord Gare Banlieue | PNB |
-| Mouy Bury | MUY |
-| Nogent L'artaud Charly | NAA |
-| Nanterre-Prefecture | NAF |
-| Nerac | NC |
-| Pompey (Ex Bv) | PPE |
-| Nouan Le Fuzelier | NOF |
-| Neuilly Porte Maillot | NPT |
-| Oberhoffen Camp De Haguenau | OBF |
-| Lapalud Tgv. | PUD |
-| Ostricourt | OIC |
-| Ossun | OS |
-| La Rotonde | OTO |
-| Onzain | OZA |
-| Ply Banlieue | PAA |
-| Pont A Vendin | PAV |
-| Poix De Picardie | PDP |
-| Aerop 1 Ch De Gaulle | RSY |
-| Paris Est | PE |
-| Retiers | RTI |
-| Reichstett | RTT |
-| Peynier Rousset | PET |
-| La Penne Sur Huveaune | PHE |
-| Richwiller | RWL |
-| Port St Louis | PLR |
-| Penne(Lot Et Garonne) | PNE |
-| Saint Chamond | SCM |
-| Saint Etienne Le Clapier | SEC |
-| St.Etienne Carnot | SEO |
-| Pierrelatte | PRL |
-| St Germain Du Puy | SGP |
-| St Gilles Croix De Vie | SGV |
-| Sireuil | SII |
-| St Mesmin | SIM |
-| Naucelle | NCE |
-| St Michel Sur Charente | SMC |
-| Negrondes | NEG |
-| Saint Raphael Valescure | SRV |
-| Sully Sur Loire | SUL |
-| Saint Bonnet En Bresse | SXB |
-| Naintre Les Barres | NIB |
-| Salzbourg | SZG |
-| Nuits-Saint-Georges | NUI |
-| Thiennes | TEE |
-| Orange | OGE |
-| Tournemire Roquefort | TEO |
-| Base Ln3 Tournan | TOB |
-| Turenne | TUR |
-| Uckange | UCK |
-| Pont D'ain | PDA |
-| Phalempin | PHA |
-| Villeneuve Les Avignon | VAV |
-| Perenchies | PHI |
-| Villefranche (Allier) | VID |
-| Vignory | VNR |
-| Paris Montparnasse | PMP |
-| Volvic | VOL |
-| Pornic | PNC |
-| Villefranche De Rouergue | VR |
-| Varangeville St Nicolas | VRA |
-| Vercelli | VRC |
-| Versailles (R.D.) | VRD |
-| Villeneuve Le Roi | VRI |
-| Villars | VRS |
-| Villeneuve St Georges (Bv) | VSB |
-| Pont Cardinet | PTC |
-| Vars | VSH |
-| Veretz Montlouis | VZM |
-| Wittelsheim | WTS |
-| Pouilly Sur Loire | PYL |
-| Quimper | QR |
-| Saint Jean Sur Veyle | XJV |
-| Abbeville | ABB |
-| Raon L'etape | RAO |
-| Rosny Bois Perrier | RBI |
-| Avignon Fret | AF |
-| Aiffres | AIF |
-| Rungis La Fraternelle | RF |
-| La Courneuve-Aubervilliers | ALC |
-| Audun Le Roman | ALR |
-| Rochefort Sur Nenon | RNN |
-| Roquefort Landes | ROQ |
-| Rosny Sous Bois | RSB |
-| Le Raincy Villemomble | RVM |
-| Bons En Chablais | BAB |
-| Bale | BAL |
-| St Andre De L'eure | SAE |
-| Becon Les Bruyeres | BEC |
-| Saint Amand Les Eaux | SAM |
-| Le Bourget Triage | BGW |
-| Bersac | BHA |
-| St Aubin Du Vieil Evreux | SAV |
-| Bessines | BHU |
-| Blangy Sur Ternoise | BIP |
-| Besle | BIQ |
-| St Bonnet De Rochefort | SBD |
-| St Etienne De Baigorry | SDB |
-| Beynost | BNO |
-| St Emilion | SEI |
-| Bournezeau | BNZ |
-| Ste Eulalie Carbon B. | SEK |
-| Boissy St Leger | BOI |
-| Saint Fons | SFS |
-| Bailleul Sir Berthoult | BSH |
-| Bertrix | BTX |
-| Bueil | BUE |
-| Songy | SGY |
-| Beuvrages | BUS |
-| Saint Chamas | SH |
-| Bouy | BYW |
-| Biarritz  | BZ |
-| St Victor | SIC |
-| Sierck Les Bains | SIK |
-| St Jean De Sauves | SJD |
-| St Jacques De La L.-La Janais | SJJ |
-| St Jean De Maurienne Arvan | SJM |
-| St Gildas Des Bois | SOK |
-| St Savinien Sur Charente | SNH |
-| Souillac | SOU |
-| Saint Jodard | SNJ |
-| Sottevast | SOT |
-| St Pierre Des Corps | SP |
-| St Pierre Du Vauvray | SPY |
-| Ste Pazanne | SPZ |
-| Stockport | SRT |
-| St Saviol | SSV |
-| Saillat Chassenon | ST |
-| St Seurin Sur L'isle | SUN |
-| Sete | STE |
-| Saint Vit | SVI |
-| Sermaise | SXE |
-| Sucy Bonneuil | SUB |
-| Salleles-D'aude | SUF |
-| Saint Paul De Varax | SVX |
-| St Medard D'eyrans | SYS |
-| Tassin | TAS |
-| Thiviers | TIV |
-| Accous | ACC |
-| Thun | TN |
-| Achiet | ACT |
-| Trois Puits | TRT |
-| Thiezac | TZC |
-| Airvault | AIR |
-| Allan D Huy | ALU |
-| Avenue Prt Kennedy | APK |
-| Vivoin Beaumont | VBT |
-| Villefrancoeur | VCO |
-| Venise | VEN |
-| Vigeois | VGE |
-| Vichy | VHY |
-| Villefort | VLF |
-| Versailles-Rg-Chateau | VRG |
-| Berlin Ostgbf | BEL |
-| Brionne (Eure) | BEU |
-| Briare | BEW |
-| Vendeuvre Aube | VUV |
-| Veuxaulles | VXH |
-| Bourg Argental | BGR |
-| Vauxaillon | VXL |
-| Vitry Sur Seine | VY |
-| Vitry En Artois | VYN |
-| Anvers-Berchem | BHC |
-| Bucheres Verrieres | BHV |
-| Woelfling Les Sarreguemines | WFS |
-| Bigny | BIG |
-| Boisleux  | BLX |
-| St Patrice | XPR |
-| Bruxelles-Midi | BRU |
-| La Bassee | BSP |
-| Audruicq | ADQ |
-| Bessancourt | BSR |
-| Allenc | AEN |
-| Bettembourg | BTG |
-| Allee De La Tour Rendez Vous | AET |
-| La Beuvriere | BVF |
-| Clonas | C |
-| Argenton Sur Creuse | AGC |
-| Choisy Au Bac | CBB |
-| Amsterdam | AMS |
-| Anor | ANO |
-| Annot | AOT |
-| Argentan | AR |
-| Aubrives | ARI |
-| Arneke | ARN |
-| Chabanais | CHB |
-| Chemille | CHE |
-| Athus (Sncb) | ATS |
-| Chalais | CIC |
-| Trouville Deauville | TD |
-| Le Bugue | BDG |
-| Thedirac Teyrilles | TDC |
-| Bischoffsheim | BFH |
-| Thiers | THI |
-| Breitenbach (Ht Rhin) | BHH |
-| Berthelming | BHN |
-| Tullins Fures | TLE |
-| Tillieres | TLS |
-| Besancon Mouillere | BNM |
-| Bolbec Nointot  | BNT |
-| Tournon | TRO |
-| Brignoud | BNU |
-| Tarbes | TS |
-| Bressoux | BSX |
-| Bavay | BVY |
-| La Teste | TTE |
-| Blanzy Poste   | BZY |
-| Eisenach Stedtfeld | UEI |
-| Val De Fontenay | VDF |
-| St Sulpice Lauriere | SSL |
-| Villiers Neauphle Pontch. | VEH |
-| Villemomble | VIL |
-| Vire | VIR |
-| Villers Sur Mer | VIU |
-| Villiers St Georges | VLG |
-| Solers | SXO |
-| Sezannes | SZ |
-| Verneuil L'etang | VNL |
-| Tavaux - Solvay Ep | TAW |
-| Aubigny Sur Nere | ABY |
-| Villevert Neuville | VVN |
-| Villeneuve Sur Allier | VVR |
-| Vitry Le Francois | VYF |
-| Allones Boisville | ALO |
-| Angers Maitre Ecole | AME |
-| Anse | ANS |
-| Chalandray | CDV |
-| Clerac Charente | CEC |
-| Charlieu | CEU |
-| Baraqueville Carcenac P. | BAQ |
-| Bedarieux | BED |
-| Cloyes | CLO |
-| Bergues | BEG |
-| Brazey En Plaine | BEP |
-| Carling | CNG |
-| Bischheim | BHM |
-| Courcelles Le Comte | COK |
-| Chivres En Laonnois | CRO |
-| Bollwiller | BOW |
-| Brion Pres Thouet | BPE |
-| Budapest | BPT |
-| Charbonnieres Les Varennes | CVR |
-| Bar Sur Aube | BRB |
-| Beaune La Rolande | BRL |
-| Dammartin Juilly St Mard | DAM |
-| Dole La Bedugue | DBE |
-| Bantzenheim | BTZ |
-| Domblans Voiteur | DBV |
-| Cahors | CAH |
-| Clermont De L'oise | CDO |
-| Chatillon D Azergues | CDZ |
-| Chinon | CHI |
-| Geneve-Voyageurs | GCO |
-| Chaumont | CHM |
-| Toulouse Matabiau | TE |
-| Gerzat | GEZ |
-| Gagny | GN |
-| Goussainville | GOU |
-| Trappes | TRA |
-| Treves | TRR |
-| Triel Sur Seine | TSS |
-| La Guierche | GUH |
-| Gent Zeehaven | GZE |
-| Haguenau | HAG |
-| Ustaritz | USZ |
-| Hargicourt Pierrepont | HGI |
-| L'isle Adam Parmain | IAP |
-| Valence D'agen | VCD |
-| La Verpilliere | VEI |
-| Vallorbe | VLB |
-| Ingwiller | IGW |
-| Vimy | VMY |
-| Vitre | VTE |
-| Wesserling | WES |
-| Jardres | JRD |
-| Xertigny | XTY |
-| Jeumont | JT |
-| Koblenz Mosel | KKM |
-| La Creche | CCK |
-| Langres | LAG |
-| Laon | LAO |
-| Le Cailar | LCI |
-| Cuers Pierrefeu | CFU |
-| La Mothe Achard | LEH |
-| Chantenay | CHA |
-| Charmes Vosges | CHS |
-| Lamothe (Bif) | LHF |
-| Lavilledieu | LIX |
-| Chasserades | CJD |
-| Les Longevilles-Rochejean | LLR |
-| Cergy Le Haut | CJV |
-| Lons Le Saunier | LLS |
-| Lannion | LNI |
-| Charmont | CMO |
-| Lamotte Brebiere | LOW |
-| La Possonniere | LPO |
-| Le Pouzin | LPZ |
-| Les Quatre Routes | LQR |
-| Carmaux | CMX |
-| Commentry | CMY |
-| Lumes Voyageurs | LUQ |
-| Cantin | CNK |
-| Longeray Leaz | LYZ |
-| Maurois | MAK |
-| Ceilhes Roqueredonde | COQ |
-| Mesnay Arbois | MBI |
-| Marignane | MGH |
-| Compiegne | CPE |
-| Margut Fromy | MGT |
-| Misson Habas | MH |
-| Manthes Lapeyrouse | MHL |
-| Marseilles Les Aubigny | MLA |
-| Montendre | MMM |
-| La Couronne Carro | CRQ |
-| Montmorillon | MMN |
-| Maranville | MNE |
-| Modane | MOD |
-| Chasse Sur Rhone | CSR |
-| Chalon Sur Saone | CSS |
-| Mareil Marly | MPJ |
-| Marolles Prs 12 | MPS |
-| Maastricht | MTT |
-| Chantonnay | CTO |
-| Monteux | MTX |
-| Chateaurenault | CTR |
-| Marne La Vallee-Chessy | MVC |
-| Cezy | CZY |
-| Montville | MVE |
-| Mezeriat | MZF |
-| Metz Marchandises | MZM |
-| Dannemarie | DAN |
-| Nonant Le Pin | NAL |
-| Dannes Camiers | DC |
-| Nimes | NI |
-| Dardilly Le Jubin | DDJ |
-| Distroff | DIS |
-| Darlington | DLT |
-| Orbassano | ORB |
-| Origny Ep Ciments | ORI |
-| Gandrange Amneville | GDG |
-| Port Bou | PBO |
-| Gestel | GES |
-| Paris Bercy (Voyageurs) | PBY |
-| Pont De Claix | PDC |
-| Guingamp | GGP |
-| Picquigny | PIQ |
-| Gievres | GS |
-| Portes | POR |
-| Hargarten Falck | HGT |
-| Preignac | PRG |
-| Hermes Berthecourt | HRB |
-| Illfurth | IFH |
-| Auray | AY |
-| Ingrandes Sur Loire  | IGA |
-| Ailly Sur Somme | AYS |
-| Ille Sur Tet | ILL |
-| Ingersheim Cite Scolaire | IMC |
-| Beaucaire | BCK |
-| Benestroff | BEN |
-| Invalides | INV |
-| La Baule Les Pins | BFP |
-| Bennwihr | BNW |
-| Brunoy | BNY |
-| Bonneville | BON |
-| Itxassou | ITX |
-| Bruzolo Di Suza | BOO |
-| Broons | BOS |
-| Joinville Hte Marne | J |
-| Jouy En Josas | JAS |
-| Brugges | BRJ |
-| Corte | KOR |
-| Bassens Appontements | BTT |
-| Laqueuille | LAQ |
-| Bugeat | BUG |
-| Lamotte Beuvron | LB |
-| Bar Sur Seine | BUI |
-| Beaulieu Sur Mer | BUM |
-| Lovagny Gorges Du Fier | LFR |
-| Bayard | BYD |
-| La Ferte St Aubin | LFS |
-| Besse Sur Braye  | BYH |
-| Briouze | BZN |
-| Libercourt | LIB |
-| Lieusaint Moissy | LIU |
-| La Chapelle Anthenaise | LLH |
-| Cambrai Ville | CAM |
-| Luc Primaube | LPA |
-| Cannes Voyageurs | CAV |
-| La Chap.St Ursin M. | LPI |
-| La Tour Du Pin | LTP |
-| Cadaujac | CDJ |
-| Longue | LU |
-| Chateau Du Loir | CDL |
-| Lyon Vaise | LV |
-| Paris La Villette Hebert | LVH |
-| Cordemais | CDQ |
-| Lavaur | LVR |
-| Condat Le Lardin | CDT |
-| Montauban | MBN |
-| Marchezais Broue | MBR |
-| Monterolier Buchy | MBY |
-| Morcenx | MCX |
-| Mende | MDE |
-| Meulan Hardricourt | MHD |
-| Montroc Le Planet | MKZ |
-| Macon Loche | MLH |
-| Mont De Marsan | MM |
-| Montmoreau | MMA |
-| Mont Sur Meurthe | MMT |
-| Montpellier | MPL |
-| Croix Wasquehal | CRW |
-| Charny Yonne | CRY |
-| Moulis Listrac | MUL |
-| Montreux Vieux | MVX |
-| Morlaix | MX |
-| Muizen | MZN |
-| Nuisement | NEM |
-| Nomain | NOM |
-| Neuvy Pailloux | NP |
-| Nantes | NS |
-| Nancy | NY |
-| Cavaillon Tgv Sei 63 | ONT |
-| Evires | EVS |
-| Evreux Embranchement | EVX |
-| Epinay Sur Seine | EYS |
-| Pantin | PAN |
-| Fismes | FI |
-| Fouilloy | FIY |
-| Pezou | PEZ |
-| Franois | FOI |
-| Fromental | FRO |
-| Poix Terron | PIX |
-| Fumay | FUY |
-| Pontmort | PMT |
-| Pont Hebert | PNT |
-| Saint Ghislain | GHL |
-| Port De Piles | PP |
-| Goncelin | GOC |
-| Prague | PR |
-| Gueret | GT |
-| Guillerval | GU |
-| Pougues Les Eaux | PSU |
-| Henin Beaumont | HBE |
-| Hazebrouck | HZK |
-| Isles Armentieres Congis | IAC |
-| Bordeaux Benauge | BBG |
-| Bethune | BET |
-| Bernay | BEY |
-| Bagnoles De L'orne | BGO |
-| L'isle Sur Le Doubs | ISD |
-| Brienon | BIW |
-| Joigny | JOI |
-| Kogenheim | KEN |
-| Blainville Damelevieres | BLV |
-| Blaye | BLY |
-| Stolberg | KST |
-| Bonnieres | BNR |
-| Lamballe | LAM |
-| Boulogne Bassins | BOA |
-| Bologne | BOG |
-| Les Bardys | LBY |
-| Blaisy Bas | BSB |
-| La Riviere De Mansac | LDZ |
-| Boulainvilliers | BWR |
-| La Ferte-Alais | LFA |
-| Beuzeville Eure | BZL |
-| L'isle Fontaine De Vaucluse | LFV |
-| Le Havre | LH |
-| Cannes La Bocca | CAB |
-| La Motte Ste Roseline | LII |
-| Laval De Cere | LLC |
-| Le Mont Dore | LMD |
-| Les Coquetiers | LQT |
-| La Roche-Sur-Foron | LRF |
-| Cenon | CBX |
-| Luchon | LUC |
-| Luant | LUK |
-| Le Meux La Croix St Ouen | LXS |
-| Luzern | LZN |
-| Milhac D'auberoche | MCB |
-| Moneteau Gurgy | MEG |
-| Cormery | CEY |
-| Corgoloin | CGO |
-| Colligny | CGR |
-| Magnac Vicq | MGQ |
-| Chars | CHR |
-| Mailly Le Camp | MLC |
-| Marmagne | MMH |
-| Manosque Greoux Les Bains | MNQ |
-| Monnaie | MON |
-| Montpon Sur L'isle | MPI |
-| Champvans Les Dole | CPV |
-| Massy Tgv | MPW |
-| Chorges | CRG |
-| Montereau | MTU |
-| Cleres | CRS |
-| Castelsarrasin | CTN |
-| Courtalain Poste 17 Prs | CSP |
-| Cousolre | CSQ |
-| Chateaudun | CUN |
-| Epiry Montreuillon | ELO |
-| Entzheim | ENZ |
-| Esbly | EY |
-| Foecy | FCY |
-| Drap Cantaron | DRA |
-| Forest | FOR |
-| Dusseldorf | DUS |
-| Dives Cabourg | DV |
-| Grandpuits | GDP |
-| Ebange | EBG |
-| Gilley | GIL |
-| Giromagny | GY |
-| Hausbergen | HN |
-| Haussmann St-Lazare | HSL |
-| Epehy | EPY |
-| Farbus | FAU |
-| Ferrieres Fontenay | FFY |
-| Freteval Moree | FRE |
-| Grand-Contour | GAD |
-| Issy Val De Seine | ISP |
-| Gazinet-Cestas | GAZ |
-| Pont Ste. Maxence | PXE |
-| Andernach | KAN |
-| Quillan | QUI |
-| Rouffach | RAH |
-| Le Bousquet D'orb | LBD |
-| La Beaume | LBM |
-| La Cour D'arcenay | LCY |
-| La Chapelle Du Chene | LDH |
-| Reims | RE |
-| Lille Flandres | LE |
-| La Ferte Sous Jouarre | LFJ |
-| Loos Les Lille | LLZ |
-| Lamanon | LMN |
-| Rosheim | ROH |
-| Le Muy | LMY |
-| Lyon-Perrache | LPR |
-| Grigny - Le Sablon | LSB |
-| Lison | LSN |
-| Lescar | LSR |
-| St Aigulin La Roche Chalais | SAI |
-| St Aignan Noyers | SAN |
-| Lavaufranche | LVF |
-| Larzalier | LZL |
-| Malesherbes | MAL |
-| St Brieuc | SBC |
-| Sarrebourg | SBG |
-| Maubeuge | MBG |
-| St Aubin St Luperce | SBP |
-| Montauban De Bretagne | MDT |
-| Saint Mammes | SF |
-| Manois | MIH |
-| Marseille Mme Joliette | MJO |
-| Saint Julien Du Sault | SJX |
-| Sillery | SLY |
-| Marquillies | MQS |
-| Saint Marcel | SMA |
-| Ste Menehould | SMN |
-| Marolles En Hurepoix | MSX |
-| St Maixent (Deux Sevres) | SMX |
-| St Nom La Br. Foret De Marly | SNB |
-| Malaunay Le Houlme | MUA |
-| Saint Laurent Du Var | SNV |
-| Mouans Sartoux | MUU |
-| Chatelet | CTE |
-| St Thegonnec | STH |
-| Ciry Sermoise | CYS |
-| Salon La Tour | SUK |
-| Survilliers Fosses | SUR |
-| St Martory | SYM |
-| Sermizelles Vezelay | SZZ |
-| Dourges Delta 3 | DDT |
-| St Cyprien Arenes | TEW |
-| Toul | TL |
-| Tonneins | TON |
-| Troyes | TR |
-| Dijon  | DN |
-| Urcay | UCY |
-| Vinca | VCA |
-| Ebblinghem | EBB |
-| Vernier-Meyrin Cargo | VEM |
-| Villereversure | VEU |
-| Viroflay (R.D.) | VFD |
-| Villeneuve Les Maguelone | VLM |
-| Vonnas | VNS |
-| Villeneuve-Prairie | VP |
-| Villepinte | VPN |
-| Espere Caillac | ESE |
-| Virieu Le Grand-Belley | VRU |
-| Visp | VSP |
-| Worth (Luedenscheid) | WOR |
-| Evian Les Bains | EVI |
-| Yvre L'eveque | YEE |
-| Figeac | FIG |
-| Faremoutiers Pommeuse | FMP |
-| Fons St Mamert | FMS |
-| Allassac | AAA |
-| Freinville Sevran | FSV |
-| Fontpedrouse-St-Thomas | FTB |
-| Futuroscope | FTU |
-| Gimont Cahuzac | GAH |
-| Auch | AH |
-| Pontivy | PTY |
-| Les Pavillons Sous Bois | PVB |
-| Ales | ALE |
-| Rambouillet | RBT |
-| Aiguille Malebarge Km 19,6 | AML |
-| Recquignies | RCQ |
-| Rognac | RGC |
-| Andrezieux | ANZ |
-| Rimini | RI |
-| Rully | RLY |
-| Arches | ARH |
-| Rueil Malmaison | RUI |
-| Roubaix | RX |
-| Sous Le Bois | SB |
-| Schirmeck La Broque | SCK |
-| St Dizier | SDZ |
-| Saillans | SIA |
-| Saint Jean De Losne | SJL |
-| Saint Laurent (Jura) | SLJ |
-| St Meen Le Grand | SMG |
-| Selommes | SOE |
-| Soissons | SOI |
-| Saint Victor Thizy | SVH |
-| Torino Porta Susa | TSU |
-| Uchaud | UCD |
-| Vauvert | VAT |
-| Vermenton | VEE |
-| Vendenheim | VHM |
-| Verzeille | VRZ |
-| Vieilleville | VVL |
-| La Bohalle | WBH |
-| Aubazine St Hilaire | ABA |
-| Annemasse | AE |
-| Andelot Hte Marne | ANL |
-| Aix En Provence Marchandises | APM |
-| Armentieres | ARM |
-| Culan | CLN |
-| Chalonnes | CNE |
-| Cinq Mars | CQM |
-| Cransac | CRZ |
-| Chateauneuf Sur Charente | CSC |
-| Cuneo | CUO |
-| Dijon Porte D'ouche Perrigny | DDP |
-| Dettwiller | DEE |
-| Dunkerque | DKQ |
-| Domont | DMO |
-| Dijon Porte Neuve | DPN |
-| Drusenheim | DRS |
-| Declaration Sociale Nominative | DSN |
-| Durtol Nohanent | DUR |
-| Dreux | DX |
-| Egletons | EGL |
-| Ehrang | EHR |
-| Epernay | EPR |
-| Empalot | EPT |
-| Eygurande Merlines | EYG |
-| Facture | FA |
-| Fargniers | FAR |
-| Froncles Buxieres | FEB |
-| Calais-Frethun | FHS |
-| La Ferte Chevresis | FVS |
-| Gaillon Aubevoye | GAA |
-| Gragnague | GAG |
-| Grenoble | GE |
-| La Plaine | GPL |
-| Gilly Sur Loire | GSL |
-| Honfleur | HFE |
-| Heming | HMG |
-| Dormagen | KDO |
-| Labarthe Inard | LAX |
-| La Barque Fuveau | LBF |
-| Le Cateau | LCA |
-| Landas | LDD |
-| La Defense | LDU |
-| Lesquin | LEQ |
-| Lagny Thorigny | LGY |
-| Liart | LIR |
-| Le Locle | LLO |
-| Lunery | LNY |
-| Lannemezan | LNZ |
-| Loches | LO |
-| Loison | LOO |
-| Lepin Le Lac La Bauche | LPL |
-| La Rochelle Ville | LR |
-| Le Stade | LSD |
-| Laigne St Gervais | LSG |
-| Luche | LUH |
-| La Varenne Chennevieres | LVC |
-| Macon-Ville | MAC |
-| Varennes Le Grand | VAD |
-| Vivonne | VIV |
-| Vic Le Comte | VLC |
-| Voivres | VOI |
-| Vougeot-Gilly Les Citeaux | VOT |
-| Vern | VRN |
-| La Verriere | VYL |
-| Viviez Decazeville | VZ |
-| St Ingbert | XSI |
-| Montbeugny | MBE |
-| Machecoul | MCC |
-| Mulhouse Dornach | MD |
-| Meudon | MDN |
-| La Menitre | MEQ |
-| Montherme | MME |
-| Montbazon | MNZ |
-| Moussy Prci13 | MOY |
-| Maromme | MRM |
-| Marracq | MRQ |
-| Mormant | MRT |
-| Morteau | MTO |
-| Mussidan | MUS |
-| Les Mazes Le Cres | MZR |
-| Metz Sablon | MZS |
-| Narbonne | NA |
-| Noyen | NON |
-| Noyon | NOY |
-| Neuisenburg | NSB |
-| Nuces | NUC |
-| Neuville Universite | NUE |
-| Neuvic (Dordogne) | NVC |
-| Oyonnax | OYO |
-| Port De Bouc | PDB |
-| Pont De La Deule | PDD |
-| Peille | PEI |
-| Plaintel | PIL |
-| Paulhaguet | PLH |
-| Pontanevaux La Chapelle | PNX |
-| Pont Du Chateau | POC |
-| Polisot | POL |
-| Peltre | PTE |
-| Pont Du Casse | PU |
-| Puyoo | PUO |
-| Ria | RA |
-| Remoulins Pont Du Gard | RMS |
-| Royan | ROY |
-| St Aubin Sur Scie | SBE |
-| Sorgues Chateauneuf Du Pape | SCP |
-| St Die | SD |
-| Saint Georges De Reneins | SDI |
-| Dillingen | SDL |
-| St Mariens St Yzan | SMS |
-| St Mathurin | SNZ |
-| Soulosse (Ex Bv) | SOO |
-| Sarrancolin | SRC |
-| Saintes | SS |
-| St Michel Sur Meurthe | SSM |
-| Satigny | SYF |
-| Saint Chely D'apcher | SYH |
-| Thenon | THN |
-| Terrasson | TRS |
-| Tressin | TSN |
-| Avenay | AAY |
-| Aimargues | AIA |
-| Aigurande | AIG |
-| Albi Ville | AL |
-| Altkirch | ALK |
-| Arques Pas De Calais | ARQ |
-| Alessandria | ASD |
 | Aubagne | AUB |
-| Avranches | AVR |
-| Auxy Juranville | AXJ |
-| Bailleau Le Pin | BAP |
-| Barcelone | BAR |
-| Boussac | BC |
-| Bois Colombes | BCO |
-| Sevran Beaudottes | BDE |
-| Belleville | BEE |
-| Belves | BES |
-| Benfeld | BFD |
-| Bourges | BGS |
-| Bellevue | BLU |
-| Boves | BOV |
-| Blanquefort | BQF |
-| Boran Sur Oise | BRN |
-| Brou | BRO |
-| Baroncourt  | BRT |
-| Bruz | BRZ |
-| Budeliere Chambon | BUH |
-| Chatel Nomexy | CEO |
-| Correze | CZE |
-| Donzere | DOE |
-| Hericourt | HCT |
-| Izel Les Esquerchin Prci 26 | IZE |
-| Kalhausen | KHS |
-| Kuntzig | KZG |
-| Le Boulou-Perthus | LBP |
-| La Motte | LBW |
-| Luce | LCJ |
-| Le Creusot | LCR |
-| La Ferte Gaucher | LFG |
-| Langon | LG |
-| Louhans | LHN |
-| L'hopital-Du-Grosbois | LHO |
-| L'isle Jourdain(Gers) | LIJ |
-| Lessinnes | LIN |
-| Laluque | LLQ |
-| La Membrolle Sur Choisille | LRL |
-| Lubersac | LRZ |
-| Le Teil (Ardeche) | LTE |
-| Longwy | LWY |
-| Luxe | LXC |
-| Lyon Gorge De Loup | LYL |
-| La Miouze-Rochefort | LZR |
-| Machilly | MCI |
-| Miraumont | MIK |
-| Malemort Laffont | MMF |
-| Morez | MOZ |
-| Marignier | MRG |
-| Monts(Indre Et Loire) | MSD |
-| Mont Louis La Cabanasse | MTC |
-| Mericourt Ribemont | MTL |
-| Mettray | MTY |
-| Murat | MUR |
-| Martigny Les Bains | MYI |
-| Nonancourt | NCO |
-| Notre Dame D'oe | NDA |
-| Neufchatel - Hardelot Plage | NHA |
-| Nieppe | NPE |
-| Offenbach Main Hbf | OFB |
-| Orelle Premont | ORP |
-| Paris Austerlitz | PAZ |
-| Port Boulet | PBT |
-| Parent Coudes Champeix | PCC |
-| Porte De Clichy | PCL |
-| Plechatel | PCT |
-| Port Sec De Pacy | PCY |
-| Peterborough | PGH |
-| Pont St Esprit | POE |
-| Pouxeux | PXX |
-| Precy Sur Oise | PYO |
-| Quintin | QIN |
-| Roscoff | RFF |
-| Ranchot | RNH |
-| Roanne | ROA |
-| Bergerac | BGC |
-| Bellegarde (Ain) | BGD |
-| La Bassee Violaines | BII |
-| Blesme Haussignemont | BIM |
-| Boucoiran | BKW |
-| Barisey La Cote | BLC |
-| Bonlieu Roubion (Lgv) | BLI |
-| Bengy | BNH |
-| Bourg La Reine | BQQ |
-| Bertry | BTD |
-| Bitschwiller (Ht Rhin) | BW |
-| Le Bruel | BWQ |
-| Billom | BZO |
-| Chateau Gaillard | CGK |
-| Choisy Le Roi | CLR |
-| Chevremont | CMF |
-| Calais Maritime | CMM |
-| Clelles Mens | CMS |
-| Chatillon Sur Loire | COO |
-| Cormeilles En Parisis | CPA |
-| Chaponost | CPT |
-| Chelles Gournay | CSG |
-| Clermont En Argonne | CTA |
-| Chateaurenard | CTD |
-| Civry St Cloud | CYD |
-| Checy Mardie | CYM |
-| Epoisses | EPS |
-| Estivaux | ESX |
-| Ep. Base Travaux D'eurre | EUR |
-| Fontaines Mercurey | FAE |
-| Fleurance | FLE |
-| Gevrey Triage | GEV |
-| Gennes Longuefuye | GFY |
-| Saint Cyr Les Lecques La Cadie | SAQ |
-| Sarrebruck | SBK |
-| St Cergues Les Voirons | SCG |
-| Schaerbeek | SCH |
-| Saint Claude | SCL |
-| Surdon | SDN |
-| Saint Rome De Cernon | SDO |
-| St Andre Des Eaux | SEX |
-| Saint Omer En Chaussee | SHS |
-| St Junien | SJU |
-| Sotteville | SO |
-| Sequedin | SQD |
-| Sennecey Le Grand | SRD |
-| St Maur Sur Indre | SRR |
-| St Simeon | SSJ |
-| Servas Lent | SVN |
-| Ste Genevieve Des Bois | SXG |
-| Sury Le Comtal | SYC |
-| Tain L Hermitage - Tournon | TAI |
-| Tracy Sancerre | TAY |
-| Trebes | TBS |
-| Theillay(Loir Et Cher) | THY |
-| Torcy | TOC |
-| Tournan | TOU |
-| Ussac | USS |
-| Vincey | VCY |
-| Vesoul | VES |
-| Vierzon Forges | VFO |
-| Wattignies Templemars | WAT |
-| Angouleme | A |
-| Aire Sur L'adour | AA |
-| Aurillac | AC |
-| Aigueperse | AGE |
-| Anvers | ANW |
-| Ardentes | ARD |
-| Arles | ARS |
-| Artonges | ART |
-| Amiens | AS |
-| Aspres Sur Buech | ASH |
-| Avesnelles | AVS |
-| Ayron Latille | AYA |
-| Saze Tgv | AZ |
-| Arzembouy | AZB |
-| Bedarrides | BDR |
-| Rolampont | RAT |
-| Riscle | RCL |
-| Rac De Gagny | RDY |
-| Ribecourt | RIB |
-| Reze Pont Rousseau | RPT |
-| St Hilaire Brizambourg | SBZ |
-| St Cloud | SCD |
-| Simiane | SI |
-| St Jean D'angely | SJA |
-| Saverne | SNE |
-| Strasbourg Neudorf | SNF |
-| Calonne Ricouart | CPC |
-| Caussade(Tarn Et Garonne) | CSD |
-| Cusset | CUT |
-| Corcieux Vanemont | CXV |
-| Dourdan La Foret | DA |
-| Dieppe | DE |
-| Drulingen | DRL |
-| Etriche Chateauneuf | EEF |
-| Embermenil | EMM |
-| Epernon | EPN |
-| Esternay | ES |
-| Etaples - Le Touquet | ETA |
-| Etrechy | ETY |
-| Faulquemont | FAQ |
-| Faubourg D Orleans | FBL |
-| Fegersheim-Lipsheim | FHM |
-| Fourchambault | FLT |
-| Gannat | GAN |
-| Gignac Cressensac(Lot) | GCC |
-| Gironde | GID |
-| Givors Ville | GIV |
-| Halte De Grand Pont | GPP |
-| St Germain En Laye Bel Air Fou | GRM |
-| La Grave D'ambares G.I. | GVA |
-| Geneve Eaux Vives | GVI |
-| Graveson Maillane | GVS |
-| Gazeran | GZA |
-| Ham Somme | HAM |
-| Houdemont | HDT |
-| Hettange Grande | HET |
-| Hoenheim Tram | HMT |
-| Hendaye Plage | HP |
-| Le Haut Banc | HTB |
-| Kinkempois | KIN |
-| Labruguiere | LBG |
-| Le Creusot-Montceau-Montchan | LCM |
-| La Chapelle Vendome | LCV |
-| Lus La Croix Haute | LCX |
-| La Vavrette-Tossiat | LEO |
-| La Ferte Milon | LFM |
-| Lahonce | LHC |
-| Le Chatelet | LHR |
-| Le Lioran | LLN |
-| Liernais | LRI |
-| La Riviere Thibouville | LRT |
-| London St Pancras | LSS |
-| Magenta | MAG |
-| Marcheprime | MCP |
-| Marseille Mme Canet | MCT |
-| Montescourt | MCU |
-| Mont Notre Dame | MDA |
-| Meaux | MEA |
-| Meyrargues Chantier Perthuis | MEK |
-| Mer(Loir Et Cher) | MER |
-| Meyrargues | MEY |
-| Martigny | MGY |
-| Maisons Laffitte | MLF |
-| Le Molay Littry | MLW |
-| Marmande | MMD |
-| Moulin Neuf Oise | MNF |
-| Molsheim | MOL |
-| Motteville | MOT |
-| Montbre | MPB |
-| Marsac (Dordogne) | MRA |
-| Marignac St Beat | MSB |
-| Maroeuil | MUI |
-| Mitry Claye | MY |
-| Nice Ville | NE |
-| Novion Porcien | NOP |
-| Neuille Pont Pierre | NPP |
-| Oignies Prci 27 | OIP |
-| Les Ormes Sur Vienne | ORE |
-| Paris Batignolles | PB |
-| Pombliere St Marcel | PBM |
-| Peyraud | PEY |
-| Pringy (Haute Savoie) | PGY |
-| Pisany | PIA |
-| Parcoul Medillac | PMC |
-| Palinges | PNG |
-| Pontorson Mont St Michel | PON |
-| Pont Sur Seine | PRN |
-| Provins | PRO |
-| Mezin | MZI |
-| Nantes Blottereau | NBL |
-| Nantes Etat | NET |
-| Neuvy Sur Loire | NEV |
-| Novillars | NOV |
-| Neuville Sur Saone | NSS |
-| Nanterre Universite | NUN |
-| Obernai | OBE |
-| Ostende | OST |
-| Ourscamp | OUA |
-| Poste Des Berchettes | PBQ |
-| Pagny Sur Moselle | PMO |
-| Pamiers | PMS |
-| Poissy | PSY |
-| Le Petit Therain | PTH |
-| Provencheres Sur Fave | PVF |
-| Rassuen | RAU |
-| Rosieres | ROS |
-| Sembadel | SEM |
-| Septemes | SEP |
-| Saint Eloy | SEY |
-| St Gervais-Les-Bains-Le F. | SGB |
-| St Germain Les Belles | SGN |
-| St Geours | SGQ |
-| Schifferstadt | SHI |
-| St Just St Rambert | SJR |
-| Sarras | SKA |
-| Saint Quentin | SQ |
-| Saint Etienne Du Bois | SSK |
-| Saint Omer Pas De Calais | STO |
-| Sarre-Union | SU |
-| Saint Paul (Oise) | SUE |
-| Saint Vallier Sur Rhone | SUO |
-| Simandre Sur Suran | SUS |
-| Stiring Wendel | SW |
-| Saint Maximin Marchandises | SXI |
-| Tamnay Chatillon | TCH |
-| Tendron | TDN |
-| Thionville | THL |
-| Thonon Les Bains | THO |
-| Thiaucourt | THU |
-| Tonnay Charente | TNC |
-| Tulle | TUL |
-| Talizat | TZT |
-| Villeneuve Les Beziers | VBZ |
-| Vaux En Bugey | VEB |
-| Villeurbanne | VLE |
-| Vernon (Eure) | VN |
-| Villiers Sur Marne | VSM |
-| Villeneuve La Guyard | VVG |
-| Vireux Molhain | VX |
-| Yvetot | YVT |
-| Aubigny En Artois | ABI |
-| Amagne Lucquy | AMA |
-| Arcachon | ARC |
-| Arengosse | ARO |
-| Arvant | ARV |
-| Auneau | AUN |
-| Bassens | BAS |
-| Bray Dunes | BD |
-| Beauchastel | BHT |
-| Belle Isle Begard | BIB |
-| Breaute Beuzeville | BTB |
-| Beugnatre | BTP |
-| Breval | BVA |
-| Saint Ours Les Roches | SOR |
-| Strasbourg Port Du Rhin | SRH |
-| St Louis Haut Rhin | STL |
-| Soulac Sur Mer | SUU |
-| Serquigny | SY |
-| Sougy Sur Loire | SYJ |
-| Saint Yorre | SYO |
-| Aulnois Sous Laon | AAO |
-| Ablon | ABL |
-| Abancourt | ABT |
-| Arcy Sur Cure | ACU |
-| Aigues Mortes | AIM |
-| Annappes | ANP |
-| Argenteuil Triage | ARG |
-| Argeles Sur Mer | ASW |
-| Artenay (Loiret) | ATY |
-| Bornel Belle Eglise | BBI |
-| Breteuil Embranchement | BEB |
-| Beillant | BIL |
-| Beautiran | BIR |
-| Bar Le Duc | BLD |
-| Ballan | BME |
-| Bas Monistrol | BMO |
-| Besancon Viotte | BN |
-| Bram | BRM |
-| Besseges | BSG |
-| Batilly | BTL |
-| Boucau | BUU |
-| Bretenoux Biars | BXB |
-| Baleycourt  | BYC |
-| Caffiers | CAF |
-| Carentan | CAR |
-| Conflans Fin D'oise | CFD |
-| Calais Gl | CGA |
-| Chamarande | CHK |
-| Chasseneuil(Vienne) | CHN |
-| Ceintrey | CIT |
-| Verberie | VBE |
-| Vendome | VDM |
-| Vallon | VLL |
-| Vizzavona | VZZ |
-| Wavrin | WAV |
-| Wambrechies | WB |
-| St Agne | XAE |
-| Zeebrugge | ZEE |
-| Zoufftgen ( Ex Bv) | ZFF |
-| Coucy Les Eppes | CCP |
-| Coudekerque Branche | CDK |
-| Candiolo | CDX |
-| Clion Sur Indre | CEW |
-| Cerizay | CEZ |
-| Crisse | CI |
-| Cessieu | CIU |
-| Clermont Ferrand | CLE |
-| Caillac | CLK |
-| Cercy La Tour | CLT |
-| Clamart | CMA |
-| Colomiers | COL |
-| Chapeauroux | CPX |
-| Conflans Ste Honorine | CSH |
-| Cassis | CSI |
-| Chevigny St Sauveur | CVJ |
-| Cerbere Ie | CWF |
-| Courzieu Brussieu | CZB |
-| Doyet La Presle | DPE |
-| Gournay Ferrieres | GOF |
-| Harfleur | HAF |
-| Houilles Carrieres Sur Seine | HAR |
-| Hesdigneul | HES |
-| Huriel | HIL |
-| Houlgate | HOE |
-| Le Cheylas La Buissiere | HYL |
-| Joeuf | JOF |
-| Ep. Camp Milit. De Carpiagne | KAP |
-| Coolus | KOO |
-| Les Ardoines | LAD |
-| Les Ancizes-St-Georges | LAS |
-| La Charite | LAT |
-| Labouheyre | LBH |
-| Lancey | LCW |
-| Liverdun | LDN |
-| Luc En Diois | LDO |
-| Lille Delivrance | LDV |
-| Le Landy | LDX |
-| Le Rody | LDY |
-| Labergement Ste Marie | LGM |
-| Lillers | LLL |
-| Lacourtensourt | LNT |
-| Loire Poste 1 | LOI |
-| Lorcy. | LOR |
-| Loisy Sur Marne | LOS |
-| Le Plant Champigny | LPC |
-| Limoges Benedictins | LS |
-| Longueil Ste Marie | LUE |
-| Lure | LUR |
-| Luzarches | LUZ |
-| Le Valdahon | LVN |
-| Montigny Beauchamp | MBP |
-| Marcelcave | MCV |
-| Mezidon | MEZ |
-| Magnette | MGR |
-| Miribel | MIB |
-| Morains Aulnay | MJJ |
-| Malain | MLI |
-| Montpaon | MNP |
-| Morvillars | MOV |
-| Moreuil | MRE |
-| Montreuil Sur Ille | MSI |
-| Montanay (Lgv) | MXO |
-| Milly Sur Therain | MYH |
-| Neuilly St Front | NSF |
-| Nevers | NV |
-| Obermodern | OBM |
-| Onville | ONV |
-| Orchamps (Jura) | ORA |
-| Pont De L'arche | PAR |
-| Pont De Buis | PBU |
-| Pont De Roide | PDR |
-| Parc Des Expositions | PEX |
-| Antibes | ATB |
-| Axat | AXA |
-| Baccarat | BAC |
-| Boisseaux | BAX |
-| Bonnard Bassou | BBS |
-| Beaucaire Marchandises | BCA |
-| Bouc Cabries | BCB |
-| Blere La Croix | BCX |
-| Beaurainville | BIV |
-| Bourron Marlotte Grez | BOM |
-| Breteuil Ville | BRV |
-| Bon Encontre | BTR |
-| Bruyeres Vosges | BUY |
-| Belleville Vendee | BVD |
-| Bayon | BYN |
-| Beynes | BYS |
-| Belz-Ploemel  | BZP |
-| Corbigny | CBY |
-| Carcassonne | CCE |
-| Coutances | CCS |
-| Clermont Fd.Gravanches | CF |
-| Chateauneuf Sur Cher | CHC |
-| Chandieu Toussieu | CHD |
-| Chaulnes | CHL |
-| Chemin D'antony | CHQ |
-| Conflans Jarny | CJ |
-| Crecy La Chapelle | CLC |
-| Chatelet-Les Halles | CLX |
-| Chantilly Gouvieux | CLY |
-| Cerences | CRC |
-| Carhaix | CRX |
-| Epone Mezieres | EPO |
-| Etrepagny | ETR |
-| Eu | EU |
-| Fontenay Le Fleury | FAF |
-| Fos Coussoul | FOC |
-| Font Romeu Odeillo | FRM |
-| Grande Arche De La Defense | GAW |
-| Garage Grand Pont | GP |
-| Grand Quevilly | GRD |
-| Hirson | HI |
-| Houdan | HOA |
-| Igney Avricourt | IA |
-| Incheville | ICH |
-| La Brohiniere | LBR |
-| Le Coteau | LCU |
-| Lourdes | LD |
-| Le Dorat | LDT |
-| Liancourt Rantigny | LIA |
-| Libramont | LIT |
-| Lalbenque Fontanes | LNQ |
-| Ladon | LOQ |
-| Louvres | LOV |
-| La Pauline Hyeres | LPH |
-| Lyon-Per.Marchandises | LPM |
-| Lapalisse St Prix | LPX |
-| Les Sables D'olonne | LSO |
-| La Souterraine | LST |
-| Lamonzie St Martin | LZE |
-| Montierchaume | MCM |
-| Montmedy | MDY |
-| Montcaret | MOC |
-| Montigny En Ostrevent | MYO |
-| Castelnau Riviere Basse | CTU |
-| Coulombiers | CUS |
-| Crepy En Valois | CYV |
-| Dardilly | DDY |
-| Desvres | DEV |
-| Donchery | DEY |
-| Feuquieres Fressenneville | FEF |
-| Golfe De Fos | FOQ |
-| Frontenex | FOX |
-| Frick | FRK |
-| Presles En Brie | PTB |
-| Publier | PUB |
-| Pont Sur Yonne | PUY |
-| Quesnoy Sur Deule | QUS |
-| Reuilly(Indre) | REL |
-| Ruffey | RFY |
-| Regny | RGY |
-| Ruffec(Charente) | RU |
-| Romilly La Puthenaye | RYP |
-| St Andre De Cubzac | SAC |
-| St Amand Montrond Orval | SAD |
-| Saint Gervais Chateauneuf | SGH |
-| Saulieu | SIU |
-| Salindres | SLD |
-| St Malo | SM |
-| Neunkirchen | SNK |
-| Savenay | SNY |
-| St Pierre Sur Dives | SPD |
-| St Paterne | SPN |
-| St Quentin En Yvelines | SQY |
-| Saint Sauveur De Peyre | SSP |
-| Selles Sur Cher | SUC |
-| Tanlay | TAL |
-| Thaon | TAO |
-| Tavaux | TAV |
-| Thiel Sur Acolin | TCO |
-| Tergnier | TGR |
-| Toulon | TLN |
-| Thieux Nantouillet | TNT |
-| Tarascon Sur Ariege | TRC |
-| Trith St Leger | TSL |
-| Ugine | UGI |
-| Varennes Sur  | VAA |
-| Vaires | VAI |
-| Val D'argenteuil | VDA |
-| Vignats | VGG |
-| Villeneuve D'aveyron | VLV |
-| Vandieres | VNU |
-| Vorey | VOE |
-| Valenciennes | VS |
-| Audrieu | ADR |
-| Asnieres Sur Seine | AEE |
-| Arbois | AOI |
-| Couliboeuf | CLB |
-| Chambourg | CMG |
-| Chatillon De Michaille | CMK |
-| Carbonne | COA |
-| Cannes Marchandises | CPH |
-| Les Cauquillous | CQS |
-| Cramans | CRA |
-| Cesseins Prs 27 | CSE |
-| Chateaubriant | CTB |
-| Chevry Cossigny | CYY |
-| La Chaize Le Vicomte | CZC |
-| Dangeau Poste 16 Prs | DGU |
-| Deluz | DLZ |
-| Dompierre Nord | DMR |
-| Esch Sur Alzette | EAL |
-| Embrun | EBN |
-| Elven | ELE |
-| Epluches | EPL |
-| Essen | FFS |
-| La Fresnais | FSN |
-| Fresnoy Le Luat Prci 14 | FYP |
-| Fontaines Ozillac | FZC |
-| Gensac La Pallue | GCA |
-| Gudmont | GDM |
-| Gisors | GIS |
-| Grandpuits Bagneaux | GPB |
-| Gremberg | GRG |
-| Grainville Ymauville | GRY |
-| Le Genest | GST |
-| Hochfelden | HCH |
-| Hoerdt | HOD |
-| Ivry Sur Seine | IV |
-| Iwuy | IWY |
-| Jarnac Charente | JC |
-| Les Arcs-Draguignan | LAC |
-| Laroche Migennes | LAR |
-| La Basse Indre St Herblain | LBI |
-| Lambersart | LBK |
-| L'arbresle | LBL |
-| La Ferte Bernard | LFB |
-| La Fouillouse | LFI |
-| Longuyon | LGN |
-| Liege | LIE |
-| Longjumeau | LJU |
-| Leval | LL |
-| Lalinde | LLK |
-| Leffrinckoucke | LNK |
-| La Roche-En-Brenil | LRB |
-| Le Thor | LTH |
-| Le Treport Mers | LTM |
-| La Voute Sur Loire | LVL |
-| Livry Sur Seine | LYQ |
-| Viescamp Sous Jalles | VAJ |
-| Versailles-Chantiers | VCH |
-| Valence Tgv | VCV |
-| Verdun | VDN |
-| Vieuvicq Montigny | VEC |
-| Villiers Le Bel Gonesse | VIB |
-| Vertou | VT |
-| Vitry La Ville | VYV |
-| Vezelise | VZL |
-| Watten Eperlecques | WAP |
-| Le Banlay | WBY |
-| Xeuilley | XEU |
-| Montchanin | MCH |
-| Muret | MET |
-| Meximieux Perouges | MEX |
-| Morhange | MHG |
-| Montfort Le Gesnois | MLG |
-| Montmelian | MML |
-| Mauco Benquet | MOQ |
-| Montelimar | MTR |
-| Mont De Terre | MXT |
-| Montreux | MXX |
-| Peronville | PEO |
-| Plestan | PLE |
-| Paray Le Monial | PLM |
-| Pont Maugis | POT |
-| P.De Rungis Aerop.D'orly | PRU |
-| Courtrai | QRT |
-| Rochefort | RC |
-| Ronchamp | RCP |
-| Rodez | RDZ |
-| Riom | RIO |
-| Ris Orangis | RIS |
-| Rouen Martainville | RMT |
-| Schwetzingen | RSZ |
-| Rethel | RTL |
-| Aerop 2 Ch De Gaulle - Tgv | RYT |
-| Saint Marcellin (Isere) | SCI |
-| Veauche Saint Galmier | SGL |
-| Ste Christie | SHR |
-| St Christophe(Aveyron) | SIH |
-| Sisteron | SIO |
-| Saint Leu La Foret | SLF |
-| St Martin D'etampes | SME |
-| St Medard De Guiz. | SMZ |
-| Saint Ouen Les Docks | SOD |
-| Saint Roch Somme | SRO |
-| St Sulpice(Tarn) | SST |
-| Tarare | TAR |
-| Toulouse Raynal | TLR |
-| Ussel | U |
-| Acheres | ACH |
-| Ancona | ACO |
-| Anizy Pinon | API |
-| Appenweier | APW |
-| Ars Sur Moselle | ASM |
+| Aubazine St Hilaire | ABA |
 | Aubenton | AUE |
-| Avrigny | AVG |
-| Avesnes | AVN |
-| Avignon Tgv | AVV |
-| Aulnoye - Aymeries | AYE |
-| Bayeux | BAY |
-| Bazoches | BCE |
-| Beaune | BEA |
-| Bourganeuf | BF |
-| Bruxelles National Aeroport | BNA |
-| Bourg St Andeol | BSA |
-| Bordeaux St Louis | BSL |
-| Busseau Sur Creuse | BUC |
-| Bulle | BUL |
-| Bussoleno | BUO |
-| Blanzy | BYK |
-| Bussy Lettree Vatry  | BYY |
-| Bouzonville | BZV |
-| Colombier Fontaine | CFT |
-| Cornil | CIL |
-| Cergy - Prefecture | CYP |
-| Ceyzeriat | CZR |
-| Dunkerque Ferry | DKM |
-| Dercy Mortiers | DRT |
-| Le Dramont | DRW |
-| Genlis | GLS |
-| Gundershoffen | GUF |
-| Huningue | HIN |
-| Illiers Combray | ILC |
-| Irun | IN |
-| Koenigsmacker | KER |
-| Koblentz-Luetzel | KKO |
-| Lapeyrouse Mornay (Lgv | LAW |
-| Landivisiau | LDI |
-| Lingolsheim | LGH |
-| Liguge | LGJ |
-| La Gouesniere-Cancale-St M. | LGO |
-| Longpre Les Corps Saints | LGP |
-| La Cluse Ville | LLU |
-| Limoges Montjovis | LMJ |
-| Landau | LND |
-| Longroy Gamaches | LOG |
-| Lamothe Landerron | LOH |
-| Le Perray | LPE |
-| Lille St Sauveur | LSA |
-| Lavardac | LVG |
-| Lizy Sur Ourcq | LZO |
-| Montaignac St Hippolyte | MCE |
-| Maison Dieu | MEU |
-| Maubourguet | MGE |
-| Meuse Tgv | MGV |
-| Menaucourt | MNT |
-| Montsurs | MSW |
-| Montrabe | MTB |
-| Marvejols | MVJ |
-| Noveant | NEN |
-| Nogent Le Rotrou | NGR |
-| Nice Riquier | NIR |
-| Noiretable | NOI |
-| Nouzonville | NOU |
-| Nice St Roch | NSR |
-| Objat | OB |
-| Orly Ville | OY |
-| Pauillac | PAC |
-| Pont D'hery | PDE |
-| Polienas | PES |
-| Le Pallet | PLL |
-| Pont Vert | PTV |
-| Quevy | QY |
-| Ribeauville | RAV |
-| Rolleville | ROL |
-| Bully Grenay | BG |
-| Breuillet Bruyeres Le Chatel | BIH |
-| Brignoles | BLS |
-| Boulevard Massena  | BM |
-| Bourg Madame | BMD |
-| Bebra | BRA |
-| Breil Sur Roya | BRE |
-| Breuillet Village | BRW |
-| Betton | BTN |
-| Beuvry Pas De Calais | BVR |
-| Byans | BYB |
-| Coulanges Sur Yonne | CAO |
-| Chemilly Appoigny | CAP |
-| Carquefou | CAQ |
-| Chamborigaud | CBO |
-| La Chapelle St Luc | CHU |
-| Croix-L'allumette | CIX |
-| Creysse Mouleydier | CKR |
-| Clamecy | CLA |
-| Colmar | CMR |
-| Chatellerault | CRT |
-| Cousance | CSJ |
-| Chateaubourg | CTG |
-| Chevrieres | CVE |
-| Erquelinnes | ERQ |
-| Les Poulageres (Ep Ville Mars) | EVM |
-| Eymoutiers Vassiviere | EYM |
-| La Fere | FER |
-| Firminy | FNY |
-| Forgevieille | FOE |
-| Flere La Riviere | FVR |
-| Gardanne | GDN |
-| Romorantin | RWO |
-| Ste Colombe Les Vienne St R | SCE |
-| Sainte Cecile D'andorge | SCZ |
-| St Denis Jargeau | SDJ |
-| Saint Etienne Bellevue | SEB |
-| St Loubes | SIT |
-| Saujon | SJ |
-| Saint Just En Chaussee | SJS |
-| Saint Germain L Espinasse | SLK |
-| St Germain Sur Ille | SMW |
-| Somain | SOM |
-| Saumur | SUD |
-| St Blaise La Roche Poutay | SZR |
-| Trementines | TMT |
-| Thourotte | TOE |
-| Urmatt | URM |
-| Varades St Florent Le Vieil | VDE |
-| Velines | VLN |
-| Vernaison | VNI |
-| Voreppe | VPE |
-| Vouziers | VZS |
-| Wingen Sur Moder | WM |
+| Auber | AUU |
 | Aubergenville Elisabethville | AEH |
-| Antheor Cap Roux | AHC |
 | Aubiet | AIT |
-| Arras | ARR |
-| Aiserey | ASI |
+| Aubigny Au Bac | AAB |
+| Aubigny En Artois | ABI |
+| Aubigny Sur Nere | ABY |
+| Aubrives | ARI |
+| Aubusson | AO |
+| Auch | AH |
+| Auchy Les Hesdin | AHH |
+| Audrieu | ADR |
+| Audruicq | ADQ |
+| Audun Le Roman | ALR |
+| Auersmacher | ACR |
+| Auffay | AUF |
+| Augny | AGY |
+| Aulnay Sous Bois | AB |
+| Aulnois Sous Laon | AAO |
+| Aulnoye - Aymeries | AYE |
+| Aumale | AUM |
+| Aumont Aubrac | AAU |
+| Aunay Treon | AYT |
+| Auneau | AUN |
+| Auray | AY |
+| Aurec | AEC |
+| Aurillac | AC |
+| Auterive | AIE |
+| Autet | AUT |
+| Autrey Les Gray | ATA |
 | Autun | AU |
 | Auvers Sur Oise | AUW |
+| Auxerre St Gervais | AUX |
+| Auxonne | AXO |
+| Auxy Juranville | AXJ |
+| Auzances | AUZ |
+| Avallon | AVA |
+| Avenay | AAY |
+| Avenue Foch | AVF |
+| Avenue Henri Martin | AHM |
+| Avenue Prt Kennedy | APK |
+| Avesnelles | AVS |
+| Avesnes | AVN |
+| Avigliana | ANA |
+| Avignon | AV |
+| Avignon Fontcouverte | AFT |
+| Avignon Fret | AF |
+| Avignon Tgv | AVV |
+| Avion | AON |
+| Avoise | AVI |
+| Avord | AD |
 | Avoudrey | AVO |
-| Aunay Treon | AYT |
-| Blangy Sur Bresle | BB |
-| Balbigny | BBY |
-| Bacouel | BCU |
-| Bourre | BEH |
-| Ponte-Leccia | PXL |
-| Rang Du Fliers Verton | RDF |
-| Redon | RDN |
-| Rouesse Vasse | REE |
-| Remilly | RMI |
-| Roissy En Brie | ROB |
-| Ronet | RON |
-| Ruelle | RUL |
-| Revel Soreze | RVS |
-| Roeschwoog | RWG |
-| St.Etienne Pont De L'ane | SEA |
-| Seurre | SEU |
-| Saint Georges D'aurac | SGA |
-| St Germain Gc | SGM |
-| St Hilaire De Brethmas | SHB |
-| Saint Hilaire St Nazaire | SHN |
-| Salles Courbatiers | SIR |
-| Savines | SIS |
-| Saint Louis Les Aygalades | SLA |
-| Sarlieve Cournon | SLC |
-| St Lo | SLO |
-| St Martin Du Touch | SMT |
-| Sommesous | SMU |
-| Saint Romain De Popey | SNP |
-| Champagne Sur Seine | CME |
-| Couhe Verac | COH |
-| Champ De Mars-Tour Eiffel | CPM |
-| Cavaillon | CVN |
-| Les Clouzeaux | CZX |
-| Dollon Poste32 Prs | DLL |
-| Doulon | DLN |
-| Domodossola | DOA |
-| Dompierre Sept Fons | DOP |
-| Decize | DZE |
-| Epinal | EL |
-| Feyzin | FEY |
-| Forges Les Eaux | FGX |
-| Formerie | FMR |
-| Freyming Merlebach | FRY |
-| Fumel | FU |
-| Gironcourt Houecourt | GIT |
-| Merelbeke | GME |
-| Genolhac | GNC |
-| Guignicourt Aisne | GUI |
-| Gravelines | GVL |
-| Hondeghem | HGP |
-| Herrlisheim Bas Rhin | HRL |
-| Herblay | HRY |
-| Hesdin | HSD |
-| La Bourboule | LBB |
-| Landebia | LDB |
-| Le Cellier | LEI |
-| Le Theil La Rouge | LEU |
-| Lexos | LEX |
-| La Garde | LGD |
-| Lorraine Tgv | LGV |
-| L'herbergement Les Brouzils | LHB |
-| Ligny | LIY |
-| Lamotte Breuil | LMB |
-| Langeac | LNG |
-| Lens | LNS |
-| Lapradelle | LPW |
-| La Crau | LUV |
-| Lezignan (Aude) | LZA |
-| Miramas | MAS |
-| Malbosc | MBO |
-| Morgny | MGN |
-| Meriel | MLV |
-| Merens Les Vals | MLX |
-| Mortcerf | MOF |
-| Moissac | MOI |
-| Moret-Veneux-Les-Sablons | MOR |
-| Munich | MU |
-| Muttenz | MZZ |
-| Noailles(Correze) | NIL |
-| Nozieres Brignon | NOZ |
-| Ep Jj.Carnaud | NSC |
-| Nouvion Sur Meuse | NSM |
-| Port La Nouvelle | PLN |
-| Puteaux | PTX |
-| Puget Sur Argens | PUE |
-| Neuenburg(Db) | NBG |
-| Nuits-Sous-Ravieres | NUR |
-| Oissel | OI |
-| Parthenay | PAY |
-| Pleyber Christ | PBC |
-| Parsac Gouzon | PCG |
-| Pas Des Lanciers | PDL |
-| Plerguer | PGE |
-| Le Peage De Roussillon | PGR |
-| Podensac | POD |
-| Pontoise | PSE |
-| Portet St Simon | PSS |
-| Pontarlier | PTL |
-| Puy Guillaume | PUG |
-| Les Ramassiers | RAM |
-| Rouen R.G. | RG |
-| Rougemont Chanteloup | RGP |
-| Roqueseriere | RQE |
-| Rumilly | RUM |
-| Realville | RVE |
-| Royat Chamalieres | RYA |
-| Senas | S |
-| Seclin | SCN |
-| Saint Cesaire | SCS |
-| Saint Georges De Luzencon | SDU |
-| Solferino | SFE |
-| Saint Gratien | SGT |
-| Stockem | SKM |
-| Saint Clair Les Roches | SKR |
-| St Germain St Remy | SMK |
-| St Remy Les Chevreuses | SNM |
-| Saint Pierre D'albigny | SPA |
-| St Pol De Leon | SPL |
-| Saint Pierre Le Moutier | SPM |
-| Soultz Sous Forets | SSF |
-| Saint Pourcain Sur Sioule | SSI |
-| Saint Andre Nord | STA |
-| Saint Avre La Chambre | SVB |
-| Sathonay Rillieux | SYR |
-| Tamaris | TAA |
-| Tarascon | TCN |
-| Tiercelet Villers La Montagne | TIE |
-| Les Tines | TNJ |
-| Turin | TNO |
-| Tours | TO |
-| Tournus | TOS |
-| Uzerche | UE |
-| Vincelles | VCL |
-| Vendome Tgv | VDT |
-| Verneuil Sur Avre | VEA |
-| Vaugris | VGR |
-| Villars Les Dombes | VLD |
-| Valleroy Moineville | VOY |
-| Villeneuve-Triage | VSG |
-| Vestric | VTC |
-| Saint Barthelemy | XBA |
-| Saint Jean De Moirans | XJM |
-| St Ouen L Aumone L Eglise | XOA |
-| Ychoux | YX |
-| Arnage | AAG |
-| Ambronay Priay | AAI |
-| Aigueblanche | AGB |
-| Alost | AOS |
-| Aumale | AUM |
-| Auber | AUU |
-| Ancy Sur Moselle | AYM |
+| Avranches | AVR |
+| Avrigny | AVG |
+| Ax Les Thermes | AX |
+| Axat | AXA |
+| Ay | AYN |
+| Ayron Latille | AYA |
 | Aytre | AYR |
 | Azay Le Rideau | AZR |
-| Bricy Boulay | BCY |
-| Buchs | BH |
-| Barjac | BJC |
-| Boissy L'aillerie | BLA |
-| Bandol | BND |
-| Boutheon | BOH |
-| Boussens | BSS |
-| Ballancourt | BUR |
-| Brens Virignin | BVG |
-| Boulevard Victor | BVI |
-| Bretteville Norrey | BVO |
-| Bauvin Provin | BVP |
-| Beauvais | BVS |
-| Ep St Julien-Montricher | SOH |
-| Saint Quentin Fallavier | SQF |
-| Suresnes Puteaux | SRS |
-| St Sever (Calvados) | SSX |
-| St Brice Courcelles | STB |
-| Santes | STS |
-| Stenay | STY |
-| Strazeele | STZ |
-| Sartrouville | SVL |
-| Ste Maure Noyant | SYT |
-| St Yrieix | SYX |
-| Aix En Othe Villemaur | AEO |
-| Aigues Vives | AIV |
-| Aix Les Bains Le Revard | AIX |
-| Alencon | ALN |
-| Avigliana | ANA |
-| Antoing | ANN |
-| Aramon | ARA |
-| Arudy | ARU |
-| Bussiere Galant | BGA |
-| Bruges | BGH |
-| Brignais | BGN |
-| Isbergues | BI |
-| Braine | BIE |
-| Bailleul Nord | BIU |
-| Bize | BIZ |
-| Brassac Les Mines Ste Florine | BLM |
+| Azerailles | AZE |
+| Baccarat | BAC |
+| Bacouel | BCU |
+| Badan | BAD |
+| Badaroux | BDX |
+| Bagnac | BAG |
+| Bagnoles De L'orne | BGO |
 | Bagnols | BNL |
-| Belloy St Martin | BSW |
-| Belleville Sur Saone | BVL |
-| Bordeaux St Jean | BX |
-| Boissy Saint Leger Rer  | BXR |
-| Billy Montigny  | BYM |
-| Bloye | BYO |
-| Caudry | CAU |
-| Chateauneuf Bujaleuf | CBF |
-| Conches | CCH |
-| Chauffailles | CHF |
-| Tessonnieres | TES |
-| Tourcoing | TG |
-| Thennelieres | THR |
-| Toury | TY |
-| Ur Les Escaldes | URL |
-| Le Vert De Maisons | VD |
-| Cordes Vindrac | VDC |
-| Vignacourt | VGT |
-| Vic Sur Cere | VIC |
-| Viguerat | VIQ |
-| Vinay | VNA |
-| Vrigne Meuse | VRM |
-| Vernou Sur Seine | VSS |
-| Vayres | VYR |
-| Cambrai Annexe | CBA |
-| Cordesse Igornay | CDA |
-| Charency Vezin | CHZ |
-| Courcy Brimont | CIM |
-| Chateau Gontier | CIR |
-| Creil | CL |
-| Calais Ville | CS |
-| Chateau La Valliere | CVA |
-| Charix Lalleyriat | CXR |
-| Dourdan | D |
-| Dortmund | DOD |
-| Gennevilliers | GEN |
-| Grenoble Universites Gieres | GRS |
-| Hangest | HAS |
-| Hayange | HAY |
-| Hendaye | HE |
-| Koeln Deutz | KDZ |
-| Kehl | KE |
-| Karlsruhe | KH |
-| Kall | KKA |
-| Laigneville | LAI |
-| Laval | LAL |
-| Labarthe Avezac | LBA |
-| Le Bourget | LBT |
-| Loudeac | LDC |
-| Leyment | LEY |
-| Grand Combe La Pise | LGC |
-| La Garenne Colombes | LGK |
-| Libourne | LI |
-| Limay | LIM |
-| Les Mureaux | LMU |
-| Laneuveville Devant Nancy | LNV |
-| Lapeyrouse | LPY |
-| Le Soler | LSL |
-| Lutterbach (Haut Rhin) | LUT |
-| Lisieux | LX |
-| Lardy | LYO |
-| Martigne Ferchaud | MAF |
-| Marseille En Beauvaisis | MAI |
-| Montbeliard | MBD |
-| Montastruc La Conseillere | MCL |
-| Monthois | MEP |
-| Monaco Country Club | MHC |
-| La Meilleraie | MJP |
-| Mourmelon Le Petit | MLP |
-| Montargis | MS |
-| Moulins Sur Allier | MSA |
-| Mulhouse Ville | MSE |
-| Marans | MSH |
-| Magneux | MXN |
-| La Meyze | MYZ |
-| Neronde | NRD |
-| Oudon | OD |
-| Orsay Ville | ORS |
-| Orry La Ville Coye | ORY |
-| Pouru Brevilly | PBI |
-| Puy Imbert | PIM |
-| Paimpol | PIP |
-| Pithiviers | PIT |
-| Port Vendres Ville | POV |
-| Peyrehorade | PRH |
-| Prouvy  | PRT |
-| Poste De St Antoine | PSA |
-| Auxerre St Gervais | AUX |
-| Avoise | AVI |
-| Auxonne | AXO |
-| Barr | B |
-| Le Blanc Mesnil | BAM |
-| Baziege | BAZ |
-| Berlin Hauptbahnhof | BHF |
-| Bry Sur Marne  | BMA |
-| Boulogne Maritine | BMM |
-| Bourmont  | BMT |
+| Bagnols Chadenet | BCT |
+| Baigts De Bearn | BBR |
+| Bailleau Le Pin | BAP |
+| Bailleul Nord | BIU |
+| Bailleul Sir Berthoult | BSH |
+| Bailleul Sur Therain | BST |
 | Bains Les Bains | BNS |
-| Bonneval | BO |
-| Bruyeres Sur Oise | BRK |
-| Bonson | BSN |
+| Baisieux | BAI |
+| Balbigny | BBY |
+| Bale | BAL |
+| Bale St Jean | BAJ |
+| Baleycourt  | BYC |
+| Ballan | BME |
+| Ballancourt | BUR |
+| Balsieges Bourg | BKB |
+| Banassac La Canourgue | BAA |
+| Bandol | BND |
+| Bannalec | BNC |
+| Bantzenheim | BTZ |
+| Bar Le Duc | BLD |
+| Bar Sur Aube | BRB |
+| Bar Sur Seine | BUI |
+| Baraqueville Carcenac P. | BAQ |
+| Barbentane Rognonas | BBT |
+| Barberay St Sulpice | BBC |
+| Barcelone | BAR |
+| Barentin | BTM |
+| Barisey La Cote | BLC |
+| Barjac | BJC |
+| Baroncourt  | BRT |
+| Barr | B |
+| Barsanges | BSZ |
+| Bas Evette | BEV |
+| Bas Monistrol | BMO |
+| Base Ln3 Tournan | TOB |
+| Bassens | BAS |
+| Bassens Appontements | BTT |
+| Batilly | BTL |
+| Batz Sur Mer | BSK |
+| Baud | BAU |
+| Baudrecourt | BDC |
+| Bauge | BGE |
+| Baume Les Dames | BDA |
+| Bauvin Provin | BVP |
+| Bavay | BVY |
+| Bayard | BYD |
 | Bayet | BYT |
-| Chatel Censoir | CAL |
-| Chilly Mazarin | CAZ |
-| Cercottes | CCT |
-| Chedde | CED |
-| Chateaulin-Embr. | CEM |
-| Coudray Montceaux | CEX |
-| Challerange | CGE |
-| Chartres | CH |
-| Cholet | CHT |
-| Charny Sur Meuse | CJM |
-| Challans | CLS |
-| Conchil Le Temple | CNC |
+| Bayeux | BAY |
+| Bayon | BYN |
+| Bayonne  | BYE |
+| Bazancourt | BZT |
+| Bazeilles | BZI |
+| Baziege | BAZ |
+| Bazoches | BCE |
+| Beaucaire | BCK |
+| Beaucaire Marchandises | BCA |
+| Beauchastel | BHT |
+| Beaugency | BGY |
+| Beaulieu Sur Mer | BUM |
+| Beaumont De Lomagne | BDM |
+| Beaumont Le Roger | BLR |
+| Beaune | BEA |
+| Beaune La Rolande | BRL |
+| Beaurainville | BIV |
+| Beaurepaire | BRP |
+| Beautiran | BIR |
+| Beauvais | BVS |
+| Bebra | BRA |
+| Becon Les Bruyeres | BEC |
+| Bedarieux | BED |
+| Bedarrides | BDR |
+| Begles | BGL |
+| Beillant | BIL |
+| Belfort | BFT |
+| Bellac | BLL |
+| Belle Isle Begard | BIB |
+| Bellegarde (Ain) | BGD |
+| Bellenaves | BLE |
+| Belleville | BEE |
+| Belleville Sur Saone | BVL |
+| Belleville Vendee | BVD |
+| Bellevue | BLU |
+| Bellignat | BNI |
+| Belloy St Martin | BSW |
+| Belves | BES |
+| Belvezet | BVZ |
+| Belz-Ploemel  | BZP |
+| Benestroff | BEN |
+| Benfeld | BFD |
+| Bengy | BNH |
+| Bening | BNG |
+| Bennwihr | BNW |
+| Beny Aig Ipcs | IBY |
+| Bergerac | BGC |
+| Bergues | BEG |
+| Berlaimont | BER |
+| Berlin Hauptbahnhof | BHF |
+| Berlin Ostgbf | BEL |
+| Bernay | BEY |
+| Berne | BNE |
+| Berre | BRR |
+| Bersac | BHA |
+| Berthelming | BHN |
+| Bertholene | BTH |
+| Bertrix | BTX |
+| Bertry | BTD |
+| Besancon Mouillere | BNM |
+| Besancon Viotte | BN |
+| Besle | BIQ |
+| Bessancourt | BSR |
+| Besse Sur Braye  | BYH |
+| Besseges | BSG |
+| Bessines | BHU |
+| Betheneville | BTV |
+| Bethune | BET |
+| Bettembourg | BTG |
+| Betton | BTN |
+| Beugnatre | BTP |
+| Beuvrages | BUS |
+| Beuvry Pas De Calais | BVR |
+| Beuxes | BEX |
+| Beuzeville Eure | BZL |
+| Beynes | BYS |
+| Beynost | BNO |
+| Beziers | BS |
+| Biache St Vaast | BIA |
+| Biarritz  | BZ |
+| Bievres | BIS |
+| Biffontaine | BFF |
+| Bigny | BIG |
+| Billom | BZO |
+| Billy Montigny  | BYM |
+| Biot | BJO |
+| Birmingham International | BGM |
+| Bischheim | BHM |
+| Bischoffsheim | BFH |
+| Bitschwiller (Ht Rhin) | BW |
+| Bize | BIZ |
+| Blainville Damelevieres | BLV |
+| Blaisy Bas | BSB |
+| Blangy Sur Bresle | BB |
+| Blangy Sur Ternoise | BIP |
+| Blanquefort | BQF |
+| Blanzy | BYK |
+| Blanzy Poste   | BZY |
+| Blaye | BLY |
+| Blere La Croix | BCX |
+| Blesme Haussignemont | BIM |
+| Blois | BL |
+| Bloye | BYO |
+| Bobigny | BOB |
+| Bocognano | BKO |
+| Boen | BOE |
+| Bogny Sur Meuse  | BYU |
+| Bohain | BHI |
+| Bois Colombes | BCO |
+| Bois D Oingt Legny | BDO |
+| Boisleux  | BLX |
+| Boisseaux | BAX |
+| Boisset (Cantal) | BCL |
+| Boissy L'aillerie | BLA |
+| Boissy Saint Leger Rer  | BXR |
+| Boissy St Leger | BOI |
+| Bolbec Nointot  | BNT |
+| Bollene La Croisiere | BLN |
+| Bollwiller | BOW |
+| Bologne | BOG |
+| Bolquere Eyne | BQE |
+| Bon Encontre | BTR |
+| Bondy | BDY |
+| Bonlieu Roubion (Lgv) | BLI |
+| Bonnard Bassou | BBS |
+| Bonnemain | BMV |
+| Bonneval | BO |
+| Bonneville | BON |
+| Bonnieres | BNR |
+| Bons En Chablais | BAB |
+| Bonson | BSN |
+| Boran Sur Oise | BRN |
+| Bordeaux Bastide | BBD |
+| Bordeaux Benauge | BBG |
+| Bordeaux Docks | BXK |
+| Bordeaux St Jean | BX |
+| Bordeaux St Louis | BSL |
+| Bords | BOR |
+| Bornel Belle Eglise | BBI |
+| Bossey Veyrier | BSV |
+| Bouaye | BLQ |
+| Bouc Cabries | BCB |
+| Boucau | BUU |
+| Bouchain | BAK |
+| Boucoiran | BKW |
+| Bougival | BGV |
+| Bouilly Roncenay | BIY |
+| Boujailles | BJL |
+| Boulainvilliers | BWR |
+| Boulevard Massena  | BM |
+| Boulevard Victor | BVI |
+| Boulogne Bassins | BOA |
+| Boulogne Maritine | BMM |
+| Boulogne Ville | BE |
+| Boulouris Sur Mer | BOU |
+| Bouray | BSO |
+| Bourbourg | BBU |
+| Bourg Argental | BGR |
+| Bourg En Bresse | BGB |
+| Bourg La Reine | BQQ |
+| Bourg Lastic Messeix | BUA |
+| Bourg Madame | BMD |
+| Bourg St Andeol | BSA |
+| Bourganeuf | BF |
+| Bourges | BGS |
+| Bourgneuf En Retz | BGZ |
+| Bourgoin Jallieu | BRG |
+| Bourg-Saint-Maurice | BSM |
+| Bourgtheroulde Thuit Hebert | BGT |
+| Bourmont  | BMT |
+| Bournezeau | BNZ |
+| Bourre | BEH |
+| Bourron Marlotte Grez | BOM |
+| Bourth | BUT |
+| Boussac | BC |
+| Boussay La Bruffiere | BBF |
+| Boussens | BSS |
+| Boutheon | BOH |
+| Bouy | BYW |
+| Bouzonville | BZV |
+| Boves | BOV |
+| Braine | BIE |
+| Bram | BRM |
+| Brassac Les Mines Ste Florine | BLM |
+| Brax Leguevin | BXL |
+| Bray Dunes | BD |
+| Brazey En Plaine | BEP |
+| Breaute Beuzeville | BTB |
+| Brebach | SBA |
+| Brebieres Sud | BSU |
+| Breil Sur Roya | BRE |
+| Breitenbach (Ht Rhin) | BHH |
+| Brens Virignin | BVG |
+| Bresles Sur Oise | BSE |
+| Bressoux | BSX |
+| Bressuire | BRS |
+| Brest | BT |
+| Breteil | BTU |
+| Bretenoux Biars | BXB |
+| Breteuil Embranchement | BEB |
+| Breteuil Ville | BRV |
+| Bretigny | BY |
+| Bretoncelles | BTO |
+| Bretteville Norrey | BVO |
+| Breuillet Bruyeres Le Chatel | BIH |
+| Breuillet Village | BRW |
+| Breval | BVA |
+| Briancon | BRI |
+| Briare | BEW |
+| Bricon | BCN |
+| Bricy Boulay | BCY |
+| Brienne Le Chateau | BRC |
+| Brienon | BIW |
+| Brig | BRY |
+| Brignais | BGN |
+| Brignoles | BLS |
+| Brignoud | BNU |
+| Brion Montreal La Cluse | BMC |
+| Brion Pres Thouet | BPE |
+| Brionne (Eure) | BEU |
+| Brioude | BRD |
+| Briouze | BZN |
+| Brive La Gaillarde | BLG |
+| Broons | BOS |
+| Brou | BRO |
+| Bruges | BGH |
+| Brugges | BRJ |
+| Brumath | BAH |
+| Brunoy | BNY |
+| Bruxelles National Aeroport | BNA |
+| Bruxelles-Midi | BRU |
+| Bruyeres Sur Oise | BRK |
+| Bruyeres Vosges | BUY |
+| Bruz | BRZ |
+| Bruzolo Di Suza | BOO |
+| Bry Sur Marne  | BMA |
+| Bucarest | BTI |
+| Bucheres Verrieres | BHV |
+| Buchs | BH |
+| Budapest | BPT |
+| Budeliere Chambon | BUH |
+| Bueil | BUE |
+| Bugeat | BUG |
+| Bulle | BUL |
+| Bully Grenay | BG |
+| Busigny | BSY |
+| Bussac | BMR |
+| Busseau Sur Creuse | BUC |
+| Bussiere Galant | BGA |
+| Bussoleno | BUO |
+| Bussy Lettree Vatry  | BYY |
+| Buzancais | BCS |
+| Buzy En Bearn | BUZ |
+| Byans | BYB |
+| Cadaujac | CDJ |
+| Caen | CN |
+| Caffiers | CAF |
+| Cahors | CAH |
+| Caillac | CLK |
+| Calais Gl | CGA |
+| Calais Maritime | CMM |
+| Calais Ville | CS |
+| Calais-Frethun | FHS |
+| Calonne Ricouart | CPC |
+| Cambiador Irun | CB |
+| Cambo Les Bains | CPQ |
+| Cambrai Annexe | CBA |
+| Cambrai Ville | CAM |
+| Candiolo | CDX |
+| Cannes La Bocca | CAB |
+| Cannes Marchandises | CPH |
+| Cannes Voyageurs | CAV |
+| Cantin | CNK |
+| Cap Martin Roquebrune | CQR |
+| Capdenac | CDC |
+| Capvern | CPN |
+| Carbonne | COA |
+| Carcassonne | CCE |
+| Carentan | CAR |
+| Carhaix | CRX |
+| Carignan | CAG |
+| Carling | CNG |
+| Carmaux | CMX |
+| Carnoules | CNS |
+| Carquefou | CAQ |
 | Carry Le Rouet | CRR |
-| Eguzon | EG |
-| Elbeuf St Aubin | ESA |
-| Fains La Folie | FAN |
-| Fere Champenoise | FAS |
-| Flez Cuzy Tannay | FEZ |
-| Fleurus | FLU |
-| Germaine | GEA |
-| Gannes | GNS |
-| Gondrecourt Le Ch+Teau | GON |
-| Gravenchon Port Jerome | GPJ |
-| Graffenstaden | GRF |
-| Gramat | GRT |
-| Givet | GVT |
-| Herny | HY |
-| Is Sur Tille | IST |
-| St Sulpice Izon | IZ |
-| Jonzac | JO |
-| Krefeld-Linn | KKR |
-| La Bastide-St-Laurent-Les-B. | LBS |
-| Celle St Cloud | LCB |
-| La Chapelle St Mesmin | LCS |
-| Le Havre Graville | LHG |
-| Lille Sud | LID |
-| Lothiers | LOT |
-| Lozanne | LOZ |
-| La Rochefoucauld | LRO |
-| Les Ifs | LSF |
-| La Tricherie | LTR |
-| Le Verdon | LVD |
-| Louverne | LVX |
-| Lutzelbourg | LZ |
-| Mouchard | MCD |
-| Melun | MEL |
-| Maisons Alfort Alfortville | MFA |
-| Miniac | MIN |
-| Le Moulin Des Ponts | MIP |
-| Marles En Brie | MLB |
-| Montfort L Amaury Mere | MLM |
-| Manlay | MLY |
-| Moux (Aude) | MOX |
-| Montrichard | MRD |
-| Maurs | MRS |
-| Malause | MSP |
-| Millas | MYR |
-| Champigny Sur Yonne | CSY |
-| Chateau Thierry | CTH |
-| Chatelaillon | CTL |
-| Courthezon | CTZ |
-| Cuinchy | CUH |
+| Cartagena | CGN |
+| Casamozza | KZZ |
+| Cases De Pene | CDP |
+| Cassel | CRD |
+| Cassis | CSI |
+| Castelnau D'estretefonds | CDF |
+| Castelnau Riviere Basse | CTU |
+| Castelnaudary | CTY |
+| Castelsarrasin | CTN |
+| Castres(Tarn) | CT |
+| Cattenieres | CTT |
+| Cauderan Merignac | CUD |
+| Caudry | CAU |
 | Caulnes | CUL |
+| Caussade(Tarn Et Garonne) | CSD |
+| Cavaillon | CVN |
+| Cavaillon Tgv Sei 63 | ONT |
+| Cavignac | CGC |
+| Cazeres Sur Garonne | CZG |
+| Ceilhes Roqueredonde | COQ |
+| Ceintrey | CIT |
+| Celle St Cloud | LCB |
+| Cenon | CBX |
+| Cerbere | CE |
+| Cerbere Ie | CWF |
+| Cercottes | CCT |
+| Cercy La Tour | CLT |
+| Cerences | CRC |
+| Cergy - Prefecture | CYP |
+| Cergy Le Haut | CJV |
 | Cergy St Christophe | CYC |
-| Dole Ville | DLE |
-| Perrigny | DPY |
-| Dugny | DU |
-| Devecey | DVC |
-| Emerainville Pontault Combault | EM |
-| Epinay Villetaneuse | EPV |
-| Ermont Eaubonne | ERT |
-| Estressin | ESN |
-| Eurville | EVE |
+| Cerizay | CEZ |
+| Cernay (Haut Rhin) | CER |
+| Cerons | CGD |
+| Cesseins Prs 27 | CSE |
+| Cessieu | CIU |
+| Cesson | CES |
+| Ceyzeriat | CZR |
+| Cezy | CZY |
+| Chabanais | CHB |
+| Chabons | CKN |
+| Chabris | CHH |
+| Chagny | CGY |
+| Chailly Boissy | CIB |
+| Chalais | CIC |
+| Chalandray | CDV |
+| Challans | CLS |
+| Challerange | CGE |
+| Chalon Sur Saone | CSS |
+| Chalonnes | CNE |
+| Chalons En Champagne | CM |
+| Chamarande | CHK |
+| Chambery Challes Les Eaux | CR |
+| Chamborigaud | CBO |
+| Chambourg | CMG |
+| Chamonix Mont Blanc | CHX |
+| Champ De Courses D'engh | CEG |
+| Champ De Mars-Tour Eiffel | CPM |
+| Champagne Sur Seine | CME |
+| Champagnole | CPG |
+| Champigneulles | CHG |
+| Champigny Sur Yonne | CSY |
+| Champs St Bris | CAI |
+| Champvans Les Dole | CPV |
+| Chanac | CNA |
+| Chandieu Toussieu | CHD |
+| Changis St Jean | CJN |
+| Chantenay | CHA |
+| Chantilly Gouvieux | CLY |
+| Chantonnay | CTO |
+| Chapeauroux | CPX |
+| Chaponost | CPT |
+| Charbonnieres Les Varennes | CVR |
+| Charency Vezin | CHZ |
+| Charix Lalleyriat | CXR |
+| Charleroi | CLF |
+| Charlieu | CEU |
+| Charmes Vosges | CHS |
+| Charmont | CMO |
+| Charny Sur Meuse | CJM |
+| Charny Yonne | CRY |
+| Chars | CHR |
+| Chartres | CH |
+| Chasse Sur Rhone | CSR |
+| Chasseneuil(Vienne) | CHN |
+| Chasserades | CJD |
+| Chateau Arnoux-Saint Auban | SAU |
+| Chateau Chinon  | CCI |
+| Chateau Du Loir | CDL |
+| Chateau Gaillard | CGK |
+| Chateau Gontier | CIR |
+| Chateau La Valliere | CVA |
+| Chateau L'eveque | CEQ |
+| Chateau Thierry | CTH |
+| Chateaubourg | CTG |
+| Chateaubriant | CTB |
+| Chateaudun | CUN |
+| Chateaulin-Embr. | CEM |
+| Chateaumeillant | CTM |
+| Chateauneuf Bujaleuf | CBF |
+| Chateauneuf Sur Charente | CSC |
+| Chateauneuf Sur Cher | CHC |
+| Chateauneuf Sur Loire | CSL |
+| Chateaurenard | CTD |
+| Chateaurenault | CTR |
+| Chateauroux | CX |
+| Chatel Censoir | CAL |
+| Chatel Nomexy | CEO |
+| Chatelaillon | CTL |
+| Chatelaudren Plouagat | CDN |
+| Chatelet | CTE |
+| Chatelet-Les Halles | CLX |
+| Chatellerault | CRT |
+| Chatillon D Azergues | CDZ |
+| Chatillon De Michaille | CMK |
+| Chatillon Sur Loire | COO |
+| Chatres | CTF |
+| Chauffailles | CHF |
+| Chaulnes | CHL |
+| Chaumont | CHM |
+| Chaumont En Vexin | CEV |
+| Chauny | CNY |
+| Chavagnes Les Redoux | CVD |
+| Chavenon | CVO |
+| Chaville (R.G.) | CVI |
+| Chaville Velizy | CHV |
+| Chazay Marcilly | CZM |
+| Checy Mardie | CYM |
+| Chedde | CED |
+| Chef Du Pont Ste Mere | CFP |
+| Chelles Gournay | CSG |
+| Chemille | CHE |
+| Chemilly Appoigny | CAP |
+| Chemin D'antony | CHQ |
+| Chemin Peseux | CNX |
+| Chenay Gagny | CGG |
+| Chennevieres Sur Marne | CVU |
+| Chepy Valines | CYA |
+| Cherbourg | CBU |
+| Chevigny St Sauveur | CVJ |
+| Chevillon | CIN |
+| Chevilly | CVY |
+| Chevremont | CMF |
+| Chevrieres | CVE |
+| Chevry | CV |
+| Chevry Cossigny | CYY |
+| Chezy Sur Marne | CYZ |
+| Chiasso | CIA |
+| Chilly Mazarin | CAZ |
+| Chinon | CHI |
+| Chivres En Laonnois | CRO |
+| Chocques | CHO |
+| Choisy Au Bac | CBB |
+| Choisy Le Roi | CLR |
+| Cholet | CHT |
+| Chorges | CRG |
+| Chur | CU |
+| Cinq Mars | CQM |
+| Ciry Le Noble | CYL |
+| Ciry Sermoise | CYS |
+| Civaux | CIZ |
+| Civry St Cloud | CYD |
+| Cize Bolozon | CZQ |
+| Clabecq | CLQ |
+| Clairvaux | CVX |
+| Clamart | CMA |
+| Clamecy | CLA |
+| Claveyson Bren (Lgv) | CAW |
+| Clelles Mens | CMS |
+| Clerac Charente | CEC |
+| Cleres | CRS |
+| Clermont De L'oise | CDO |
+| Clermont En Argonne | CTA |
+| Clermont Fd.Gravanches | CF |
+| Clermont Ferrand | CLE |
+| Clermont Les Fermes* | CFE |
+| Clerval | CVL |
+| Clion Sur Indre | CEW |
+| Clisson | CLI |
+| Clonas | C |
+| Cloyes | CLO |
+| Cluses | CLU |
+| Coarraze Nay | CZN |
+| Coblence | KB |
+| Cognac | COG |
+| Coignieres | CGW |
+| Colligny | CGR |
+| Colmar | CMR |
+| Cologne | KOL |
+| Colombier Fontaine | CFT |
+| Colombiers | CBS |
+| Colomiers | COL |
+| Combourg | CUG |
+| Comines France | CIS |
+| Commentry | CMY |
+| Commercy | CCY |
+| Compiegne | CPE |
+| Concarneau | CCA |
+| Conches | CCH |
+| Conchil Le Temple | CNC |
+| Concoules Ponteils | CVP |
+| Condat Le Lardin | CDT |
+| Conde Sur Huisne | CDH |
+| Condom | COM |
+| Condrieu | CND |
+| Conflans Fin D'oise | CFD |
+| Conflans Jarny | CJ |
+| Conflans Ste Honorine | CSH |
+| Connerre Beille | COB |
+| Continental Junction | COJ |
+| Contrexeville | CTX |
+| Coolus | KOO |
+| Corbeil Essonnes | COE |
+| Corbie | CBI |
+| Corbigny | CBY |
+| Corcieux Vanemont | CXV |
+| Cordemais | CDQ |
+| Cordes Vindrac | VDC |
+| Cordesse Igornay | CDA |
+| Corgoloin | CGO |
+| Cormeilles En Parisis | CPA |
+| Cormelles (Embt) | CQL |
+| Cormery | CEY |
+| Cornil | CIL |
+| Correze | CZE |
+| Corte | KOR |
+| Coucy Les Eppes | CCP |
+| Coudekerque Branche | CDK |
+| Coudray Montceaux | CEX |
+| Coueron | CNQ |
+| Couhe Verac | COH |
+| Couilly St Germain | CYQ |
+| Couiza Montazels | COI |
+| Coulanges Sur Yonne | CAO |
+| Couliboeuf | CLB |
+| Coulombiers | CUS |
+| Courcelles Le Comte | COK |
+| Courcelles Sur Nied | CCD |
+| Courcy Brimont | CIM |
+| Courghain | CQA |
+| Couronne (Voies Des Quais) | CRN |
+| Courpiere | CPR |
+| Courtalain Poste 17 Prs | CSP |
+| Courtalain St Pelerin | CWP |
+| Courtenay | CYT |
+| Courthezon | CTZ |
+| Courtrai | QRT |
+| Courville Sur Eure | CVB |
+| Courzieu Brussieu | CZB |
+| Cousance | CSJ |
+| Cousolre | CSQ |
+| Coussac Bonneval | CCB |
+| Coutances | CCS |
+| Coutras | COU |
+| Couze | CZD |
+| Couzon Au Mont D Or | KMD |
+| Cramans | CRA |
+| Cramoisy | CYO |
+| Cransac | CRZ |
+| Crecy La Chapelle | CLC |
+| Creil | CL |
+| Crepy Couvron | CYU |
+| Crepy En Valois | CYV |
+| Creutzwald(Ep Hbl) | CCX |
+| Creysse Mouleydier | CKR |
+| Crisse | CI |
+| Croix Wasquehal | CRW |
+| Croix-L'allumette | CIX |
+| Crouy | CRU |
+| Cruas | CUA |
+| Cuers Pierrefeu | CFU |
+| Cuinchy | CUH |
+| Cuiseaux | CUI |
+| Culan | CLN |
+| Culmont Chalindrey | CY |
+| Culoz | CUZ |
+| Cuneo | CUO |
+| Cusset | CUT |
+| Cysoing | CYG |
+| Damiatte St Paul | DSP |
+| Dammartin Juilly St Mard | DAM |
+| Dange | DGE |
+| Dangeau Poste 16 Prs | DGU |
+| Dannemarie | DAN |
+| Dannes Camiers | DC |
+| Daours | DAO |
+| Darcey | DAY |
+| Dardilly | DDY |
+| Dardilly Le Jubin | DDJ |
+| Darlington | DLT |
+| Darmstadt | DTT |
 | Darmstadt Kranichtein | FDK |
+| Darnetal | DAL |
+| Darsac | DAR |
+| Daufage Le Goulet | DGT |
+| Dax | DAX |
+| Decize | DZE |
+| Declaration Sociale Nominative | DSN |
+| Delle | DEL |
+| Deluz | DLZ |
+| Denain | DEN |
+| Denfert Rochereau | DFR |
+| Deols | DEO |
+| Dercy Mortiers | DRT |
+| Desvres | DEV |
+| Dettwiller | DEE |
+| Devecey | DVC |
+| Deville | DVI |
+| Diemeringen | DRI |
+| Dieppe | DE |
+| Dieuze | DZ |
+| Digne | DGN |
+| Digne (Cfp) | DGC |
+| Digoin | DIG |
+| Dijon  | DN |
+| Dijon Porte D'ouche Perrigny | DDP |
+| Dijon Porte Neuve | DPN |
+| Dillingen | SDL |
+| Dinge | DNE |
+| Diou | DIU |
+| Direction Projet De Ligne | DPL |
+| Distroff | DIS |
+| Dives Cabourg | DV |
+| Docelles Chenimenil | DOC |
+| Dol | DOL |
+| Dole La Bedugue | DBE |
+| Dole Ville | DLE |
+| Dollands Moor | DM |
+| Dollon Poste32 Prs | DLL |
+| Domblans Voiteur | DBV |
+| Domene | DOM |
+| Domodossola | DOA |
+| Domont | DMO |
+| Dompierre Nord | DMR |
+| Dompierre Sept Fons | DOP |
+| Dompierre Sur Mer | DSM |
+| Don Sainghin | DON |
+| Doncaster | DST |
+| Donchery | DEY |
+| Donges | DGS |
+| Donjeux | DNJ |
+| Dontrien | DTN |
+| Donzenac | DZC |
+| Donzere | DOE |
+| Dordives | DDI |
+| Dormagen | KDO |
+| Dormans | DOR |
+| Dortmund | DOD |
+| Douai | DO |
+| Doullens | DOS |
+| Doulon | DLN |
+| Dourdan | D |
+| Dourdan La Foret | DA |
+| Dourges | DOU |
+| Dourges Delta 3 | DDT |
+| Douzies | DOZ |
+| Doyet La Presle | DPE |
+| Drancy | DRN |
+| Drap Cantaron | DRA |
+| Dreux | DX |
+| Drulingen | DRL |
+| Drusenheim | DRS |
+| Dugny | DU |
+| Dunieres | DUN |
+| Dunkerque | DKQ |
+| Dunkerque Ferry | DKM |
+| Dunkerque Grande Synthe | GSY |
+| Duppigheim | DUP |
+| Durtol Nohanent | DUR |
+| Dusseldorf | DUS |
+| Duttlenheim | DTM |
+| Eauze | EZE |
+| Ebange | EBG |
+| Ebblinghem | EBB |
+| Ecommoy | ECO |
+| Ecouche | ECE |
+| Ecouen Ezanville | ECZ |
+| Ecouflant | ECT |
+| Ecully La Demi Lune | ECY |
+| Egletons | EGL |
+| Egly | ELY |
+| Eguzon | EG |
+| Ehrang | EHR |
+| Eichhoffen | ECF |
+| Einsiedlerhof | ESF |
+| Einvaux | EIN |
+| Eisenach Stedtfeld | UEI |
+| Elbeuf St Aubin | ESA |
+| Elne | ELN |
+| Elven | ELE |
+| Embermenil | EMM |
+| Embrun | EBN |
+| Emerainville Pontault Combault | EM |
+| Empalot | EPT |
+| Engenville | EGV |
+| Ennevelin | ENN |
+| Ennezat Clerlande | ENC |
+| Entraigues Sur La Sorgue | ENS |
+| Entzheim | ENZ |
+| Ep Jj.Carnaud | NSC |
+| Ep Km 14 0 | EPX |
+| Ep St Julien-Montricher | SOH |
+| Ep. Base Travaux D'eurre | EUR |
+| Ep. Camp Milit. De Carpiagne | KAP |
+| Epanvilliers | EPI |
+| Epehy | EPY |
+| Epernay | EPR |
+| Epernon | EPN |
+| Epierre | EIR |
+| Epinal | EL |
+| Epinay Sur Orge | EYO |
+| Epinay Sur Seine | EYS |
+| Epinay Villetaneuse | EPV |
+| Epiry Montreuillon | ELO |
+| Epluches | EPL |
+| Epoisses | EPS |
+| Epone Mezieres | EPO |
+| Epouville | EPU |
+| Eragny Neuville | ERA |
+| Ermont Eaubonne | ERT |
+| Ernecourt Loxeville | ECL |
+| Erquelinnes | ERQ |
+| Err | ERR |
+| Erstein | EEN |
+| Erstfeld | ERF |
+| Esbly | EY |
+| Escalquens | EQ |
+| Esch Sur Alzette | EAL |
+| Espere Caillac | ESE |
+| Esquelbecq | ESQ |
+| Essen | FFS |
+| Estavel | ESL |
+| Esternay | ES |
+| Estivaux | ESX |
+| Estrees St Denis | ESD |
+| Estressin | ESN |
+| Etain | ET |
+| Etainhus St Romain | EAH |
+| Etalans | EAS |
+| Etampes | ETP |
+| Etang | ETG |
+| Etaples - Le Touquet | ETA |
+| Etigny Veron | EYV |
+| Etissac | ESI |
+| Etival Clairefontaine | ETL |
+| Etrechy | ETY |
+| Etrepagny | ETR |
+| Etriche Chateauneuf | EEF |
+| Eu | EU |
+| Eurville | EVE |
+| Evaux Les Bains | EVA |
+| Evian Les Bains | EVI |
+| Evires | EVS |
+| Evreux Embranchement | EVX |
+| Evron | EVN |
+| Evry Courcouronnes | EVC |
+| Excideuil Dordogne | EXD |
+| Exideuil Sur Vienne | EXC |
+| Eygurande Merlines | EYG |
+| Eymoutiers Vassiviere | EYM |
+| Eze | EZZ |
+| Facture | FA |
+| Fains La Folie | FAN |
+| Farbus | FAU |
+| Faremoutiers Pommeuse | FMP |
+| Fargniers | FAR |
+| Farschviller | FWR |
+| Faubourg D Orleans | FBL |
+| Faulquemont | FAQ |
+| Fecamp | FEC |
+| Fegersheim-Lipsheim | FHM |
+| Fenouillet St Alban | FEX |
+| Fere Champenoise | FAS |
 | Fere En Tardenois | FET |
-| Florange | FLG |
+| Ferrieres Fontenay | FFY |
+| Feuquieres Broquiers | FBS |
+| Feuquieres Fressenneville | FEF |
+| Feurs | FEU |
+| Feyzin | FEY |
+| Figeac | FIG |
+| Firminy | FNY |
+| Fismes | FI |
+| Flamboin Gouaix | FLA |
+| Flavy Le Martel | FAM |
+| Flere La Riviere | FVR |
+| Flers | FL |
+| Fleurance | FLE |
+| Fleurus | FLU |
+| Fleurville Pont De Vaux | FLV |
+| Flez Cuzy Tannay | FEZ |
 | Flogny | FOY |
-| Frouard | FR |
+| Florange | FLG |
+| Florence | FIR |
+| Foecy | FCY |
+| Foix | FX |
+| Folligny | FOL |
+| Fons St Mamert | FMS |
+| Font Romeu Odeillo | FRM |
+| Fontainebleau Avon | FON |
+| Fontaines Mercurey | FAE |
+| Fontaines Ozillac | FZC |
+| Fontenay Le Fleury | FAF |
+| Fontpedrouse-St-Thomas | FTB |
+| Forbach | FB |
+| Forest | FOR |
+| Forges Les Eaux | FGX |
+| Forgevieille | FOE |
+| Formerie | FMR |
+| Fort L Ecluse Collonges | FTC |
+| Fos Coussoul | FOC |
+| Fos Graveleau | FOG |
+| Fos Sur Mer | FOS |
+| Foucart Alvimare | FTA |
+| Foug | FUG |
+| Fouilloy | FIY |
+| Fouquereuil | FQE |
+| Fourchambault | FLT |
+| Fourmies | FMI |
+| Fours | FRS |
+| Fraisse Unieux | FRU |
+| Francfort | FK |
+| Franois | FOI |
+| Frasne | FRA |
+| Freinville Sevran | FSV |
+| Frejus | FRJ |
 | Frejus St Raphael | FRT |
-| Pontailler Sur Saone | PTS |
-| Raismes Nord | RAS |
-| Ringendorf | RGD |
-| Reichshoffen Ville | RHV |
-| Rieux Angicourt | RIA |
-| Rouen Orleans | RNO |
-| Ronchin | ROC |
-| Roeux Pas De Calais | RUX |
-| Savigny Sur Orge | SAO |
-| Salaise | SAS |
-| St Cheron | SCW |
-| St Denis Pres Catus | SDP |
-| Sierentz | SEZ |
-| Saint Germain Au Mont D Or | SGO |
-| Sains Richaumont | SHM |
-| St Jean Pied De Port | SJP |
-| Saint Julien Clenay | SJQ |
-| Solignac Le Vigen | SKN |
-| St Leonard Vosges | SLR |
-| Saint Michel Valloire | SMI |
-| Saint Pol Sur Ternoise | SPT |
-| Serres | SRE |
-| Tanus | TAN |
-| Tierce | TCE |
-| Theoule Sur Mer | THM |
-| Trets | TTS |
-| Vayrac | VAY |
-| Veynes Devoluy | VDY |
-| Vif | VIF |
-| Villefranche Sur Saone | VIS |
-| Valmy | VLY |
-| Venissieux | VSX |
-| Villeneuve Sur Yonne | VYE |
+| Fresnoy Le Grand | FEG |
+| Fresnoy Le Luat Prci 14 | FYP |
+| Freteval Moree | FRE |
+| Fretin Nord | FRI |
+| Freyming Merlebach | FRY |
+| Fribourg | FG |
+| Frick | FRK |
+| Fromental | FRO |
+| Froncles Buxieres | FEB |
+| Frontenex | FOX |
+| Frontignan | FRN |
+| Frouard | FR |
+| Fumay | FUY |
+| Fumel | FU |
+| Futuroscope | FTU |
+| Gadagne | GDA |
+| Gagny | GN |
+| Gaillac | GAI |
+| Gaillon Aubevoye | GAA |
+| Gandrange Amneville | GDG |
+| Gannat | GAN |
+| Gannes | GNS |
+| Garage Grand Pont | GP |
+| Garancieres La Queue | GAQ |
+| Garches Marnes La Coquette | GMC |
+| Gardanne | GDN |
+| Gardonne | GAO |
+| Gargan | GA |
+| Gargenville | GGV |
+| Garges | GAJ |
+| Gazeran | GZA |
+| Gazinet-Cestas | GAZ |
+| Gembloux | GBX |
+| Gemeaux | GMX |
+| Gemozac | GEM |
+| Genelard | GEL |
+| Generac | GEC |
+| Genes | GNO |
+| Geneve Eaux Vives | GVI |
+| Geneve La Praille | GPR |
+| Geneve-Voyageurs | GCO |
+| Genlis | GLS |
+| Gennes Longuefuye | GFY |
+| Gennevilliers | GEN |
+| Genolhac | GNC |
+| Gensac La Pallue | GCA |
+| Gent St Pieters | GND |
+| Gent Zeehaven | GZE |
+| Gerard | GRR |
+| Germaine | GEA |
+| Gerzat | GEZ |
+| Gestel | GES |
+| Gevrey Triage | GEV |
+| Gex | GEX |
+| Giat | GIA |
+| Gien | GIE |
+| Gievres | GS |
+| Gignac Cressensac(Lot) | GCC |
+| Gilley | GIL |
+| Gilly Sur Loire | GSL |
+| Gimont Cahuzac | GAH |
+| Giromagny | GY |
+| Gironcourt Houecourt | GIT |
+| Gironde | GID |
+| Gisors | GIS |
+| Givet | GVT |
+| Givors Canal | GIC |
+| Givors Ville | GIV |
+| Glos Montfort | GLO |
+| Golfe De Fos | FOQ |
+| Golfe Juan Vallauris | GLF |
+| Goncelin | GOC |
+| Gondrecourt Le Ch+Teau | GON |
+| Gourdon | GO |
+| Gournay Ferrieres | GOF |
+| Goussainville | GOU |
+| Gouttieres | GTS |
+| Gouvy | GUY |
+| Goxwiller | GXW |
+| Graffenstaden | GRF |
+| Gragnague | GAG |
+| Grainville Ymauville | GRY |
+| Gramat | GRT |
+| Gran Pre | GDE |
+| Grand Combe La Pise | LGC |
+| Grand Croix | GCX |
+| Grand Quevilly | GRD |
+| Grand-Contour | GAD |
+| Grande Arche De La Defense | GAW |
+| Grandpuits | GDP |
+| Grandpuits Bagneaux | GPB |
+| Grandvilliers | GAR |
+| Granville | GRV |
+| Grasse | GRA |
+| Gravelines | GVL |
+| Gravenchon Port Jerome | GPJ |
+| Graveson Maillane | GVS |
+| Gravigny Balizy | GBI |
+| Gray | GR |
+| Gremberg | GRG |
+| Grenade Sur L Adour | GLD |
+| Grenay (Lgv) | GNA |
+| Grenoble | GE |
+| Grenoble Universites Gieres | GRS |
+| Gresswiller | GEI |
+| Gresy Sur Aix | GAX |
+| Gresy Sur Isere | GEY |
+| Gretz Armainvilliers | GZ |
+| Grigny - Le Sablon | LSB |
+| Grisolles | GRI |
+| Groisy Thorens La Caille | GTC |
+| Gudmont | GDM |
+| Gueret | GT |
+| Guerigny | GEG |
+| Guichen Bourg Des Comptes | GBC |
+| Guignicourt Aisne | GUI |
+| Guillaucourt | GUT |
+| Guillerval | GU |
+| Guingamp | GGP |
+| Gujan Mestras | GUJ |
+| Gundershoffen | GUF |
+| Habsheim | HAB |
+| Hagetmau | HGU |
+| Hagondange | HGD |
+| Haguenau | HAG |
+| Halte De Grand Pont | GPP |
+| Ham Somme | HAM |
+| Hambourg | HAH |
+| Hangest | HAS |
+| Hanovre | HAN |
+| Harfleur | HAF |
+| Hargarten Falck | HGT |
+| Hargicourt Pierrepont | HGI |
+| Haubourdin | HAU |
+| Hausbergen | HN |
+| Haussmann St-Lazare | HSL |
+| Hautmont | HAT |
+| Hayange | HAY |
+| Hazebrouck | HZK |
+| Heilles Mouchy | HEC |
+| Hellemmes | HEL |
+| Heming | HMG |
+| Hendaye | HE |
+| Hendaye Plage | HP |
+| Henin Beaumont | HBE |
+| Hennebont | HEN |
+| Herblay | HRY |
+| Hericourt | HCT |
+| Hericy | HER |
+| Hermes Berthecourt | HRB |
+| Herny | HY |
+| Herrlisheim Bas Rhin | HRL |
+| Hesdigneul | HES |
+| Hesdin | HSD |
+| Hettange Grande | HET |
+| Heuliez | EHZ |
+| Heyrieux | HEY |
+| Hildesheim | HDM |
+| Hirson | HI |
+| Hochfelden | HCH |
+| Hoenheim Tram | HMT |
+| Hoerdt | HOD |
+| Hombourg | HB |
+| Hombourg Haut | HOH |
+| Homecourt | HOM |
+| Hondeghem | HGP |
+| Honfleur | HFE |
+| Houdan | HOA |
+| Houdemont | HDT |
+| Houilles Carrieres Sur Seine | HAR |
+| Houlgate | HOE |
+| Hourcade Triage | HDE |
+| Huningue | HIN |
+| Hunspach | HUS |
+| Huriel | HIL |
+| Hyeres | HYE |
+| Hymont Mattaincourt | HAI |
+| Igney Avricourt | IA |
+| Ile Napôleon | INA |
+| Ille Sur Tet | ILL |
+| Illfurth | IFH |
+| Illiers Combray | ILC |
+| Immendingen | IMN |
+| Imphy | IPY |
+| Incheville | ICH |
+| Ingersheim Cite Scolaire | IMC |
+| Ingrandes Sur Loire  | IGA |
+| Ingrandes Sur Vienne | IG |
+| Ingwiller | IGW |
+| Innsbruck | IK |
+| Interlaken | IKN |
+| Invalides | INV |
+| Irun | IN |
+| Is Sur Tille | IST |
+| Isbergues | BI |
+| Isles Armentieres Congis | IAC |
+| Issoire | ISS |
+| Issoudun | IS |
+| Issy | ISY |
+| Issy Val De Seine | ISP |
+| Istres | ISR |
+| Itxassou | ITX |
+| Ivry Sur Seine | IV |
+| Iwuy | IWY |
+| Izel Les Esquerchin Prci 26 | IZE |
+| Jalons Les Vignes | JAL |
+| Janville | JAN |
+| Janze | JZE |
+| Jardres | JRD |
+| Jarnac Charente | JC |
+| Jarrie Vizille | JAV |
+| Jarville La Malgrange | JA |
+| Jassonneix | JSX |
+| Jaunay Clan | JAU |
+| Jeandelize | JDZ |
+| Jemeppe-Sur-Sambre | JMS |
+| Jessains | JAI |
+| Jeumont | JT |
+| Joeuf | JOF |
+| Joigny | JOI |
+| Joinville Hte Marne | J |
+| Jonchery Sur Vesle | JYV |
+| Jonzac | JO |
+| Joue Les Tours | JLT |
+| Jouy | JOY |
+| Jouy En Josas | JAS |
+| Jouy/Morin Le Marais | JSM |
+| Juan Les Pins | JAE |
+| Jussey | JUS |
+| Juvisy | JY |
+| Juziers | JUZ |
+| Kalhausen | KHS |
+| Kall | KKA |
+| Karlsruhe | KH |
+| Kedange | KDG |
+| Kehl | KE |
+| Kerhuon | KHO |
+| Kinkempois | KIN |
+| Koblentz-Luetzel | KKO |
+| Koblenz Mosel | KKM |
+| Koeln Deutz | KDZ |
+| Koenigsmacker | KER |
+| Kogenheim | KEN |
+| Koln Eifeltor | KKE |
+| Koln Kalk Nord | KKV |
+| Kontich | KOT |
+| Kornwestheim Pdf | TK |
+| Krefeld-Linn | KKR |
+| Krimeri Meinau | KRM |
+| Kruth | KR |
+| Kuntzig | KZG |
+| L Abbaye | ABJ |
+| La Barque Fuveau | LBF |
+| La Basse Indre St Herblain | LBI |
+| La Bassee | BSP |
+| La Bassee Violaines | BII |
+| La Bastide-St-Laurent-Les-B. | LBS |
+| La Bathie | LHI |
+| La Baule Escoublac | LBE |
+| La Baule Les Pins | BFP |
+| La Beaume | LBM |
+| La Bernerie | BNX |
+| La Beuvriere | BVF |
+| La Bohalle | WBH |
+| La Bonneville | BVU |
+| La Bourboule | LBB |
+| La Brillanne-Oraison | LBO |
+| La Brohiniere | LBR |
+| La Chaize Le Vicomte | CZC |
+| La Chap.St Ursin M. | LPI |
+| La Chapelle /Erdre | LED |
+| La Chapelle Anthenaise | LLH |
+| La Chapelle D'ambes | ABS |
+| La Chapelle Du Chene | LDH |
+| La Chapelle La Reine | LCP |
+| La Chapelle St Luc | CHU |
+| La Chapelle St Mesmin | LCS |
+| La Chapelle Vendome | LCV |
+| La Charite | LAT |
+| La Chaux De Fond | LCD |
+| La Chaux-Des-Crotenay | LXR |
+| La Clayette-Baudemont | CYB |
+| La Cluse Ville | LLU |
+| La Coquille | LCQ |
+| La Cour D'arcenay | LCY |
+| La Courneuve-Aubervilliers | ALC |
+| La Couronne | LCN |
+| La Couronne Carro | CRQ |
+| La Courtine | LCO |
+| La Crau | LUV |
+| La Creche | CCK |
+| La Defense | LDU |
+| La Faloise | FLO |
+| La Fere | FER |
+| La Ferte Bernard | LFB |
+| La Ferte Chevresis | FVS |
+| La Ferte Gaucher | LFG |
+| La Ferte Milon | LFM |
+| La Ferte Sous Jouarre | LFJ |
+| La Ferte St Aubin | LFS |
+| La Ferte-Alais | LFA |
+| La Ferte-Hauterive | LFH |
+| La Folie Marchandises | LFO |
+| La Fouillouse | LFI |
+| La Frayere | FYS |
+| La Freissinouse | LFN |
+| La Fresnais | FSN |
+| La Garde | LGD |
+| La Garenne Colombes | LGK |
+| La Gouesniere-Cancale-St M. | LGO |
+| La Grave D'ambares G.I. | GVA |
+| La Guerche Sur L'aubois | GUA |
+| La Guierche | GUH |
+| La Hayes Descartes | HYD |
+| La Hutte Coulombiers | LHU |
+| La Levade | LLE |
+| La Loupe | LLP |
+| La Madeleine Nord | LMA |
+| La Meilleraie | MJP |
+| La Membrolle Sur Choisille | LRL |
+| La Menitre | MEQ |
+| La Meyze | MYZ |
+| La Milesse La Bazoge | LLB |
+| La Miouze-Rochefort | LZR |
+| La Mothe Achard | LEH |
+| La Mothe St Heraye | LHY |
+| La Motte | LBW |
+| La Motte Ste Roseline | LII |
+| La Pauline Hyeres | LPH |
+| La Penne Sur Huveaune | PHE |
+| La Plaine | GPL |
+| La Plaine Stade De France | LPN |
+| La Pointe Bouchemaine | PMB |
+| La Porcherie | PHR |
+| La Possonniere | LPO |
+| La Reole | REO |
+| La Ricamarie | LRM |
+| La Riviere De Mansac | LDZ |
+| La Riviere Thibouville | LRT |
+| La Roche De Glun | LHD |
+| La Roche Sur Yon | LRY |
+| La Roche-En-Brenil | LRB |
+| La Rochefoucauld | LRO |
+| La Rochelle Pallice | LRP |
+| La Rochelle Ville | LR |
+| La Roche-Sur-Foron | LRF |
+| La Rotonde | OTO |
+| La Selle En Luitre | SQE |
+| La Seyne-Six Fours | LSM |
+| La Souterraine | LST |
+| La Suze | LSZ |
+| La Taye | LTA |
+| La Teste | TTE |
+| La Tour De Carol Env. | LTL |
+| La Tour Du Pin | LTP |
+| La Tricherie | LTR |
+| La Valbonne | VAO |
+| La Varenne Chennevieres | LVC |
+| La Varenne Chennevieres Rer | LVZ |
+| La Vauvelle | LUL |
+| La Vavrette-Tossiat | LEO |
+| La Verpilliere | VEI |
+| La Verriere | VYL |
+| La Voulte-Sur-Rhone | LVO |
+| La Voute Sur Loire | LVL |
+| La Wantzenau | LW |
+| Labarthe Avezac | LBA |
+| Labarthe Inard | LAX |
+| Labenne | LBN |
+| Labergement Ste Marie | LGM |
+| Labouheyre | LBH |
+| Labruguiere | LBG |
+| Lacourtensourt | LNT |
+| Lacq | LQ |
+| Ladon | LOQ |
+| Lafarge | LAF |
+| Lagnieu | LGU |
+| Lagny Thorigny | LGY |
+| Laguepie | LP |
+| Lahonce | LHC |
+| L'aigle | LAE |
+| Laigne St Gervais | LSG |
+| Laigneville | LAI |
+| Laissac | LVY |
+| Lalbenque Fontanes | LNQ |
+| Lalinde | LLK |
+| Laluque | LLQ |
+| Lamanon | LMN |
+| Lamarche Vosges | LAH |
+| Lamativie | LAA |
+| Lamballe | LAM |
+| Lambersart | LBK |
+| Lambesc Sei 65 | MQ |
+| Lamonzie St Martin | LZE |
+| Lamothe (Bif) | LHF |
+| Lamothe Landerron | LOH |
+| Lamothe Montravel | LMH |
+| Lamotte Beuvron | LB |
+| Lamotte Brebiere | LOW |
+| Lamotte Breuil | LMB |
+| Lamure Sur Azergues | LAZ |
+| Lancey | LCW |
+| Landas | LDD |
+| Landau | LND |
+| Landebia | LDB |
+| Landerneau | LDE |
+| Landevant | LDM |
+| Landivisiau | LDI |
+| Landrecies | LNR |
+| Landry | LAY |
+| Laneuveville Devant Nancy | LNV |
+| Langeac | LNG |
+| Langeais | LGS |
+| Langogne | LGG |
+| Langon | LG |
+| Langres | LAG |
+| Lannemezan | LNZ |
+| Lannion | LNI |
+| Laon | LAO |
+| Lapalisse St Prix | LPX |
+| Lapalud Tgv. | PUD |
+| Lapeyrouse | LPY |
+| Lapeyrouse Mornay (Lgv | LAW |
+| Laplace | LJA |
+| Lapradelle | LPW |
+| Laqueuille | LAQ |
+| Laragne | LRN |
+| L'arbresle | LBL |
+| Larche | LHZ |
+| Lardenne | KPL |
+| L'ardoise | LRD |
+| Lardy | LYO |
+| L'argentiere Les Ecrins | LEE |
+| Laroche Migennes | LAR |
+| Laroque | LRQ |
+| Laroquebrou | LQB |
+| Larzalier | LZL |
+| Lausanne | LAU |
+| Lauterbourg | LTG |
+| Laval | LAL |
+| Laval De Cere | LLC |
+| Lavalduc | LVU |
+| Lavardac | LVG |
+| Lavaufranche | LVF |
+| Lavaur | LVR |
+| Lavaveix Les Mines | LXM |
+| Laveline Devant Bruyeres | LVB |
+| Lavilledieu | LIX |
+| Layrac | LYG |
+| Le Banlay | WBY |
+| Le Blanc Mesnil | BAM |
+| Le Bosquet | BQJ |
 | Le Bouchet | WBU |
+| Le Boulou-Perthus | LBP |
+| Le Bourget | LBT |
+| Le Bourget Triage | BGW |
+| Le Bousquet D'orb | LBD |
+| Le Breuil-Sur-Couze | BCZ |
+| Le Bruel | BWQ |
+| Le Bugue | BDG |
+| Le Buisson | LBU |
+| Le Cailar | LCI |
+| Le Cateau | LCA |
+| Le Cellier | LEI |
+| Le Chambon-Feugerolles | LCF |
+| Le Chatelard-Frontiere | HTF |
+| Le Chatelet | LHR |
+| Le Cheylas La Buissiere | HYL |
+| Le Coteau | LCU |
+| Le Creusot | LCR |
+| Le Creusot-Montceau-Montchan | LCM |
+| Le Croisic | LCC |
+| Le Dorat | LDT |
+| Le Douhet Ecoyeux | DTX |
+| Le Dramont | DRW |
+| Le Genest | GST |
+| Le Grand Lemps | LGL |
+| Le Grau Du Roi | LGR |
+| Le Haut Banc | HTB |
+| Le Havre | LH |
+| Le Havre Graville | LHG |
+| Le Landy | LDX |
+| Le Lioran | LLN |
+| Le Locle | LLO |
+| Le Locle-Col Des Roches | LOC |
+| Le Mans | LM |
+| Le Merlerault | LLT |
+| Le Meux La Croix St Ouen | LXS |
+| Le Molay Littry | MLW |
+| Le Monastier | LMR |
+| Le Mont Dore | LMD |
+| Le Moulin Des Ponts | MIP |
+| Le Muy | LMY |
+| Le Palais | LPS |
+| Le Pallet | PLL |
+| Le Peage De Roussillon | PGR |
+| Le Perray | LPE |
+| Le Petit Therain | PTH |
+| Le Plant Champigny | LPC |
+| Le Plessis Belleville | PLB |
+| Le Poirier Universite | LEP |
+| Le Pontet | LPT |
+| Le Pouliguen | LIG |
+| Le Pouzin | LPZ |
+| Le Priory | PIY |
+| Le Puy En Velay | LPU |
+| Le Quesnoy Nord | LQY |
+| Le Raincy Villemomble | RVM |
+| Le Rody | LDY |
+| Le Rouget | LRG |
+| Le Soler | LSL |
+| Le Stade | LSD |
+| Le Teich | TEH |
+| Le Teil (Ardeche) | LTE |
+| Le Theil La Rouge | LEU |
+| Le Thor | LTH |
+| Le Toec | LTC |
+| Le Treport Mers | LTM |
+| Le Valdahon | LVN |
+| Le Vauriat | LVA |
+| Le Verdon | LVD |
+| Le Vert De Maisons | VD |
+| Le Vesinet Le Pecq Rer | VPQ |
+| Leffrinckoucke | LNK |
+| Leforest | LEF |
+| Lemberg Moselle | LMG |
+| Lens | LNS |
+| Lepanges | LPV |
+| Lepin Le Lac La Bauche | LPL |
+| Lerouville | LER |
+| Les Ancizes-St-Georges | LAS |
+| Les Arcs-Draguignan | LAC |
+| Les Ardoines | LAD |
+| Les Aubrais Orleans | LAB |
+| Les Bardys | LBY |
+| Les Bossons | BHS |
+| Les Boullereaux Champigny | BXP |
+| Les Cabannes | CNB |
+| Les Cauquillous | CQS |
+| Les Clouzeaux | CZX |
+| Les Coquetiers | LQT |
+| Les Echets | ECH |
+| Les Essarts Le Roi | LSI |
+| Les Eyzies | EYZ |
+| Les Fontinettes | LTS |
+| Les Gresillons | LEG |
+| Les Houches | HOU |
+| Les Ifs | LSF |
+| Les Islettes | ISL |
+| Les Lacs | LCK |
+| Les Laumes Alesia | LLA |
+| Les Longevilles-Rochejean | LLR |
+| Les Martres-De-Veyre | MVY |
+| Les Mazes Le Cres | MZR |
+| Les Mureaux | LMU |
+| Les Ormes Sur Vienne | ORE |
+| Les Pavillons Sous Bois | PVB |
+| Les Poulageres (Ep Ville Mars) | EVM |
+| Les Quatre Routes | LQR |
+| Les Ramassiers | RAM |
+| Les Relais(S/Station) | LRS |
+| Les Sables D'olonne | LSO |
+| Les Salelles | SQL |
+| Les Tines | TNJ |
+| Les Trillers | TIS |
+| Les Yvris Noisy Le Grand | LYV |
+| Lescar | LSR |
+| L'escarene | ESR |
+| Lesparre | LSE |
+| Lespouey Laslades | LYB |
+| Lesquin | LEQ |
+| Lessinnes | LIN |
+| L'estaque | LES |
+| Letrade | LTD |
+| Leuven | EUV |
+| Leval | LL |
+| Lexos | LEX |
+| Leyment | LEY |
+| L'eysselle | LYP |
+| Lezennes | LZS |
+| Lezignan (Aude) | LZA |
+| Lezignan La Cebe | LZC |
+| Lezinnes | LZI |
+| Lezoux | LEZ |
+| L'herbergement Les Brouzils | LHB |
+| L'hermitage-Mordelles | LHL |
+| L'hopital-Du-Grosbois | LHO |
+| L'hospitalet Pres L'and. | LHT |
+| Liancourt Rantigny | LIA |
+| Liart | LIR |
+| Libercourt | LIB |
+| Libourne | LI |
+| Libramont | LIT |
+| Liege | LIE |
+| Liernais | LRI |
+| Liesse Gizy | LZY |
+| Lieusaint Moissy | LIU |
+| Liffol Le Grand | LFF |
+| Ligny | LIY |
+| Liguge | LGJ |
+| Lille Delivrance | LDV |
+| Lille Flandres | LE |
+| Lille St Sauveur | LSA |
+| Lille Sud | LID |
+| Lille-Europe | LEW |
+| Lillers | LLL |
+| Limay | LIM |
+| Limoges Benedictins | LS |
+| Limoges Montjovis | LMJ |
+| Limoux | LMX |
+| Linay | LWX |
+| Lingolsheim | LGH |
+| Lisieux | LX |
+| L'isle Adam Parmain | IAP |
+| L'isle Fontaine De Vaucluse | LFV |
+| L'isle Jourdain(Gers) | LIJ |
+| L'isle Sur Le Doubs | ISD |
+| Lisle Sur Tarn | LSU |
+| Lison | LSN |
+| Liverdun | LDN |
+| Livron | LIV |
+| Livry Sur Seine | LYQ |
+| Lizy Sur Ourcq | LZO |
+| Loches | LO |
+| Loire Poste 1 | LOI |
+| Loison | LOO |
+| Loisy Sur Marne | LOS |
+| London St Pancras | LSS |
+| Longages Noe | LNN |
+| Longeray Leaz | LYZ |
+| Longjumeau | LJU |
+| Longpre Les Corps Saints | LGP |
+| Longroy Gamaches | LOG |
+| Longue | LU |
+| Longueau | LUA |
+| Longueil Ste Marie | LUE |
+| Longueville Seine Et Marne | LON |
+| Longueville Sur Scie | LEV |
+| Longuyon | LGN |
+| Longwy | LWY |
+| Lons Le Saunier | LLS |
+| Loos Les Lille | LLZ |
+| L'oraille | ORW |
+| Lorcy. | LOR |
+| Lorette | LTX |
+| Lorient | LT |
+| Loriol | LOL |
+| Lorraine Tgv | LGV |
+| Lothiers | LOT |
+| Loudeac | LDC |
+| Loudun | LOD |
+| Louhans | LHN |
+| Loulay | LLY |
+| Lourches | LOU |
+| Lourdes | LD |
+| Louroux De Bouble | LXB |
+| Louvain | LWN |
+| Louverne | LVX |
+| Louvres | LOV |
+| Lovagny Gorges Du Fier | LFR |
+| Lozanne | LOZ |
+| Luant | LUK |
+| Lubersac | LRZ |
+| Luc En Diois | LDO |
+| Luc Primaube | LPA |
+| Lucay Le Male | LYI |
+| Luce | LCJ |
+| Luche | LUH |
+| Luchon | LUC |
+| Ludres | LUD |
+| Ludwigshafen Basf | LWU |
+| Ludwigshafen Rhei | LUW |
+| Lumbres | LUM |
+| Lumes | LMS |
+| Lumes Voyageurs | LUQ |
+| Lunel | LUN |
+| Lunery | LNY |
+| Luneville | LNE |
+| Lure | LUR |
+| Lus La Croix Haute | LCX |
+| Lusignan | LUI |
+| Lussac Les Chateaux | LLX |
+| Lutterbach (Haut Rhin) | LUT |
+| Lutzelbourg | LZ |
+| Luxe | LXC |
+| Luxembourg(Cfl) | LUX |
+| Luxeuil Les Bains | LXL |
+| Luzarches | LUZ |
+| Luzenac Garanou | LUG |
+| Luzern | LZN |
+| Luzy Nievre | LUY |
+| Lyon Gorge De Loup | LYL |
+| Lyon Part Dieu | LYD |
+| Lyon St Clair | LSC |
+| Lyon St Paul | LSP |
+| Lyon Vaise | LV |
+| Lyon-Guillotiere | LN |
+| Lyon-Per.Marchandises | LPM |
+| Lyon-Perrache | LPR |
+| Lyon-St Exupery Tgv. | SXA |
+| M.Redessan Marchandises | MDL |
+| Maastricht | MTT |
+| Macau | MCA |
+| Machecoul | MCC |
+| Machilly | MCI |
+| Macon Loche | MLH |
+| Macon-Ville | MAC |
+| Madrid | MAD |
+| Magalas | MGA |
+| Magenta | MAG |
+| Magland | MGD |
+| Magnac Vicq | MGQ |
+| Magnette | MGR |
+| Magneux | MXN |
+| Maille | MAX |
+| Mailly La Ville | MIY |
+| Mailly Le Camp | MLC |
+| Maintenon | MTN |
+| Mainz Bischofsheim | FMB |
+| Maison Dieu | MEU |
+| Maison Rouge En Brie | MEB |
+| Maisons Alfort Alfortville | MFA |
+| Maisons Alfort Pompadour | MAP |
+| Maisons Laffitte | MLF |
+| Maisse | MSN |
+| Maizieres Les Metz | MMZ |
+| Malain | MLI |
+| Malansac | MLO |
+| Malaunay Le Houlme | MUA |
+| Malause | MSP |
+| Malbosc | MBO |
+| Malemort Laffont | MMF |
+| Malesherbes | MAL |
+| Manchester Picadilly | MHS |
+| Manduel Redessan | UEL |
+| Manlay | MLY |
+| Mannheim | MAN |
+| Mannheim Rheinau | MRH |
+| Manois | MIH |
+| Manosque Greoux Les Bains | MNQ |
+| Mantes La Jolie | MTE |
+| Manthes Lapeyrouse | MHL |
+| Marais De Lomme | MWL |
+| Marans | MSH |
+| Maranville | MNE |
+| Marbache | MAH |
+| Marcelcave | MCV |
+| Marcellaz Hauteville | MZH |
+| Marcheprime | MCP |
+| Marchezais Broue | MBR |
+| Mareil Marly | MPJ |
+| Maresquel | MQU |
+| Mareuil Sur Ourcq | MAQ |
+| Margaux | MGU |
+| Margut Fromy | MGT |
+| Marignac St Beat | MSB |
+| Marignane | MGH |
+| Marignier | MRG |
+| Marle Sur Serre | MR |
+| Marles En Brie | MLB |
+| Marlieux Chatillon | MXC |
+| Marly Le Roi | MLR |
+| Marmagne | MMH |
+| Marmagne Sous Creusot | MMS |
+| Marmande | MMD |
+| Marnaval | MNV |
+| Marne La Vallee-Chessy | MVC |
+| Maroeuil | MUI |
+| Marolles En Hurepoix | MSX |
+| Marolles Prs 12 | MPS |
+| Maromme | MRM |
+| Marquillies | MQS |
+| Marquise Rinxent | MRX |
+| Marracq | MRQ |
+| Marsac (Creuse) | MRR |
+| Marsac (Dordogne) | MRA |
+| Marseille Blancarde | MBC |
+| Marseille En Beauvaisis | MAI |
+| Marseille Mme Arenc | MAA |
+| Marseille Mme Canet | MCT |
+| Marseille Mme Joliette | MJO |
+| Marseille Mme Mourepiane | MMP |
+| Marseille Prado | MPO |
+| Marseille St Charles | MSC |
+| Marseilles Les Aubigny | MLA |
+| Marssac Sur Tarn | MSS |
+| Martigne Ferchaud | MAF |
+| Martigny | MGY |
+| Martigny Les Bains | MYI |
+| Martigues | MTG |
+| Marvejols | MVJ |
+| Mas De Ponge | MDJ |
+| Masseret | MST |
+| Massiac | MIA |
+| Massy Palaiseau | MP |
+| Massy Palaiseau Gc | MPU |
+| Massy Tgv | MPW |
+| Massy Verrieres | MVW |
+| Maubeuge | MBG |
+| Maubourguet | MGE |
+| Mauco Benquet | MOQ |
+| Maule | MAE |
+| Maurois | MAK |
+| Maurs | MRS |
+| Mauves Sur Loire | MUE |
+| Mauze | MAZ |
+| Mayet | MYT |
+| Mazamet | MZT |
+| Meaux | MEA |
+| Mechelen | MWN |
+| Mehun Sur Yevre | MHY |
+| Melun | MEL |
+| Menars | ME |
+| Menaucourt | MNT |
+| Mende | MDE |
+| Mennecy | MNY |
+| Mennetou Sur Cher | MNN |
+| Menton | MEN |
+| Mer(Loir Et Cher) | MER |
+| Merelbeke | GME |
+| Merens Les Vals | MLX |
+| Mericourt Ribemont | MTL |
+| Meriel | MLV |
+| Meroux | MUX |
+| Merrey Hte Marne | MRY |
+| Mertzwiller | MZW |
+| Meru | MRU |
+| Mervans | MRV |
+| Merville | MEV |
+| Mesnay Arbois | MBI |
+| Messac-Guipry | MES |
+| Messempre | MPE |
+| Mettray | MTY |
+| Metz | MZ |
+| Metz Chambiere | MZC |
+| Metz Devant Les Ponts | MDP |
+| Metz Marchandises | MZM |
+| Metz Nord | MZD |
+| Metz Sablon | MZS |
+| Metzeral | MZL |
+| Metzervisse | MZV |
+| Meudon | MDN |
+| Meudon-Val-Fleury | MFY |
+| Meulan Hardricourt | MHD |
+| Meung Sur Loire | MGL |
+| Meurchin | MHN |
+| Meursault | MAT |
+| Meuse Montigny Le Roi | MGO |
+| Meuse Tgv | MGV |
+| Meximieux Perouges | MEX |
+| Meymac | MYC |
+| Meyrargues | MEY |
+| Meyrargues Chantier Perthuis | MEK |
+| Meyreuil | MRL |
+| Mezeriat | MZF |
+| Mezidon | MEZ |
+| Mezin | MZI |
+| Mezy | MZY |
+| Miecaze | MCZ |
+| Mignaloux Nouaille | MGX |
+| Milan | MIC |
+| Milhac D'auberoche | MCB |
+| Millas | MYR |
+| Millau | MAU |
+| Millery Montagny | MYN |
+| Milly Sur Therain | MYH |
+| Mimbaste | MMB |
+| Miniac | MIN |
+| Miramas | MAS |
+| Miraumont | MIK |
+| Miribel | MIB |
+| Miribel (Lgv) | MIW |
+| Miserey | MIS |
+| Misson Habas | MH |
+| Mitry Claye | MY |
+| Modane | MOD |
+| Mohon | MN |
+| Moirans | MOA |
+| Moissac | MOI |
+| Molsheim | MOL |
+| Mommenheim | MOH |
+| Monaco Country Club | MHC |
+| Monaco Monte Carlo | MNA |
+| Monceau Sur Sambre | MCW |
+| Monestier De Clermont | MDC |
+| Moneteau Gurgy | MEG |
+| Monistrol-D'allier | MNR |
+| Monnaie | MON |
+| Monnerville | MW |
+| Mons | MOJ |
+| Monsempron Libos | MLS |
+| Mont De Marsan | MM |
+| Mont De Terre | MXT |
+| Mont Louis La Cabanasse | MTC |
+| Mont Notre Dame | MDA |
+| Mont St Martin | MSM |
+| Mont Sur Meurthe | MMT |
+| Montaignac St Hippolyte | MCE |
+| Montaigu Vendee | MTV |
+| Montanay (Lgv) | MXO |
+| Montargis | MS |
+| Montastruc La Conseillere | MCL |
+| Montataire | MOO |
+| Montauban | MBN |
+| Montauban De Bretagne | MDT |
+| Montaudran | MQN |
+| Montbard | MBA |
+| Montbartier | MNG |
+| Montbazon | MNZ |
+| Montbeliard | MBD |
+| Montbeugny | MBE |
+| Montbizot | MBZ |
+| Montbre | MPB |
+| Montbrison | MOB |
+| Montcaret | MOC |
+| Montceau Les Mines | MMI |
+| Montchanin | MCH |
+| Montcornet | MCR |
+| Montdauphin Guillestre | MDG |
+| Montdidier | MTD |
+| Montelimar | MTR |
+| Montendre | MMM |
+| Montereau | MTU |
+| Monterolier Buchy | MBY |
+| Montescourt | MCU |
+| Monteux | MTX |
+| Montfavet | MFT |
+| Montfort L Amaury Mere | MLM |
+| Montfort Le Gesnois | MLG |
+| Montfort Sur Meu | MFS |
+| Montherme | MME |
+| Monthois | MEP |
+| Montierchaume | MCM |
+| Montieres | MIE |
+| Montigny Beauchamp | MBP |
+| Montigny En Ostrevent | MYO |
+| Montivilliers | MVL |
+| Montlucon | ML |
+| Montluel | MLU |
+| Montmedy | MDY |
+| Montmelian | MML |
+| Montmoreau | MMA |
+| Montmorillon | MMN |
+| Montoir De Bretagne | MDB |
+| Montoire Sur Le L. | MUO |
+| Montpaon | MNP |
+| Montpellier | MPL |
+| Montpezat | MKA |
+| Montpon Sur L'isle | MPI |
+| Montrabe | MTB |
+| Montrejeau Gourdan Polignan | MTJ |
+| Montreuil Bellay | MBL |
+| Montreuil Sur Ille | MSI |
+| Montreuil Sur Mer | MOM |
+| Montreux | MXX |
+| Montreux Vieux | MVX |
+| Montrichard | MRD |
+| Montroc Le Planet | MKZ |
+| Montrond Les Bains | MRB |
+| Montrouge Chatillon | MO |
+| Montry Conde | MYD |
+| Monts(Indre Et Loire) | MSD |
+| Montsoult Maffliers | MSO |
+| Montsurs | MSW |
+| Montville | MVE |
+| Montzen | OZN |
+| Morains Aulnay | MJJ |
+| Morannes | MNS |
+| Morcenx | MCX |
+| Moret-Veneux-Les-Sablons | MOR |
+| Moreuil | MRE |
+| Morez | MOZ |
+| Morgny | MGN |
+| Morhange | MHG |
+| Morieres Les Avignon | MVG |
+| Morlaix | MX |
+| Mormant | MRT |
+| Mortcerf | MOF |
+| Morteau | MTO |
+| Morvillars | MOV |
+| Motteville | MOT |
+| Mouans Sartoux | MUU |
+| Mouchard | MCD |
+| Moulin Neuf Oise | MNF |
+| Moulin Rouge | MRW |
+| Moulins Sur Allier | MSA |
+| Moulins Sur Yevre | MSY |
+| Moulis Listrac | MUL |
+| Moult Argences | MTA |
+| Mourmelon Le Petit | MLP |
+| Mouscron | MOU |
+| Moussy Prci13 | MOY |
+| Moustier | MWR |
+| Mouthiers(Charente) | MHR |
+| Moutiers-Salins-Brides L.Bains | MOS |
+| Moux (Aude) | MOX |
+| Mouy Bury | MUY |
+| Moyeuvre Grande | MG |
+| Muizen | MZN |
+| Muizon | MIZ |
+| Mulhouse Dornach | MD |
+| Mulhouse Nord | MUN |
+| Mulhouse Ville | MSE |
+| Mullheim | MUK |
+| Mundolsheim | MUM |
+| Munich | MU |
+| Munster | MUT |
+| Munster Badishhof | MBF |
+| Murat | MUR |
+| Muret | MET |
+| Musee D'orsay | MDS |
+| Mussey | MYX |
+| Mussidan | MUS |
+| Muttenz | MZZ |
+| Mutzig | MTZ |
+| Naintre Les Barres | NIB |
+| Najac | NAJ |
+| Namps Quevauvillers | NAQ |
+| Namur | NMR |
+| Nancois Tronville | NAE |
+| Nancy | NY |
+| Nangis | NAN |
+| Nanterre Universite | NUN |
+| Nanterre-Prefecture | NAF |
+| Nantes | NS |
+| Nantes Blottereau | NBL |
+| Nantes Etat | NET |
+| Nanteuil Le Haudouin | NH |
+| Nanteuil Saacy | NAU |
+| Nantilly-Saumur | NTY |
+| Naples | NAP |
+| Narbonne | NA |
+| Naucelle | NCE |
+| Neau | NEA |
+| Negrondes | NEG |
+| Nemours St Pierre | NSP |
+| Nerac | NC |
+| Neronde | NRD |
+| Nerondes | NDS |
+| Neuenburg(Db) | NBG |
+| Neuf Brisach Gare | NFB |
+| Neufchateau | NCH |
+| Neufchatel - Hardelot Plage | NHA |
+| Neufmoutiers En Brie | NMB |
+| Neuille Pont Pierre | NPP |
+| Neuilly Porte Maillot | NPT |
+| Neuilly St Front | NSF |
+| Neuilly Sur Marne | NYM |
+| Neuisenburg | NSB |
+| Neunkirchen | SNK |
+| Neuss Gbf | KNG |
+| Neussargues | NEU |
+| Neustadt Weinstr Hbf | NST |
+| Neuves Maisons | NAS |
+| Neuvic (Dordogne) | NVC |
+| Neuville De Poitou | NDP |
+| Neuville Sur Saone | NSS |
+| Neuville Sur Sarthe | NER |
+| Neuville Universite | NUE |
+| Neuvy Pailloux | NP |
+| Neuvy Sur Loire | NEV |
+| Nevers | NV |
+| Nice (Cfp) | NCP |
+| Nice Riquier | NIR |
+| Nice St Augustin | NIA |
+| Nice St Roch | NSR |
+| Nice Ville | NE |
+| Niederbronn Les Bains | NLB |
+| Nieppe | NPE |
+| Nimes | NI |
+| Ninove | NIN |
+| Niort | NT |
+| Nissan | NIS |
+| Niversac | NEC |
+| Noailles(Correze) | NIL |
+| Noeux | NOX |
+| Nogent L'artaud Charly | NAA |
+| Nogent Le Perreux | NLP |
+| Nogent Le Rotrou | NGR |
+| Nogent Sur Seine | NOG |
+| Nogent Sur Vernisson | NGI |
+| Noiretable | NOI |
+| Noisy Le Grand Mont D Est | NYG |
+| Noisy Le Roi | NIO |
+| Noisy Le Sec | NSY |
+| Nomain | NOM |
+| Nonancourt | NCO |
+| Nonant Le Pin | NAL |
+| Notre Dame De Briancon | NAB |
+| Notre Dame D'oe | NDA |
+| Nouan Le Fuzelier | NOF |
+| Nouvion Sur Meuse | NSM |
+| Nouzonville | NOU |
+| Novara | NVA |
+| Noveant | NEN |
+| Novillars | NOV |
+| Novion Porcien | NOP |
+| Noyelles | NOE |
+| Noyen | NON |
+| Noyon | NOY |
+| Nozieres Brignon | NOZ |
+| Nuces | NUC |
+| Nuisement | NEM |
+| Nuits-Saint-Georges | NUI |
+| Nuits-Sous-Ravieres | NUR |
+| Nurieux | NEX |
+| Oberhofen | OHN |
+| Oberhoffen Camp De Haguenau | OBF |
+| Obermodern | OBM |
+| Obernai | OBE |
+| Objat | OB |
+| Offenbach Main Hbf | OFB |
+| Offenbourg | OFN |
+| Ogeu Les Bains | OLB |
+| Oignies Prci 27 | OIP |
+| Oiry | OIR |
+| Oissel | OI |
+| Olette-Canaveilles | OLE |
+| Ollioules Sanary Sur Mer | OLL |
+| Oloron Ste Marie | OLN |
+| Onville | ONV |
+| Onzain | OZA |
+| Orange | OGE |
+| Orbassano | ORB |
+| Orchamps (Jura) | ORA |
+| Orchies | ORC |
+| Orelle Premont | ORP |
+| Orgeres | OG |
+| Orgerus Behoust | OGB |
+| Orgon | ORG |
+| Origny Ep Ciments | ORI |
+| Orleans | ORL |
+| Orly Ville | OY |
+| Ormoy Villers | ORM |
+| Orry La Ville Coye | ORY |
+| Orsay Ville | ORS |
+| Orthez | ORT |
+| Osseja | OSA |
+| Osses St Martin D'arrossa | OSS |
+| Ossun | OS |
+| Ostende | OST |
+| Ostricourt | OIC |
+| Ottignies | OTG |
+| Oudon | OD |
+| Ouest Ceinture | OCT |
+| Oulchy Breny | OCH |
+| Oullins | OUL |
+| Ourscamp | OUA |
+| Oyonnax | OYO |
+| Ozoir La Ferriere | OZF |
+| P.De Rungis Aerop.D'orly | PRU |
+| Pagny Sur Meuse | PYM |
+| Pagny Sur Moselle | PMO |
+| Paimpol | PIP |
+| Palinges | PNG |
+| Pamiers | PMS |
+| Pamproux | PAP |
+| Pantin | PAN |
+| Paray Le Monial | PLM |
+| Parc Des Expositions | PEX |
+| Parcoul Medillac | PMC |
+| Parent Coudes Champeix | PCC |
+| Pargny Sur Saulx | PAG |
+| Paris Aust. Rer C | PZB |
+| Paris Austerlitz | PAZ |
+| Paris Batignolles | PB |
+| Paris Bercy (Voyageurs) | PBY |
+| Paris Bercy Conflans | PGV |
+| Paris Est | PE |
+| Paris La Chapelle | PCH |
+| Paris La Villette | PLV |
+| Paris La Villette Hebert | LVH |
+| Paris Montparnasse | PMP |
+| Paris Montparnasse-Vaugirard | PVA |
+| Paris Nord | PNO |
+| Paris Nord Gare Banlieue | PNB |
+| Paris Ourcq | PO |
+| Paris St Lazare | PSL |
+| Paris Tolbiac | TC |
+| Paris-Lyon | PLY |
+| Parsac Gouzon | PCG |
+| Parthenay | PAY |
+| Pas Des Lanciers | PDL |
+| Pasilly Prs 17 | PAI |
+| Patay | PT |
+| Pau | PAU |
+| Pauillac | PAC |
+| Paulhaguet | PLH |
+| Peille | PEI |
+| Peltre | PTE |
+| Penhoet | SZP |
+| Penne(Lot Et Garonne) | PNE |
+| Pereire Levallois | PRR |
+| Perenchies | PHI |
+| Perigueux | PX |
+| Pernes Camblain | PEC |
+| Peronville | PEO |
+| Perpignan | PPN |
+| Perrignier | PEG |
+| Perrigny | DPY |
+| Persan Beaumont | PEB |
+| Pessac | PSC |
+| Petange(Cfl) | PTG |
+| Peterborough | PGH |
+| Petit Quevilly | PQY |
+| Petit Rederching | PHG |
+| Peynier Rousset | PET |
+| Peyraud | PEY |
+| Peyrehorade | PRH |
+| Pezou | PEZ |
+| Phalempin | PHA |
+| Picquigny | PIQ |
+| Pierrefitte Nestalas | PFN |
+| Pierrefitte-Stains | PRF |
+| Pierrelatte | PRL |
+| Pierrelaye | PRY |
+| Pierroton | PIO |
+| Piolenc Tgv | PIC |
+| Pisany | PIA |
+| Pithiviers | PIT |
+| Plaintel | PIL |
+| Plaisir Grignon | PG |
+| Plaisir Les Clayes | PIE |
+| Plancoet | PLA |
+| Plechatel | PCT |
+| Pleine Fougeres | PFS |
+| Plenee Jugon | PLJ |
+| Plerguer | PGE |
+| Plessis Poste 31 Prs | PLX |
+| Plestan | PLE |
+| Pleyber Christ | PBC |
+| Plombieres (Cote D'or) | PCO |
+| Plouaret Tregor | PLT |
+| Plouharnel-Carnac | PLC |
+| Plouigneau | PGU |
+| Plounerin | PNR |
+| Ply Banlieue | PAA |
+| Podensac | POD |
+| Pointe De Grave | PDG |
+| Poissy | PSY |
+| Poitiers | PS |
+| Poix De Picardie | PDP |
+| Poix Terron | PIX |
+| Polienas | PES |
+| Poligny | PGN |
+| Polisot | POL |
+| Pombliere St Marcel | PBM |
+| Pompadour | POM |
+| Pompey (Ex Bv) | PPE |
+| Pons | PN |
+| Pont A Mousson | PAM |
+| Pont A Vendin | PAV |
+| Pont Audemer | PTA |
+| Pont Cardinet | PTC |
+| Pont Chateau | PCU |
+| Pont D'ain | PDA |
+| Pont D'ardres | PRD |
+| Pont De Beauvoisin | POB |
+| Pont De Briques | PRS |
+| Pont De Buis | PBU |
+| Pont De Claix | PDC |
+| Pont De Dore | PDO |
+| Pont De L Alma | PDM |
+| Pont De La Deule | PDD |
+| Pont De L'arche | PAR |
+| Pont De Roide | PDR |
+| Pont De Sallaumines | PSJ |
+| Pont De Veyle | PEL |
+| Pont D'hery | PDE |
+| Pont Du Casse | PU |
+| Pont Du Chateau | POC |
+| Pont Hebert | PNT |
+| Pont L'eveque | PVQ |
+| Pont Maugis | POT |
+| Pont Remy | PRM |
+| Pont St Esprit | POE |
+| Pont St Vincent | PSV |
+| Pont Ste. Maxence | PXE |
+| Pont Sur Seine | PRN |
+| Pont Sur Yonne | PUY |
+| Pont Vert | PTV |
+| Pontailler Sur Saone | PTS |
+| Pontanevaux La Chapelle | PNX |
+| Pontarlier | PTL |
+| Pontcharra St Forgeux | PNF |
+| Pontcharra-Sur-Breda | PCA |
+| Ponte-Leccia | PXL |
+| Pontgibaud | PGB |
+| Pontgouin | PNN |
+| Ponthierry Pringy | POP |
+| Pontivy | PTY |
+| Pontmort | PMT |
+| Pontoise | PSE |
+| Pontorson Mont St Michel | PON |
+| Porchefontaine | POA |
+| Pornic | PNC |
+| Pornichet | PNI |
+| Port Bou | PBO |
+| Port Boulet | PBT |
+| Port Brillet | PTT |
+| Port D'atelier | PA |
+| Port De Bouc | PDB |
+| Port De Piles | PP |
+| Port La Nouvelle | PLN |
+| Port Sec De Pacy | PCY |
+| Port St Louis | PLR |
+| Port Ste Marie | PSM |
+| Port Vendres Ville | POV |
+| Porte De Clichy | PCL |
+| Porte Puymorens | PPM |
+| Portes | POR |
+| Portet St Simon | PSS |
+| Poste 17 Prs | PQS |
+| Poste De St Antoine | PSA |
+| Poste Des Berchettes | PBQ |
+| Poste R D'orly | OPR |
+| Pougues Les Eaux | PSU |
+| Pouilly Sur Charlieu | PYC |
+| Pouilly Sur Loire | PYL |
+| Poule | POU |
+| Pouru Brevilly | PBI |
+| Pouxeux | PXX |
+| Pouzauges | PZ |
+| Prades Molitg Les Bains | PDS |
+| Prague | PR |
+| Precy Sur Oise | PYO |
+| Pre-En-Pail | PRE |
+| Preignac | PRG |
+| Presles En Brie | PTB |
+| Pressins | PIW |
+| Prevenches Gorges Du Chassez | PVZ |
+| Pringy (Haute Savoie) | PGY |
+| Prouvy  | PRT |
+| Provencheres Sur Fave | PVF |
+| Provins | PRO |
+| Publier | PUB |
+| Puget Sur Argens | PUE |
+| Puigcerda | PGA |
+| Puteaux | PTX |
+| Puy Guillaume | PUG |
+| Puy Imbert | PIM |
+| Puybrun | PBN |
+| Puyoo | PUO |
+| Pyrimont Chanay | PYY |
+| Quemeneven | QMN |
+| Quenast | QNT |
+| Quesnoy Sur Deule | QUS |
+| Questembert | QUE |
+| Quevy | QY |
+| Quiberon | QB |
+| Quillan | QUI |
+| Quimper | QR |
+| Quimperle | QPL |
+| Quincieux | QUX |
+| Quintin | QIN |
+| Rabastens Couffouleux | RAB |
+| Rac De Gagny | RDY |
+| Raismes Nord | RAS |
+| Rambouillet | RBT |
+| Rambucourt Bouconville | RAC |
+| Ranchot | RNH |
+| Randan | RND |
+| Rang Du Fliers Verton | RDF |
+| Ranguin | RGN |
+| Raon L'etape | RAO |
+| Rassuen | RAU |
+| Raves Ban De Laveline | RVB |
+| Razac | RZA |
+| Realville | RVE |
+| Recquignies | RCQ |
+| Redessan Tgv | RDT |
+| Reding | RDG |
+| Redon | RDN |
+| Regny | RGY |
+| Reichshoffen Ville | RHV |
+| Reichstett | RTT |
+| Reignac | RGA |
+| Reignier | REI |
+| Reims | RE |
+| Reims Maison Blanche | RSN |
+| Reims St Leonard | RSL |
+| Remilly | RMI |
+| Remiremont | RNT |
+| Remoulins Pont Du Gard | RMS |
+| Remy Oise | REY |
+| Renescure | RSC |
+| Rennes | RES |
+| Reterre | RER |
+| Rethel | RTL |
+| Retiers | RTI |
+| Reuilly(Indre) | REL |
+| Revel Soreze | RVS |
+| Revigny | REV |
+| Revin | RV |
+| Reze Pont Rousseau | RPT |
+| Ria | RA |
+| Ribeauville | RAV |
+| Ribecourt | RIB |
+| Richwiller | RWL |
+| Riedseltz | RTZ |
+| Rieux Angicourt | RIA |
+| Rilly La Montagne | RAG |
+| Rimaucourt | RIM |
+| Rimini | RI |
+| Ringendorf | RGD |
+| Riom | RIO |
+| Ris Orangis | RIS |
+| Riscle | RCL |
+| Rive De Gier | RGR |
+| Rives | RIV |
+| Rivesaltes | RVT |
+| Rixheim | RHE |
+| Roanne | ROA |
+| Robinson | RNS |
+| Roche Lez Beaupre | RBE |
+| Rochefort | RC |
+| Rochefort Sur Nenon | RNN |
+| Rochy Conde | RCY |
+| Rodange(Cfl) | ROG |
+| Rodez | RDZ |
+| Roeschwoog | RWG |
+| Roeux Pas De Calais | RUX |
+| Rognac | RGC |
+| Roissy En Brie | ROB |
+| Rolampont | RAT |
+| Rolleville | ROL |
+| Romaneche Thorins | RHR |
+| Romans Bourg De Peage | ROM |
+| Rombas Clouange | RBS |
+| Rome | RM |
+| Romilly La Puthenaye | RYP |
+| Romilly Sur Andelle | RSA |
+| Romilly Sur Seine | RMY |
+| Romont | RT |
+| Romorantin | RWO |
+| Ronchamp | RCP |
+| Ronchin | ROC |
+| Ronet | RON |
+| Roquefort Landes | ROQ |
+| Roquemaure Tgv | RGV |
+| Roqueseriere | RQE |
+| Roscoff | RFF |
+| Rosheim | ROH |
+| Rosieres | ROS |
+| Rosieres Aux Salines | ROI |
+| Rosny Bois Perrier | RBI |
+| Rosny Sous Bois | RSB |
+| Rosny Sur Seine | RSS |
+| Rosporden | RSP |
+| Rosult | ROT |
+| Rothau | RTH |
+| Roubaix | RX |
+| Roubaix Wattrelos | RXW |
+| Rouen Martainville | RMT |
+| Rouen Orleans | RNO |
+| Rouen R.G. | RG |
+| Rouesse Vasse | REE |
+| Rouffach | RAH |
+| Rougemont Chanteloup | RGP |
+| Rouille | RIL |
+| Roumazieres Loubert | RZS |
+| Rouxmesnil | RMN |
+| Royan | ROY |
+| Royat Chamalieres | RYA |
+| Roye Somme | ROE |
+| Rozoy Sur Serre | RZY |
+| Rueil Malmaison | RUI |
+| Rueil Malmaison Rer | RUR |
+| Ruelle | RUL |
+| Ruffec(Charente) | RU |
+| Ruffey | RFY |
+| Rully | RLY |
+| Rumilly | RUM |
+| Rungis | RUN |
+| Rungis La Fraternelle | RF |
+| Russelsheim Opelwerk | ROP |
+| Saales | SAA |
+| Saillagouse | SGW |
+| Saillans | SIA |
+| Saillat Chassenon | ST |
+| Sain Bel | SBL |
+| Saincaize | SZE |
+| Sains Du Nord | SAW |
+| Sains Richaumont | SHM |
+| Saint Amand Les Eaux | SAM |
+| Saint Ambroix | SAX |
+| Saint Amour | SAR |
+| Saint Andre De Corcy | SAY |
+| Saint Andre Le Gaz | SAG |
+| Saint Andre Nord | STA |
+| Saint Avre La Chambre | SVB |
+| Saint Barthelemy | XBA |
+| Saint Beron La Bridoire | SBR |
+| Saint Bonnet En Bresse | SXB |
+| Saint Cesaire | SCS |
+| Saint Chamas | SH |
+| Saint Chamond | SCM |
+| Saint Chely D'apcher | SYH |
+| Saint Clair Les Roches | SKR |
+| Saint Claude | SCL |
+| Saint Cyr Les Lecques La Cadie | SAQ |
+| Saint Denis | SDE |
+| Saint Egreve St Robert | SEG |
+| Saint Eloi | SEL |
+| Saint Eloy | SEY |
+| Saint Etienne Bellevue | SEB |
+| Saint Etienne Chateaucreux | SE |
+| Saint Etienne Du Bois | SSK |
+| Saint Etienne La Terrasse | SET |
+| Saint Etienne Le Clapier | SEC |
+| Saint Florentin Vergigny | SIF |
+| Saint Flour Chaudes Aigues | SFC |
+| Saint Fons | SFS |
+| Saint Georges D'aurac | SGA |
+| Saint Georges De Commiers | SGC |
+| Saint Georges De Luzencon | SDU |
+| Saint Georges De Reneins | SDI |
+| Saint Germain Au Mont D Or | SGO |
+| Saint Germain Des Fosses | SGF |
+| Saint Germain En Laye Rer | SXR |
+| Saint Germain L Espinasse | SLK |
+| Saint Gervais Chateauneuf | SGH |
+| Saint Gervasy Bezouce | SIZ |
+| Saint Ghislain | GHL |
+| Saint Gilles | SLW |
+| Saint Gratien | SGT |
+| Saint Hilaire St Nazaire | SHN |
+| Saint Jean De Losne | SJL |
+| Saint Jean De Moirans | XJM |
+| Saint Jean Sur Veyle | XJV |
+| Saint Jodard | SNJ |
+| Saint Julien Clenay | SJQ |
+| Saint Julien Du Sault | SJX |
+| Saint Julien En Genevois | SJG |
+| Saint Just En Chaussee | SJS |
+| Saint Just Sur Loire | SJO |
+| Saint Laurent (Jura) | SLJ |
+| Saint Laurent Du Var | SNV |
+| Saint Leger Sur Dheune | SLH |
+| Saint Leu D'esserent | SLT |
+| Saint Leu La Foret | SLF |
+| Saint Louis Les Aygalades | SLA |
+| Saint Mammes | SF |
+| Saint Marcel | SMA |
+| Saint Marcellin (Isere) | SCI |
+| Saint Martin Bellevue | SML |
+| Saint Martin De Crau | SMD |
+| Saint Martin Du Mont | XMM |
+| Saint Martin Sail Les Bains | SMB |
+| Saint Maximin Marchandises | SXI |
+| Saint Michel Valloire | SMI |
+| Saint Omer En Chaussee | SHS |
+| Saint Omer Pas De Calais | STO |
+| Saint Ouen | SOS |
+| Saint Ouen L Aumone Liesse | SOL |
+| Saint Ouen L'aumone | SOA |
+| Saint Ouen Les Docks | SOD |
+| Saint Ours Les Roches | SOR |
+| Saint Paul (Oise) | SUE |
+| Saint Paul De Varax | SVX |
+| Saint Peray | STP |
+| Saint Pierre D'albigny | SPA |
+| Saint Pierre En Faucigny | SEN |
+| Saint Pierre Le Moutier | SPM |
+| Saint Pol Sur Ternoise | SPT |
+| Saint Pourcain Sur Sioule | SSI |
+| Saint Priest | SPR |
+| Saint Quentin | SQ |
+| Saint Quentin Fallavier | SQF |
+| Saint Rambert D Albon | SRA |
+| Saint Rambert En Bugey | SBB |
+| Saint Raphael Valescure | SRV |
+| Saint Roch Somme | SRO |
+| Saint Romain De Popey | SNP |
+| Saint Romain Le Puy | SRP |
+| Saint Rome De Cernon | SDO |
+| Saint Saturnin D'avignon | SSA |
+| Saint Sauveur De Peyre | SSP |
+| Saint Sulpice Auteuil | SUP |
+| Saint Vallier Sur Rhone | SUO |
+| Saint Victor Thizy | SVH |
+| Saint Vit | SVI |
+| Saint Yorre | SYO |
+| Sainte Cecile D'andorge | SCZ |
+| Sainte Marthe En Provence | SAH |
+| Saintes | SS |
+| Salaise | SAS |
+| Salbris | SAL |
+| Saleux | SLX |
+| Salindres | SLD |
+| Sallanches Combloux Megeve | SLS |
+| Sallaumines | SLI |
+| Salleles-D'aude | SUF |
+| Salles Courbatiers | SIR |
+| Salon | SON |
+| Salon La Tour | SUK |
+| Salzbourg | SZG |
+| Sancourt | SUQ |
+| Sannois | SNN |
+| Santenay Les Bains | SLB |
+| Santes | STS |
+| Saone | SA |
+| Sarcelles St Brice | SLL |
+| Sarlat | SL |
+| Sarlieve Cournon | SLC |
+| Sarralbe | SRB |
+| Sarrancolin | SRC |
+| Sarras | SKA |
+| Sarrebourg | SBG |
+| Sarrebruck | SBK |
+| Sarreguemines | SGS |
+| Sarreinsming | SRG |
+| Sarre-Union | SU |
+| Sartrouville | SVL |
+| Sathonay Rillieux | SYR |
+| Satigny | SYF |
+| Saujon | SJ |
+| Saulieu | SIU |
+| Saulnes | SNS |
+| Saulon | SLN |
+| Saumur | SUD |
+| Sausset Les Pins | SPJ |
+| Sauveterre La Lemance | SVE |
+| Savenay | SNY |
+| Saverdun | SRN |
+| Saverne | SNE |
+| Savigny Sur Orge | SAO |
+| Savines | SIS |
+| Savonnieres | ZVO |
+| Saze Tgv | AZ |
+| Sceaux B0esse | SBO |
+| Schaerbeek | SCH |
+| Schifferstadt | SHI |
+| Schirmeck La Broque | SCK |
+| Schweighouse Sur Moder | SWG |
+| Schwetzingen | RSZ |
+| Seclin | SCN |
+| Sedan | SED |
+| Sees | SKS |
+| Segre | SGR |
+| Selestat | STT |
+| Selles Sur Cher | SUC |
+| Selommes | SOE |
+| Selongey | SYU |
+| Seltz | SSZ |
+| Sembadel | SEM |
 | Semur En Auxois | WEA |
+| Senas | S |
+| Senas Tgv | ENA |
+| Sennecey Le Grand | SRD |
+| Senozan | SOZ |
+| Sens | SES |
+| Seon St Henry | ZSH |
+| Septemes | SEP |
+| Sequedin | SQD |
+| Sermaise | SXE |
+| Sermaize Les Bains | SZB |
+| Sermizelles Vezelay | SZZ |
+| Serqueux | SEQ |
+| Serquigny | SY |
+| Serres | SRE |
+| Servas Lent | SVN |
+| Servon | SVO |
+| Servoz | SVZ |
+| Sete | STE |
+| Seurre | SEU |
+| Severac | SVG |
+| Severac Le Chateau | SVC |
+| Sevran Beaudottes | BDE |
+| Sevran Livry | SEV |
+| Sevres (R.G.) | SVR |
+| Seyssel Corbonod | SSS |
+| Sezannes | SZ |
+| Sibelin Triage | SIB |
+| Sierck Les Bains | SIK |
+| Sierentz | SEZ |
+| Sille Le Guillaume | SLG |
+| Sillery | SLY |
+| Silly | SIY |
+| Simandre Sur Suran | SUS |
+| Simard | SKD |
+| Simiane | SI |
+| Sin Le Noble | SIN |
+| Sincey Les Rouvray | SCU |
+| Sion | SZX |
+| Sireuil | SII |
+| Sisteron | SIO |
+| Soissons | SOI |
+| Solers | SXO |
+| Solferino | SFE |
+| Solignac Le Vigen | SKN |
+| Sollies Pont | SIP |
+| Somain | SOM |
+| Sommery | SKY |
+| Sommesous | SMU |
+| Songy | SGY |
+| Sorcy | SCY |
+| Sorgues Chateauneuf Du Pape | SCP |
+| Sospel | SOP |
+| Sottevast | SOT |
+| Sotteville | SO |
+| Sougy Sur Loire | SYJ |
+| Souillac | SOU |
+| Soulac Sur Mer | SUU |
+| Soulosse (Ex Bv) | SOO |
+| Soultz Sous Forets | SSF |
+| Souppes-Chateau-Landon | SPP |
+| Sous Le Bois | SB |
+| Souvigny | SUY |
+| St Agne | XAE |
+| St Aignan Noyers | SAN |
+| St Aigulin La Roche Chalais | SAI |
+| St Amand De Vendome | SDV |
+| St Amand Montrond Orval | SAD |
+| St Andre De Cubzac | SAC |
+| St Andre De L'eure | SAE |
+| St Andre Des Eaux | SEX |
+| St Astier | STK |
+| St Aubin Du Vieil Evreux | SAV |
+| St Aubin St Luperce | SBP |
+| St Aubin Sur Scie | SBE |
+| St Avold | SVD |
+| St Blaise La Roche Poutay | SZR |
+| St Bonnet De Rochefort | SBD |
+| St Brice Courcelles | STB |
+| St Brieuc | SBC |
+| St Cergues Les Voirons | SCG |
+| St Cheron | SCW |
+| St Christophe(Aveyron) | SIH |
+| St Clement Laronxe | SCX |
+| St Cloud | SCD |
+| St Cyprien Arenes | TEW |
+| St Cyr | SCR |
+| St Cyr En Val La Source | SCV |
+| St Denis Jargeau | SDJ |
+| St Denis Pres Catus | SDP |
+| St Denis Pres Martel | SDM |
+| St Die | SD |
+| St Dizier | SDZ |
+| St Emilion | SEI |
+| St Erme | SER |
+| St Etienne De Baigorry | SDB |
+| St Etienne De Montluc | SDQ |
+| St Etienne Du Rouvray | SDR |
+| St Etienne Ep Sirops | XEN |
+| St Eulien | STW |
+| St Florent Sur Cher | SFT |
+| St Gaudens | SGD |
+| St Genies De Malgoires | XGE |
+| St Genouph | SCO |
+| St Geours | SGQ |
+| St Germain Du Puy | SGP |
+| St Germain En Laye Bel Air Fou | GRM |
+| St Germain Gc | SGM |
+| St Germain Les Belles | SGN |
+| St Germain St Remy | SMK |
+| St Germain Sur Ille | SMW |
+| St Gervais-Les-Bains-Le F. | SGB |
+| St Gildas Des Bois | SOK |
+| St Gilles Croix De Vie | SGV |
+| St Hilaire Au Temple | SHT |
+| St Hilaire Brizambourg | SBZ |
+| St Hilaire De Brethmas | SHB |
+| St Ingbert | XSI |
+| St Jacques De La L.-La Janais | SJJ |
+| St Jean D'angely | SJA |
+| St Jean De Braye | SJK |
+| St Jean De Luz Ciboure | SJZ |
+| St Jean De Maurienne Arvan | SJM |
+| St Jean De Sauves | SJD |
+| St Jean Pied De Port | SJP |
+| St Jory | SJY |
+| St Julien Les Villas | SJN |
+| St Julien Sur Garonne | JUG |
+| St Junien | SJU |
+| St Just St Rambert | SJR |
+| St Leonard De Noblat | SLE |
+| St Leonard Vosges | SLR |
+| St Lo | SLO |
+| St Loubes | SIT |
+| St Louis Haut Rhin | STL |
+| St Macaire | SNW |
+| St Maixent (Deux Sevres) | SMX |
+| St Malo | SM |
+| St Mariens St Yzan | SMS |
+| St Mars La Briere | SRL |
+| St Martin De Bouillac | SBI |
+| St Martin D'etampes | SME |
+| St Martin Du Touch | SMT |
+| St Martory | SYM |
+| St Mathurin | SNZ |
+| St Maur Sur Indre | SRR |
+| St Medard De Guiz. | SMZ |
+| St Medard D'eyrans | SYS |
+| St Meen Le Grand | SMG |
+| St Mesmin | SIM |
+| St Mesmin Le Vieux | SIX |
+| St Michel Notre Dame | SHL |
+| St Michel Sur Charente | SMC |
+| St Michel Sur Meurthe | SSM |
+| St Michel Sur Orge | SHO |
+| St Nazaire | SN |
+| St Nom La Br. Foret De Marly | SNB |
+| St Ouen Du Breuil | SOB |
+| St Ouen L Aumone L Eglise | XOA |
+| St Pal St Romain | SRM |
+| St Paterne | SPN |
+| St Patrice | XPR |
+| St Paul De Fenouillet | SPF |
+| St Piat | SPI |
+| St Pierre D'aurillac | SPX |
+| St Pierre Des Corps | SP |
+| St Pierre Du Vauvray | SPY |
+| St Pierre La Cour | SPC |
+| St Pierre Sur Dives | SPD |
+| St Pol De Leon | SPL |
+| St Quentin En Yvelines | SQY |
+| St Remy Les Chevreuses | SNM |
+| St Sauveur Chateauneuf | SAF |
+| St Savinien Sur Charente | SNH |
+| St Saviol | SSV |
+| St Sebastien | SBF |
+| St Seurin Sur L'isle | SUN |
+| St Sever (Calvados) | SSX |
+| St Simeon | SSJ |
+| St Sulpice Izon | IZ |
+| St Sulpice Lauriere | SSL |
+| St Sulpice(Tarn) | SST |
+| St Thegonnec | STH |
+| St Vaast Bosvillei | SVA |
+| St Valery En Caux | SVY |
+| St Varent | STV |
+| St Victor | SIC |
+| St Victurnien | SIV |
+| St Vincent De Tyrosse | SVT |
+| St Yrieix | SYX |
+| St.Etienne Carnot | SEO |
+| St.Etienne Pont De L'ane | SEA |
+| Stade De France St Denis | SFD |
+| Stains | STI |
+| Ste Christie | SHR |
+| Ste Colombe Les Vienne St R | SCE |
+| Ste Eulalie Carbon B. | SEK |
+| Ste Foy La Grande | SFY |
+| Ste Gauburge | SGG |
+| Ste Genevieve Des Bois | SXG |
+| Ste Luce | SUJ |
+| Ste Maure Noyant | SYT |
+| Ste Menehould | SMN |
+| Ste Pazanne | SPZ |
+| Steenbecque | SBQ |
+| Steinbourg | SNG |
+| Stenay | STY |
+| Stiring Wendel | SW |
+| Stockem | SKM |
+| Stockport | SRT |
+| Stolberg | KST |
+| Strasbourg | SG |
+| Strasbourg Cronenbourg | STC |
+| Strasbourg Koenigshoffen | KNF |
+| Strasbourg Neudorf | SNF |
+| Strasbourg Port Du Rhin | SRH |
+| Strazeele | STZ |
+| Stuttgart | STG |
+| Sucy Bonneuil | SUB |
+| Suevres | SVK |
+| Suippes | SUI |
+| Sully Prs 21 | SYL |
+| Sully Sur Loire | SUL |
+| Surdon | SDN |
+| Suresnes Mont Valerien | SMV |
+| Suresnes Puteaux | SRS |
+| Surgeres | SGE |
+| Survilliers Fosses | SUR |
+| Sury Le Comtal | SYC |
+| Tacoignieres Richebourg | TAE |
+| Tain L Hermitage - Tournon | TAI |
+| Talizat | TZT |
+| Tamaris | TAA |
+| Tamnay Chatillon | TCH |
+| Tanlay | TAL |
+| Tanus | TAN |
+| Tarare | TAR |
+| Tarascon | TCN |
+| Tarascon Sur Ariege | TRC |
+| Tarbes | TS |
+| Tassin | TAS |
+| Tavaux | TAV |
+| Tavaux - Solvay Ep | TAW |
+| Taverny | TVY |
+| Templeuve | TEM |
+| Tencin Theys | TCY |
+| Tende | TND |
+| Tendron | TDN |
+| Tergnier | TGR |
+| Terrasson | TRS |
+| Tessenderlo | TSO |
+| Tessonnieres | TES |
+| Tgv Haute Picardie | HPI |
+| Thann | THA |
+| Thaon | TAO |
+| Thedirac Teyrilles | TDC |
+| Theillay(Loir Et Cher) | THY |
+| Thennelieres | THR |
+| Thenon | THN |
+| Theoule Sur Mer | THM |
+| Thiaucourt | THU |
+| Thiel Sur Acolin | TCO |
+| Thiennes | TEE |
+| Thiers | THI |
+| Thieux Nantouillet | TNT |
+| Thiezac | TZC |
+| Thionville | THL |
+| Thiviers | TIV |
+| Thonon Les Bains | THO |
+| Thouare | THE |
+| Thouars | TH |
+| Thourotte | TOE |
+| Thun | TN |
+| Thuret | THT |
+| Tieffenbach Struth | TFF |
+| Tierce | TCE |
+| Tiercelet Villers La Montagne | TIE |
+| Tillieres | TLS |
+| Tincques | TIN |
+| Tonnay Charente | TNC |
+| Tonneins | TON |
+| Tonnerre Lgv Prs 16 | TNN |
+| Torcy | TOC |
+| Torino Porta Susa | TSU |
+| Toul | TL |
+| Toulon | TLN |
+| Toulouse Matabiau | TE |
+| Toulouse Raynal | TLR |
+| Tourcoing | TG |
+| Tournai | TNA |
+| Tournan | TOU |
+| Tournay Htes Pyrenees | TRY |
+| Tournemire Roquefort | TEO |
+| Tournes | TOR |
+| Tournon | TRO |
+| Tournus | TOS |
+| Tours | TO |
+| Toury | TY |
+| Tra3 - La Trinite-Victor | TVR |
+| Tra3 - Trappes Voyageurs | TVO |
+| Tracy Sancerre | TAY |
+| Trappes | TRA |
+| Trebes | TBS |
+| Trementines | TMT |
+| Tressin | TSN |
+| Trets | TTS |
+| Treves | TRR |
+| Treves Burel | TBU |
+| Tricot | TT |
+| Triel Sur Seine | TSS |
+| Trilport | TLP |
+| Trith St Leger | TSL |
+| Trois Puits | TRT |
+| Trouville Deauville | TD |
+| Troyes | TR |
+| Tulle | TUL |
+| Tullins Fures | TLE |
+| Turckheim | TKM |
+| Turenne | TUR |
+| Turin | TNO |
+| Uchaud | UCD |
+| Uckange | UCK |
+| Ugine | UGI |
+| Ulm Hbf | ULM |
+| Ur Les Escaldes | URL |
+| Urcay | UCY |
+| Urmatt | URM |
+| Ussac | USS |
+| Ussel | U |
+| Ustaritz | USZ |
+| Uzel | UZE |
+| Uzerche | UE |
+| Vaas | VAH |
+| Vaires | VAI |
+| Val D Europe | VOP |
+| Val D'argenteuil | VDA |
+| Val De Fontenay | VDF |
+| Val De Reuil | VDR |
+| Valencay | VNY |
+| Valence D'agen | VCD |
+| Valence Tgv | VCV |
+| Valence Ville | VCE |
+| Valenciennes | VS |
+| Valenton | VON |
+| Valergues Lansargues | VGU |
+| Valleroy Moineville | VOY |
+| Vallon | VLL |
+| Vallorbe | VLB |
+| Vallorcine | VLO |
+| Valmondois | VMD |
+| Valmy | VLY |
+| Valognes | VAL |
+| Vandieres | VNU |
+| Vannes | VAN |
+| Vanves Malakoff | VMK |
+| Varades St Florent Le Vieil | VDE |
+| Varangeville St Nicolas | VRA |
+| Varennes Le Grand | VAD |
+| Varennes Sur  | VAA |
+| Varetz | VEZ |
+| Varilhes | VIH |
+| Vars | VSH |
+| Vauboyen | VBO |
+| Vaugris | VGR |
+| Vaumoise | VAU |
+| Vauvert | VAT |
+| Vaux En Bugey | VEB |
+| Vaux Et Chantegrue | VAE |
+| Vaux Sous Aubigny | VXY |
+| Vauxaillon | VXL |
+| Vauzelles | VZE |
+| Vayrac | VAY |
+| Vayres | VYR |
+| Veauche Saint Galmier | SGL |
+| Velaines | VEL |
+| Velars | VLA |
+| Velines | VLN |
+| Vendenheim | VHM |
+| Vendeuvre Aube | VUV |
+| Vendeuvre Jort | VEJ |
+| Vendome | VDM |
+| Vendome Tgv | VDT |
+| Venerque Le Vernet | VQV |
+| Venise | VEN |
+| Venissieux | VSX |
+| Verberie | VBE |
+| Vercelli | VRC |
+| Verdun | VDN |
+| Verdun Sur Le Doubs | VUS |
+| Veretz Montlouis | VZM |
+| Vergeze Codognan | VZC |
+| Vergigny Prs 15 | VEG |
+| Vermenton | VEE |
+| Vern | VRN |
+| Vernaison | VNI |
+| Vernayaz Mc | VYZ |
+| Vernet D'ariege | VVT |
+| Verneuil L'etang | VNL |
+| Verneuil Sur Avre | VEA |
+| Verneuil Sur Vienne | VSV |
+| Vernier-Meyrin Cargo | VEM |
+| Vernon (Eure) | VN |
+| Vernou Sur Seine | VSS |
+| Vernouillet Verneuil | VET |
+| Verrey | VRR |
+| Versailles (R.D.) | VRD |
+| Versailles Chantiers | VC |
+| Versailles-Chantiers | VCH |
+| Versailles-Rg-Chateau | VRG |
+| Versigny | VSI |
+| Vert Galant | VGL |
+| Vertaizon | VTZ |
+| Vertou | VT |
+| Vertus | VTS |
+| Vervins | VEV |
+| Verzeille | VRZ |
+| Vesoul | VES |
+| Vestric | VTC |
+| Veuxaulles | VXH |
+| Veynes Devoluy | VDY |
+| Vezac Beynac | VZB |
+| Vezelise | VZL |
+| Vezenobres | VZN |
+| Vias | VA |
+| Viazac | VIZ |
+| Vic Le Comte | VLC |
+| Vic Sur Cere | VIC |
+| Vichy | VHY |
+| Vic-Sur-Aisne | VSA |
+| Vidauban | VUB |
+| Vieilleville | VVL |
+| Vielmur Sur Agout | VUG |
+| Vienne | VIE |
 | Vienne (Wien) | WI |
+| Vierzon | V |
+| Vierzon Forges | VFO |
+| Vierzy | VYA |
+| Viescamp Sous Jalles | VAJ |
+| Vieuvicq Montigny | VEC |
+| Vieux Thann | VXT |
+| Vif | VIF |
+| Vigeois | VGE |
+| Vignacourt | VGT |
+| Vignats | VGG |
+| Vigneux Sur Seine | VGS |
+| Vignory | VNR |
+| Viguerat | VIQ |
+| Villars | VRS |
+| Villars Les Dombes | VLD |
+| Villedieu Les Poeles | VDS |
+| Villefort | VLF |
+| Villefranche (Allier) | VID |
+| Villefranche De Lauragais | VDL |
+| Villefranche De Rouergue | VR |
+| Villefranche Du Per. | VPD |
+| Villefranche Sur Cher | VSC |
+| Villefranche Sur Mer | VFH |
+| Villefranche Sur Saone | VIS |
+| Villefranche-Vernet-L.B. | VVB |
+| Villefrancoeur | VCO |
+| Villemomble | VIL |
+| Villenave D'ornon | VIO |
+| Villeneuve D'aveyron | VLV |
+| Villeneuve D'ingre | VVD |
+| Villeneuve La Guyard | VVG |
+| Villeneuve Le Roi | VRI |
+| Villeneuve Les Avignon | VAV |
+| Villeneuve Les Beziers | VBZ |
+| Villeneuve Les Maguelone | VLM |
+| Villeneuve St Georges (Bv) | VSB |
+| Villeneuve Sur Allier | VVR |
+| Villeneuve Sur Yonne | VYE |
+| Villeneuve-Prairie | VP |
+| Villeneuve-Triage | VSG |
+| Villeparisis | VII |
+| Villepinte | VPN |
+| Villepreux Les Clayes | VEP |
+| Villereversure | VEU |
+| Villers Bretonneux | VLT |
+| Villers Les Pots | VLP |
+| Villers Sur Mer | VIU |
+| Villeurbanne | VLE |
+| Villevert Neuville | VVN |
+| Villiers Le Bel Gonesse | VIB |
+| Villiers Le Sec | VLS |
+| Villiers Neauphle Pontch. | VEH |
+| Villiers St Georges | VLG |
+| Villiers Sur Marne | VSM |
+| Vimy | VMY |
+| Vinay | VNA |
+| Vinca | VCA |
+| Vincelles | VCL |
+| Vincey | VCY |
+| Vintimille | VIN |
+| Vire | VIR |
+| Vireux Molhain | VX |
+| Virieu Le Grand-Belley | VRU |
+| Virieu Sur Bourbre | VRB |
+| Viroflay (R.D.) | VFD |
+| Viroflay (R.G.) | VFG |
+| Viry | VIY |
+| Visp | VSP |
+| Vitre | VTE |
+| Vitry En Artois | VYN |
+| Vitry La Ville | VYV |
+| Vitry Le Francois | VYF |
+| Vitry Sur Seine | VY |
+| Vittel | VIT |
+| Viviez Decazeville | VZ |
+| Vivoin Beaumont | VBT |
+| Vivonne | VIV |
+| Vivy | VVY |
+| Vizzavona | VZZ |
+| Voiron | VOR |
+| Voivres | VOI |
+| Volklingen | VKG |
+| Volvic | VOL |
+| Vonnas | VNS |
+| Voreppe | VPE |
+| Vorey | VOE |
+| Vougeot-Gilly Les Citeaux | VOT |
+| Voujeaucourt | VJT |
+| Voutre | VOU |
+| Vouziers | VZS |
+| Voves | VO |
+| Vrigne Meuse | VRM |
+| Walbourg | WAL |
+| Wallers | WS |
+| Wambrechies | WB |
+| Wannehain | WHP |
+| Wardrecques | WAD |
+| Waregem | WRM |
+| Waterloo International | LWO |
+| Watten Eperlecques | WAP |
+| Wattignies Templemars | WAT |
+| Wavrin | WAV |
+| Wembley | WEM |
+| Wesserling | WES |
+| Wimille Wimereux | WWX |
+| Wingen Sur Moder | WM |
+| Wissembourg | WBG |
+| Wissous | WIS |
+| Wittelsheim | WTS |
+| Woelfling Les Sarreguemines | WFS |
+| Woincourt | WT |
+| Woippy | WPY |
+| Worth (Luedenscheid) | WOR |
+| Xertigny | XTY |
+| Xeuilley | XEU |
+| Ychoux | YX |
 | Yutz | YUT |
-| Zurich | ZU |
+| Yvetot | YVT |
+| Yvre L'eveque | YEE |
+| Zeebrugge | ZEE |
 | Zornhoff Monswiller | ZW |
-| Albens | ABN |
-| Amabazac | ABZ |
-| Andilly | ADY |
-| Auchy Les Hesdin | AHH |
-| Aillevillers | AI |
-| Aiguillon | AIN |
-| Amberieu | AMB |
-| Agen | AN |
+| Zoufftgen ( Ex Bv) | ZFF |
+| Zurich | ZU |
 
